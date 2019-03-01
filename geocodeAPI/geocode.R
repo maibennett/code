@@ -2,10 +2,10 @@ rm(list = ls())
 cat("\014")
 
 ##########################################################
-##### Function to reverse geocode addresses from lat/lon
+##### Function to geocode lat/lon from addresses
 ##########################################################
 
-# Disclaimer: Code originally created by Kei Saito and slightly adapted to get full addresses
+# Disclaimer: Code originally created by Kei Saito and adapted geocode
 # Source: https://blog.exploratory.io/reverse-geocoding-part-2-using-google-maps-api-with-r-e676db36fee6
 
 library(stringr)
@@ -23,12 +23,11 @@ data <- read.csv(paste0(dir_data,"data/", infile, '.csv'), stringsAsFactors = FA
 #If not, comment out
 
 #slice = 341001:(381000)
-
 #interval = "341001_381000"
-
 #data = data[slice,]
 
-#Generate the complete address for the data(separated each space by a + sign)
+#Generate the complete address for the data(separated each space by a + sign) --> 
+#In this case, full addresses were separated in different variables
 data$Address = paste0(str_replace(data$STD_ADDR," ","+"),",+",data$STD_CITY,",+",data$STD_ST,"+",data$STD_ZIP5)
 
 #Generate the complete address for the data (as one would type it)
@@ -46,8 +45,8 @@ addresses = data$Address
 addresses = paste0(addresses, ",+USA")
 head(addresses)
 
-# INSERT YOUR API KEY HERE IF YOU HAVE ONE (This one is Peter's)
-apiKey = "AIzaSyBVTBfn9v6ohcB7RLiJ1i4tLPuDGjMSFOE"
+# INSERT YOUR API KEY HERE:
+apiKey = ""
 
 # address: formatted US address according to USPS standards
 # id: ids for the observations (to merge with data afterwords)
