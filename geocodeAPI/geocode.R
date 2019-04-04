@@ -14,7 +14,7 @@ library(stringr)
 dir_data = paste0(dirname(rstudioapi::getSourceEditorContext()$path),"/")
 
 #Change the name of the file
-infile <- "all_mems"
+infile <- "input"
 
 #Import data
 data <- read.csv(paste0(dir_data,"data/", infile, '.csv'), stringsAsFactors = FALSE)
@@ -22,8 +22,8 @@ data <- read.csv(paste0(dir_data,"data/", infile, '.csv'), stringsAsFactors = FA
 #If we are not using all the data (e.g. running different Ap Keys, slice the data with this vector)
 #If not, comment out
 
-#slice = 341001:(381000)
-#interval = "341001_381000"
+#slice = 1:1000
+#interval = "1_1000"
 #data = data[slice,]
 
 #Generate the complete address for the data(separated each space by a + sign) --> 
@@ -35,9 +35,6 @@ data$Address2 = paste0(data$STD_ADDR,", ",data$STD_CITY,", ",data$STD_ST," ",dat
 
 #Generate a dummy variable to identify if the address is empty or not (will not run geocode on this)
 data$empty_address = as.numeric(data$STD_ADDR=="")
-
-#Save the edited data:
-#write.csv(data, paste0(dir_data,"data/all_mems_ed.csv"))
 
 # get the address list, and append "USA" to the end to increase accuracy 
 # (change or remove this if your address already include a country etc.)
@@ -107,13 +104,13 @@ find_latlon <- function(address, id, empty_address, apiKey = NULL) {
   
   # Return the result vector.
   result <- as.data.frame(result, stringsAsFactors=FALSE)
-  names(result) <- c("participant_code","mbr_dob","FormattedAddress","lat","lon")
+  names(result) <- c("id","FormattedAddress","lat","lon")
   
   return(list(result = result, request = requests))
 }
 
 #Call the function
-latlon <- find_latlon(address = addresses, id = cbind(data$PARTICIPANT_CODE, data$MBR_DOB), 
+latlon <- find_latlon(address = addresses, id = data$id, 
                       empty_address = data$empty_address,apiKey = apiKey)
 
-save(latlon, data, file = paste0(dir_data,"data/latlon",interval,".Rdata"))
+save(latlon, data, file = paste0(dir_data,"data/latlon.Rdata"))
