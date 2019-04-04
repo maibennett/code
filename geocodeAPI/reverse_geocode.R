@@ -15,11 +15,8 @@ dir_data = paste0(dirname(rstudioapi::getSourceEditorContext()$path),"/")
 infile <- "input"
 data <- read.csv(paste0(dir_data, infile, '.csv'), stringsAsFactors = FALSE)
 
-# INSERT YOUR API KEY HERE IF YOU HAVE ONE
+# INSERT YOUR API KEY HERE
 apiKey = ""
-
-# Function to return address from lat/lon using Google's geocode API.
-# (2,500 requests a day are allowed for free. Check the API for more information)
 
 # long: vector of longitudes
 # lat: vector of latitudes
