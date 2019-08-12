@@ -8,6 +8,6 @@ Folders:
 Treatment" (Bennett & Bergman, 2019)
 3) Template_Matching: Code and data for simulation study of the paper "Building Representative Matched Samples with Multi-valued Treatments in Large Observational Studies" (Bennett, Vielma, & Zubizarreta, 2019)
 4) geocodeAPI: Reverse geocode function to get addresses (and its elements) from lat/lon, using Google's geocode API (code adapted from Kei Saito)
-5) geographic_characterization: Python script (for ArcGIS) to characterize a geographic area (e.g. school districts) using census tract level data.
+5) geographic_characterization: Python script (for ArcGIS) to characterize a geographic area (e.g. school districts) using census tract level data. Stata dofile to analyze data as well.
 
 [Readme under construction]
