@@ -30,34 +30,18 @@ district_file = directory +  data_folder + "\\FL_2018_unsd\\FL_2018_unsd.shp"
 district_file_arcgis = "FL_dist"
 
 # Use a projection so we can estimate areas, etc.
-try:
-   sr = arcpy.SpatialReference('USA Contiguous Albers Equal Area Conic')
-   dessr = arcpy.Describe(district_file)
-   srr = dessr.spatialReference
-   arcpy.AddMessage("Your previous projection: %s" % (srr))
-   arcpy.DefineProjection_management(district_file, sr)
-   arcpy.AddMessage("Your process finished...")
-except:
-   arcpy.AddMessage("Cant trasformed new projection")
-   
+sr = arcpy.SpatialReference('USA Contiguous Lambert Conformal Conic')
+arcpy.Project_management(district_file, district_file, sr)
+
 #Make feature layer (to add FIDs if they are not there already)
 arcpy.MakeFeatureLayer_management(district_file, district_file_arcgis)
-
 
 # Data downloaded from: https://www2.census.gov/geo/tiger/TIGER_DP/2015ACS/
 #Florida census tract data 2015:
 ct_file = directory + data_folder + "\\ACS_2015_5YR_BG_12_FLORIDA.gdb\\ACS_2015_5YR_BG_12_FLORIDA"
 ct_file_arcgis = "FL_ct"
 
-try:
-   sr = arcpy.SpatialReference('USA Contiguous Albers Equal Area Conic')
-   dessr = arcpy.Describe(ct_file)
-   srr = dessr.spatialReference
-   arcpy.AddMessage("Your previous projection: %s" % (srr))
-   arcpy.DefineProjection_management(ct_file, sr)
-   arcpy.AddMessage("Your process finished...")
-except:
-   arcpy.AddMessage("Cant trasformed new projection")
+arcpy.Project_management(ct_file, ct_file, sr)
    
 arcpy.MakeFeatureLayer_management(ct_file, ct_file_arcgis)
 
