@@ -25,29 +25,33 @@ data_folder = "\\data"
 # Data downloaded from: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2018&layergroup=School+Districts
 # Florida unified school district 2018
 district_file = directory +  data_folder + "\\FL_2018_unsd\\FL_2018_unsd.shp"
+# Projected file (new)
+district_file_p = directory +  data_folder + "\\FL_2018_unsd\\FL_2018_unsd_p.shp"
 
 # Name in arcgis
 district_file_arcgis = "FL_dist"
 
 # Use a projection so we can estimate areas, etc.
-sr = arcpy.SpatialReference('USA Contiguous Lambert Conformal Conic')
-arcpy.Project_management(district_file, district_file, sr)
+sr = arcpy.SpatialReference('USA Contiguous Albers Equal Area Conic')
+arcpy.Project_management(district_file, district_file_p, sr)
 
 #Make feature layer (to add FIDs if they are not there already)
-arcpy.MakeFeatureLayer_management(district_file, district_file_arcgis)
+arcpy.MakeFeatureLayer_management(district_file_p, district_file_arcgis)
 
 # Data downloaded from: https://www2.census.gov/geo/tiger/TIGER_DP/2015ACS/
 #Florida census tract data 2015:
 ct_file = directory + data_folder + "\\ACS_2015_5YR_BG_12_FLORIDA.gdb\\ACS_2015_5YR_BG_12_FLORIDA"
+# Projected file (new)
+ct_file_p = directory + data_folder + "\\ACS_2015_5YR_BG_12_FLORIDA.gdb\\ACS_2015_5YR_BG_12_FLORIDA"
 ct_file_arcgis = "FL_ct"
 
-arcpy.Project_management(ct_file, ct_file, sr)
+arcpy.Project_management(ct_file, ct_file_p, sr)
    
-arcpy.MakeFeatureLayer_management(ct_file, ct_file_arcgis)
+arcpy.MakeFeatureLayer_management(ct_file_p, ct_file_arcgis)
 
 #Calculate area of each census tract:
-arcpy.AddField_management(ct_file, "area", "DOUBLE")
-arcpy.CalculateField_management(ct_file, "area","!shape.area!", "PYTHON")
+arcpy.AddField_management(ct_file_p, "area", "DOUBLE")
+arcpy.CalculateField_management(ct_file_p, "area","!shape.area!", "PYTHON")
 
 #Use union to merge both the census tract data and the district data:
 dist_ct_file = directory +  data_folder + "\\FL_districts_ct.shp"
