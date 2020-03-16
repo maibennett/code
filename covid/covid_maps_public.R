@@ -4,9 +4,13 @@ rm(list = ls())
 #Clear the console
 cat("\014")
 
+#################################################################
+### Name: Create maps for Santiago and Chile according to date
+### Creator: Magdalena Bennett
+### Date: March 16, 2020
+#################################################################
 
-
-dir_data = ## Put the folder for your data here ###
+dir_data = ## Put the folder for your data here
 
 setwd(paste0(dir_data,"figures/")) # If you want, you can set a working directory.
 
