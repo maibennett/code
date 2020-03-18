@@ -15,7 +15,7 @@ library("ggmap")
 library("dplyr")
 
 ### Input start day (March) and end day #####
-start = 6
+start = 3
 end = 17
 #############################################
 
