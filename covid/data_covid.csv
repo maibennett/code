@@ -1,202 +1,202 @@
 hospital,region,lat,lon,edad,sexo,date,id,day
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,54,F,3/6/2020,1,0
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,40,F,3/6/2020,2,0
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,58,M,3/6/2020,3,0
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,17,M,3/6/2020,4,0
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,83,F,3/6/2020,5,0
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,14,M,3/6/2020,6,0
-Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,42,M,3/9/2020,7,3
-Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,40,M,3/10/2020,8,4
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,31,F,3/10/2020,9,4
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,32,F,3/10/2020,10,4
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,58,F,3/11/2020,11,5
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,48,F,3/11/2020,12,5
-Hospital de Carabineros,Metropolitana,-33.4498021,-70.6111417,23,F,3/11/2020,13,5
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,26,M,3/11/2020,14,5
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,46,F,3/12/2020,15,6
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,67,M,3/12/2020,16,6
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,31,F,3/12/2020,17,6
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,46,F,3/12/2020,18,6
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,23,M,3/12/2020,19,6
-Clinica Tabancura,Metropolitana,-33.3823434,-70.5376673,34,F,3/12/2020,20,6
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,29,F,3/12/2020,21,6
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,28,F,3/12/2020,22,6
-Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,21,F,3/12/2020,23,6
-Clinica Red Salud Santiago,Metropolitana,-33.4574387,-70.7038119,35,M,3/13/2020,24,7
-Clinica Tabancura,Metropolitana,-33.3823434,-70.5376673,50,F,3/13/2020,25,7
-Clinica Tabancura,Metropolitana,-33.3823434,-70.5376673,,M,3/13/2020,26,7
-Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,31,M,3/13/2020,27,7
-Clinica Indisa,Metropolitana,-33.4214054,-70.6206614,47,M,3/13/2020,28,7
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,39,M,3/13/2020,29,7
-Hospital de Talca,Maule,-35.4270536,-71.6483745,33,M,3/6/2020,30,0
-Hospital de Talca,Maule,-35.4270536,-71.6483745,33,F,3/6/2020,31,0
-Hospital de Talca,Maule,-35.4270536,-71.6483745,39,M,3/7/2020,32,1
-Hospital de Talca,Maule,-35.4270536,-71.6483745,2,F,3/9/2020,33,3
-Hospital de Talca,Maule,-35.4270536,-71.6483745,21,M,3/10/2020,34,4
-Hospital de Talca,Maule,-35.4270536,-71.6483745,24,F,3/11/2020,35,5
-Hospital de Curico,Maule,-34.9846381,-71.2350926,29,M,3/11/2020,36,5
-Hospital de Talca,Maule,-35.4270536,-71.6483745,38,F,3/13/2020,37,7
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,29,M,3/12/2020,38,6
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,16,M,3/13/2020,39,7
-Hospital de Los Angeles,Biobio,-37.4661186,-72.3596596,38,M,3/9/2020,40,3
-Hospital G. Grant Benavente,Biobio,-36.8249391,-73.0401338,34,M,3/13/2020,41,7
-Clinica Universitaria,Biobio,-36.8004670,-73.0741082,32,M,3/13/2020,42,7
-Hospital de Puerto Montt,Los Lagos,-41.4491726,-72.9594584,20,F,3/8/2020,43,2
-Hospital Carlos Cisternas Calama,Antofagasta,-22.4457586,-68.9203724,58,F,3/14/2020,44,8
-Hospital Carlos Cisternas Calama,Antofagasta,-22.4457586,-68.9203724,63,M,3/14/2020,45,8
-Hospital de Copiapo,Atacama,-27.3842181,-70.3308447,50,M,3/14/2020,46,8
-Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,37,F,3/14/2020,47,8
-Hospital Clinico UC,Metropolitana,-33.4423026,-70.6427714,28,M,3/14/2020,48,8
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,29,M,3/14/2020,49,8
-Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,28,M,3/14/2020,50,8
-Clinica Indisa,Metropolitana,-33.4214054,-70.6206614,53,M,3/14/2020,51,8
-Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,38,M,3/14/2020,52,8
-Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,55,F,3/14/2020,53,8
-Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,51,F,3/14/2020,54,8
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,23,F,3/14/2020,55,8
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,36,M,3/14/2020,56,8
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,58,F,3/14/2020,57,8
-Hospital de Talca,Maule,-35.4270536,-71.6483745,53,M,3/14/2020,58,8
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,23,M,3/14/2020,59,8
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,23,M,3/14/2020,60,8
-Hospital de Aysen,Aysen,-45.2066761,-72.6862988,83,M,3/14/2020,61,8
-Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,42,M,3/15/2020,62,9
-Hospital del Trabajador,Metropolitana,-33.4435873,-70.6346943,49,F,3/15/2020,63,9
-Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,29,M,3/15/2020,64,9
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,61,M,3/15/2020,65,9
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,15,F,3/15/2020,66,9
-Megasalud SA,Metropolitana,-33.3827567,-70.5373369,,M,3/15/2020,67,9
-Mutual de Seguridad,Metropolitana,-33.4388589,-70.6402958,42,M,3/15/2020,68,9
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,48,F,3/15/2020,69,9
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,45,M,3/15/2020,70,9
-Clinica Vespucio,Metropolitana,-33.5190455,-70.5992432,29,M,3/15/2020,71,9
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,24,M,3/15/2020,72,9
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,45,M,3/15/2020,73,9
-Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,70,M,3/15/2020,74,9
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,58,F,3/15/2020,75,9
-Clinica Ciudad del Mar,Valparaiso,-33.0097842,-71.5517663,34,M,3/16/2020,76,10
-Hospital San Juan de Dios,Metropolitana,-33.4430708,-70.6819039,43,M,3/16/2020,77,10
-Hospital San Juan de Dios,Metropolitana,-33.4430708,-70.6819039,45,F,3/16/2020,78,10
-Hospital del Trabajador,Metropolitana,-33.4435873,-70.6346943,38,F,3/16/2020,79,10
-Hospital del Profesor,Metropolitana,-33.4569058,-70.7055030,53,F,3/16/2020,80,10
-Bioxell Laboratorio Clinico,Metropolitana,-33.3992988,-70.5767076,38,F,3/16/2020,81,10
-Megasalud SA,Metropolitana,-33.3827567,-70.5373369,32,F,3/16/2020,82,10
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,39,F,3/16/2020,83,10
-Mutual de Seguridad,Metropolitana,-33.4388589,-70.6402958,35,M,3/16/2020,84,10
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,32,F,3/16/2020,85,10
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,31,M,3/16/2020,86,10
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,46,M,3/16/2020,87,10
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,35,F,3/16/2020,88,10
-Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,63,F,3/16/2020,89,10
-Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,62,F,3/16/2020,90,10
-Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,62,F,3/16/2020,91,10
-Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,52,M,3/16/2020,92,10
-Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,34,F,3/16/2020,93,10
-Clinica Davila,Metropolitana,-33.4275201,-70.6489982,33,F,3/16/2020,94,10
-Clinica Davila,Metropolitana,-33.4275201,-70.6489982,42,M,3/16/2020,95,10
-Clinica Davila,Metropolitana,-33.4275201,-70.6489982,29,F,3/16/2020,96,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,28,M,3/16/2020,97,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,27,F,3/16/2020,98,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,40,M,3/16/2020,99,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,24,F,3/16/2020,100,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,49,F,3/16/2020,101,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,,F,3/16/2020,102,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,33,M,3/16/2020,103,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,29,F,3/16/2020,104,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,59,M,3/16/2020,105,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,13,M,3/16/2020,106,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,33,M,3/16/2020,107,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,33,M,3/16/2020,108,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,45,M,3/16/2020,109,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,41,M,3/16/2020,110,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,29,F,3/16/2020,111,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,37,M,3/16/2020,112,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,40,F,3/16/2020,113,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,58,M,3/16/2020,114,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,31,F,3/16/2020,115,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,48,M,3/16/2020,116,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,41,M,3/16/2020,117,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,45,F,3/16/2020,118,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,33,F,3/16/2020,119,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,54,F,3/16/2020,120,10
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,40,F,3/16/2020,121,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,27,F,3/16/2020,122,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,23,F,3/16/2020,123,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,39,F,3/16/2020,124,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,41,F,3/16/2020,125,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,43,M,3/16/2020,126,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,49,F,3/16/2020,127,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,30,F,3/16/2020,128,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,35,F,3/16/2020,129,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,46,F,3/16/2020,130,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,31,F,3/16/2020,131,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,40,M,3/16/2020,132,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,44,F,3/16/2020,133,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,42,F,3/16/2020,134,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,43,F,3/16/2020,135,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,39,F,3/16/2020,136,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,26,F,3/16/2020,137,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,46,M,3/16/2020,138,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,41,F,3/16/2020,139,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,51,M,3/16/2020,140,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,31,F,3/16/2020,141,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,1,F,3/16/2020,142,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,5,F,3/16/2020,143,10
-Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,45,M,3/16/2020,144,10
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,29,F,3/16/2020,145,10
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,38,M,3/16/2020,146,10
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,26,M,3/16/2020,147,10
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,42,F,3/16/2020,148,10
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,38,F,3/16/2020,149,10
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,32,M,3/16/2020,150,10
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,31,M,3/16/2020,151,10
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,24,M,3/16/2020,152,10
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,39,M,3/16/2020,153,10
-Clinica Biobio,Biobio,-36.7892227,-73.0656697,47,F,3/16/2020,154,10
-Hospital Hernan Henriquez Aravena,Araucania,-38.7369966,-72.6018527,35,M,3/16/2020,155,10
-Clinica Alemana Valdivia,Los Rios,-39.8185499,-73.2417066,1,F,3/16/2020,156,10
-Mutual de Seguridad,Metropolitana,-33.4388589,-70.6402958,61,F,3/17/2020,157,11
-Mutual de Seguridad,Metropolitana,-33.4388589,-70.6402958,33,M,3/17/2020,158,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,48,F,3/17/2020,159,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,31,M,3/17/2020,160,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,32,M,3/17/2020,161,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,56,F,3/17/2020,162,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,56,M,3/17/2020,163,11
-Hospital La Florida,Metropolitana,-33.5140393,-70.6020920,75,F,3/17/2020,164,11
-Hospital del Salvador,Metropolitana,-33.4369475,-70.6270727,47,F,3/17/2020,165,11
-Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,36,M,3/17/2020,166,11
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,45,M,3/17/2020,167,11
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,38,F,3/17/2020,168,11
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,41,F,3/17/2020,169,11
-Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,29,M,3/17/2020,170,11
-Clinica Davila,Metropolitana,-33.4275201,-70.6489982,57,M,3/17/2020,171,11
-Hospital del Trabajador,Metropolitana,-33.4435873,-70.6346943,43,F,3/17/2020,172,11
-Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,44,F,3/17/2020,173,11
-Hospital Lucio Cordova,Metropolitana,-33.4856429,-70.6475495,50,F,3/17/2020,174,11
-Hospital San juan de Dios,Metropolitana,-33.4430708,-70.6819039,22,F,3/17/2020,175,11
-Hospital San juan de Dios,Metropolitana,-33.4430708,-70.6819039,39,M,3/17/2020,176,11
-Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,43,M,3/17/2020,177,11
-Clinica Vespucio,Metropolitana,-33.5190455,-70.5992432,35,M,3/17/2020,178,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,16,F,3/17/2020,179,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,50,F,3/17/2020,180,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,56,M,3/17/2020,181,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,49,M,3/17/2020,182,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,28,M,3/17/2020,183,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,34,F,3/17/2020,184,11
-Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,73,M,3/17/2020,185,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,33,F,3/17/2020,186,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,29,F,3/17/2020,187,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,43,M,3/17/2020,188,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,27,F,3/17/2020,189,11
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,37,M,3/17/2020,190,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,40,M,3/17/2020,191,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,27,F,3/17/2020,192,11
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,36,M,3/17/2020,193,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,30,F,3/17/2020,194,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,26,F,3/17/2020,195,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,29,M,3/17/2020,196,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,32,M,3/17/2020,197,11
-Hospital de Chillan,Nuble,-36.6096863,-72.1279976,48,M,3/17/2020,198,11
-Clinica de Chillan,Nuble,-36.6097578,-72.1279976,31,F,3/17/2020,199,11
-Clinica Magallanes,Magallanes,-53.1372601,-70.8888159,70,M,3/17/2020,200,11
-Hospital de Punta Arenas,Magallanes,-53.1480972,-70.9503614,23,M,3/17/2020,201,11
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,54,F,3/4/2020,1,1
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,40,F,3/5/2020,2,2
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,58,M,3/6/2020,3,3
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,17,M,3/6/2020,4,3
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,83,F,3/6/2020,5,3
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,14,M,3/6/2020,6,3
+Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,42,M,3/9/2020,7,6
+Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,40,M,3/10/2020,8,7
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,31,F,3/10/2020,9,7
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,32,F,3/10/2020,10,7
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,58,F,3/11/2020,11,8
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,48,F,3/11/2020,12,8
+Hospital de Carabineros,Metropolitana,-33.4498021,-70.6111417,23,F,3/11/2020,13,8
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,26,M,3/11/2020,14,8
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,46,F,3/12/2020,15,9
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,67,M,3/12/2020,16,9
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,31,F,3/12/2020,17,9
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,46,F,3/12/2020,18,9
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,23,M,3/12/2020,19,9
+Clinica Tabancura,Metropolitana,-33.3823434,-70.5376673,34,F,3/12/2020,20,9
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,29,F,3/12/2020,21,9
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,28,F,3/12/2020,22,9
+Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,21,F,3/12/2020,23,9
+Clinica Red Salud Santiago,Metropolitana,-33.4574387,-70.7038119,35,M,3/13/2020,24,10
+Clinica Tabancura,Metropolitana,-33.3823434,-70.5376673,50,F,3/13/2020,25,10
+Clinica Tabancura,Metropolitana,-33.3823434,-70.5376673,,M,3/13/2020,26,10
+Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,31,M,3/13/2020,27,10
+Clinica Indisa,Metropolitana,-33.4214054,-70.6206614,47,M,3/13/2020,28,10
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,39,M,3/13/2020,29,10
+Hospital de Talca,Maule,-35.4270536,-71.6483745,33,M,3/3/2020,30,0
+Hospital de Talca,Maule,-35.4270536,-71.6483745,33,F,3/4/2020,31,1
+Hospital de Talca,Maule,-35.4270536,-71.6483745,39,M,3/7/2020,32,4
+Hospital de Talca,Maule,-35.4270536,-71.6483745,2,F,3/9/2020,33,6
+Hospital de Talca,Maule,-35.4270536,-71.6483745,21,M,3/10/2020,34,7
+Hospital de Talca,Maule,-35.4270536,-71.6483745,24,F,3/11/2020,35,8
+Hospital de Curico,Maule,-34.9846381,-71.2350926,29,M,3/11/2020,36,8
+Hospital de Talca,Maule,-35.4270536,-71.6483745,38,F,3/13/2020,37,10
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,29,M,3/12/2020,38,9
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,16,M,3/13/2020,39,10
+Hospital de Los Angeles,Biobio,-37.4661186,-72.3596596,38,M,3/9/2020,40,6
+Hospital G. Grant Benavente,Biobio,-36.8249391,-73.0401338,34,M,3/13/2020,41,10
+Clinica Universitaria,Biobio,-36.8004670,-73.0741082,32,M,3/13/2020,42,10
+Hospital de Puerto Montt,Los Lagos,-41.4491726,-72.9594584,20,F,3/8/2020,43,5
+Hospital Carlos Cisternas Calama,Antofagasta,-22.4457586,-68.9203724,58,F,3/14/2020,44,11
+Hospital Carlos Cisternas Calama,Antofagasta,-22.4457586,-68.9203724,63,M,3/14/2020,45,11
+Hospital de Copiapo,Atacama,-27.3842181,-70.3308447,50,M,3/14/2020,46,11
+Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,37,F,3/14/2020,47,11
+Hospital Clinico UC,Metropolitana,-33.4423026,-70.6427714,28,M,3/14/2020,48,11
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,29,M,3/14/2020,49,11
+Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,28,M,3/14/2020,50,11
+Clinica Indisa,Metropolitana,-33.4214054,-70.6206614,53,M,3/14/2020,51,11
+Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,38,M,3/14/2020,52,11
+Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,55,F,3/14/2020,53,11
+Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,51,F,3/14/2020,54,11
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,23,F,3/14/2020,55,11
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,36,M,3/14/2020,56,11
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,58,F,3/14/2020,57,11
+Hospital de Talca,Maule,-35.4270536,-71.6483745,53,M,3/14/2020,58,11
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,23,M,3/14/2020,59,11
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,23,M,3/14/2020,60,11
+Hospital de Aysen,Aysen,-45.2066761,-72.6862988,83,M,3/14/2020,61,11
+Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,42,M,3/15/2020,62,12
+Hospital del Trabajador,Metropolitana,-33.4435873,-70.6346943,49,F,3/15/2020,63,12
+Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,29,M,3/15/2020,64,12
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,61,M,3/15/2020,65,12
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,15,F,3/15/2020,66,12
+Megasalud SA,Metropolitana,-33.3827567,-70.5373369,,M,3/15/2020,67,12
+Mutual de Seguridad,Metropolitana,-33.4388589,-70.6402958,42,M,3/15/2020,68,12
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,48,F,3/15/2020,69,12
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,45,M,3/15/2020,70,12
+Clinica Vespucio,Metropolitana,-33.5190455,-70.5992432,29,M,3/15/2020,71,12
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,24,M,3/15/2020,72,12
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,45,M,3/15/2020,73,12
+Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,70,M,3/15/2020,74,12
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,58,F,3/15/2020,75,12
+Clinica Ciudad del Mar,Valparaiso,-33.0097842,-71.5517663,34,M,3/16/2020,76,13
+Hospital San Juan de Dios,Metropolitana,-33.4430708,-70.6819039,43,M,3/16/2020,77,13
+Hospital San Juan de Dios,Metropolitana,-33.4430708,-70.6819039,45,F,3/16/2020,78,13
+Hospital del Trabajador,Metropolitana,-33.4435873,-70.6346943,38,F,3/16/2020,79,13
+Hospital del Profesor,Metropolitana,-33.4569058,-70.7055030,53,F,3/16/2020,80,13
+Bioxell Laboratorio Clinico,Metropolitana,-33.3992988,-70.5767076,38,F,3/16/2020,81,13
+Megasalud SA,Metropolitana,-33.3827567,-70.5373369,32,F,3/16/2020,82,13
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,39,F,3/16/2020,83,13
+Mutual de Seguridad,Metropolitana,-33.4388589,-70.6402958,35,M,3/16/2020,84,13
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,32,F,3/16/2020,85,13
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,31,M,3/16/2020,86,13
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,46,M,3/16/2020,87,13
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,35,F,3/16/2020,88,13
+Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,63,F,3/16/2020,89,13
+Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,62,F,3/16/2020,90,13
+Laboratorio Integramedica,Metropolitana,-33.4442970,-70.6277056,62,F,3/16/2020,91,13
+Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,52,M,3/16/2020,92,13
+Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,34,F,3/16/2020,93,13
+Clinica Davila,Metropolitana,-33.4275201,-70.6489982,33,F,3/16/2020,94,13
+Clinica Davila,Metropolitana,-33.4275201,-70.6489982,42,M,3/16/2020,95,13
+Clinica Davila,Metropolitana,-33.4275201,-70.6489982,29,F,3/16/2020,96,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,28,M,3/16/2020,97,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,27,F,3/16/2020,98,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,40,M,3/16/2020,99,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,24,F,3/16/2020,100,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,49,F,3/16/2020,101,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,,F,3/16/2020,102,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,33,M,3/16/2020,103,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,29,F,3/16/2020,104,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,59,M,3/16/2020,105,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,13,M,3/16/2020,106,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,33,M,3/16/2020,107,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,33,M,3/16/2020,108,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,45,M,3/16/2020,109,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,41,M,3/16/2020,110,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,29,F,3/16/2020,111,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,37,M,3/16/2020,112,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,40,F,3/16/2020,113,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,58,M,3/16/2020,114,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,31,F,3/16/2020,115,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,48,M,3/16/2020,116,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,41,M,3/16/2020,117,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,45,F,3/16/2020,118,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,33,F,3/16/2020,119,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,54,F,3/16/2020,120,13
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,40,F,3/16/2020,121,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,27,F,3/16/2020,122,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,23,F,3/16/2020,123,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,39,F,3/16/2020,124,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,41,F,3/16/2020,125,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,43,M,3/16/2020,126,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,49,F,3/16/2020,127,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,30,F,3/16/2020,128,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,35,F,3/16/2020,129,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,46,F,3/16/2020,130,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,31,F,3/16/2020,131,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,40,M,3/16/2020,132,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,44,F,3/16/2020,133,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,42,F,3/16/2020,134,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,43,F,3/16/2020,135,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,39,F,3/16/2020,136,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,26,F,3/16/2020,137,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,46,M,3/16/2020,138,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,41,F,3/16/2020,139,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,51,M,3/16/2020,140,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,31,F,3/16/2020,141,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,1,F,3/16/2020,142,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,5,F,3/16/2020,143,13
+Clinica Santa Maria,Metropolitana,-33.3922105,-70.6080300,45,M,3/16/2020,144,13
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,29,F,3/16/2020,145,13
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,38,M,3/16/2020,146,13
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,26,M,3/16/2020,147,13
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,42,F,3/16/2020,148,13
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,38,F,3/16/2020,149,13
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,32,M,3/16/2020,150,13
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,31,M,3/16/2020,151,13
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,24,M,3/16/2020,152,13
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,39,M,3/16/2020,153,13
+Clinica Biobio,Biobio,-36.7892227,-73.0656697,47,F,3/16/2020,154,13
+Hospital Hernan Henriquez Aravena,Araucania,-38.7369966,-72.6018527,35,M,3/16/2020,155,13
+Clinica Alemana Valdivia,Los Rios,-39.8185499,-73.2417066,1,F,3/16/2020,156,13
+Mutual de Seguridad,Metropolitana,-33.4388589,-70.6402958,61,F,3/17/2020,157,14
+Mutual de Seguridad,Metropolitana,-33.4388589,-70.6402958,33,M,3/17/2020,158,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,48,F,3/17/2020,159,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,31,M,3/17/2020,160,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,32,M,3/17/2020,161,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,56,F,3/17/2020,162,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,56,M,3/17/2020,163,14
+Hospital La Florida,Metropolitana,-33.5140393,-70.6020920,75,F,3/17/2020,164,14
+Hospital del Salvador,Metropolitana,-33.4369475,-70.6270727,47,F,3/17/2020,165,14
+Laboratorio Bionet,Metropolitana,-33.4039091,-70.5821074,36,M,3/17/2020,166,14
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,45,M,3/17/2020,167,14
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,38,F,3/17/2020,168,14
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,41,F,3/17/2020,169,14
+Clinica Las Condes,Metropolitana,-33.3847957,-70.5324646,29,M,3/17/2020,170,14
+Clinica Davila,Metropolitana,-33.4275201,-70.6489982,57,M,3/17/2020,171,14
+Hospital del Trabajador,Metropolitana,-33.4435873,-70.6346943,43,F,3/17/2020,172,14
+Clinica U Los Andes,Metropolitana,-33.4055783,-70.5056610,44,F,3/17/2020,173,14
+Hospital Lucio Cordova,Metropolitana,-33.4856429,-70.6475495,50,F,3/17/2020,174,14
+Hospital San juan de Dios,Metropolitana,-33.4430708,-70.6819039,22,F,3/17/2020,175,14
+Hospital San juan de Dios,Metropolitana,-33.4430708,-70.6819039,39,M,3/17/2020,176,14
+Clinica UC San Carlos de Apoquindo,Metropolitana,-33.4003909,-70.5118383,43,M,3/17/2020,177,14
+Clinica Vespucio,Metropolitana,-33.5190455,-70.5992432,35,M,3/17/2020,178,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,16,F,3/17/2020,179,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,50,F,3/17/2020,180,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,56,M,3/17/2020,181,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,49,M,3/17/2020,182,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,28,M,3/17/2020,183,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,34,F,3/17/2020,184,14
+Clinica Alemana,Metropolitana,-33.3923636,-70.6080360,73,M,3/17/2020,185,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,33,F,3/17/2020,186,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,29,F,3/17/2020,187,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,43,M,3/17/2020,188,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,27,F,3/17/2020,189,14
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,37,M,3/17/2020,190,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,40,M,3/17/2020,191,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,27,F,3/17/2020,192,14
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,36,M,3/17/2020,193,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,30,F,3/17/2020,194,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,26,F,3/17/2020,195,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,29,M,3/17/2020,196,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,32,M,3/17/2020,197,14
+Hospital de Chillan,Nuble,-36.6096863,-72.1279976,48,M,3/17/2020,198,14
+Clinica de Chillan,Nuble,-36.6097578,-72.1279976,31,F,3/17/2020,199,14
+Clinica Magallanes,Magallanes,-53.1372601,-70.8888159,70,M,3/17/2020,200,14
+Hospital de Punta Arenas,Magallanes,-53.1480972,-70.9503614,23,M,3/17/2020,201,14
