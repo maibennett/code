@@ -4,13 +4,9 @@ rm(list = ls())
 #Clear the console
 cat("\014")
 
-#################################################################
-### Name: Create maps for Santiago and Chile according to date
-### Creator: Magdalena Bennett
-### Date: March 16, 2020
-#################################################################
 
-dir_data = ## Put the folder for your data here
+
+dir_data = ## Put the folder for your data here ###
 
 setwd(paste0(dir_data,"figures/")) # If you want, you can set a working directory.
 
@@ -19,8 +15,8 @@ library("ggmap")
 library("dplyr")
 
 ### Input start day (March) and end day #####
-start = 13
-end = 16
+start = 6
+end = 17
 #############################################
 
 days = seq(start,end,1)
@@ -31,7 +27,7 @@ d = read.csv(paste0(dir_data,"data/data_covid.csv"), stringsAsFactors = FALSE)
 dflist = list()
 
 for(i in 1:length(days)){
-  dflist[[i]] <- d[d$day<=(i-1),] %>% group_by(hospital,date,day,region) %>%
+  dflist[[i]] <- d[d$day<=(i-1),] %>% group_by(hospital,region) %>%
     summarise(n=n(),lat=mean(lat),lon=mean(lon))
 }
 
