@@ -19,7 +19,7 @@ infile <- "input"
 #Import data
 data <- read.csv(paste0(dir_data,"data/", infile, '.csv'), stringsAsFactors = FALSE)
 
-#If we are not using all the data (e.g. running different Ap Keys, slice the data with this vector)
+#If we are not using all the data (e.g. running different Api Keys, slice the data with this vector)
 #If not, comment out
 
 #slice = 1:1000
@@ -62,7 +62,7 @@ find_latlon <- function(address, id, empty_address, apiKey = NULL) {
   apiRequests <- iconv(str_c("https://maps.googleapis.com/maps/api/geocode/json?address=",address, parameters), "", "UTF-8")
   # Prefecture names will be stored to this.
   result <- matrix(NA,ncol=5,nrow=length(address))
-  colnames(result) <- c("participant_code","mbr_dob","FormattedAddress","lat","lon")
+  colnames(result) <- c("id","FormattedAddress","lat","lon")
   
   # Iterate longitude/latitude combinations.
   for(i in 1:length(address)) {
@@ -96,7 +96,7 @@ find_latlon <- function(address, id, empty_address, apiKey = NULL) {
       lon = ac$lng[1]
     } 
     
-    id1 = id[i,]
+    id1 = id[i]
     
     result[i,] <- c(id1,ad,lat,lon)
     print(i)
