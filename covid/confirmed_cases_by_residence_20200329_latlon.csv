@@ -1,40 +1,40 @@
-id,comuna,n,date,address,address2,empty_address,FormattedAddress,lat,lon
-1,Buin,7,3/29/2020,"Buin, Region Metropolitana, Chile","Buin,+Region+Metropolitana,+Chile",0,"Buin, Santiago Metropolitan Region, Chile",-33.7313897,-70.742431
-2,Calera de Tango,6,3/29/2020,"Calera de Tango, Region Metropolitana, Chile","Calera+de+Tango,+Region+Metropolitana,+Chile",0,"Calera de Tango, Región Metropolitana, Chile",-33.6291031,-70.7686968
-3,Cerro Navia,19,3/29/2020,"Cerro Navia, Region Metropolitana, Chile","Cerro+Navia,+Region+Metropolitana,+Chile",0,"Cerro Navia, Santiago Metropolitan Region, Chile",-33.4218958,-70.7404531
-4,Colina,32,3/29/2020,"Colina, Region Metropolitana, Chile","Colina,+Region+Metropolitana,+Chile",0,"Colina, Santiago Metropolitan Region, Chile",-33.2045451,-70.6759654
-5,Conchali,14,3/29/2020,"Conchali, Region Metropolitana, Chile","Conchali,+Region+Metropolitana,+Chile",0,"Conchalí, Conchali, Santiago Metropolitan Region, Chile",-33.3846893,-70.6800213
-6,Curacavi,5,3/29/2020,"Curacavi, Region Metropolitana, Chile","Curacavi,+Region+Metropolitana,+Chile",0,"Curacaví, Curacavi, Santiago Metropolitan Region, Chile",-33.4009037,-71.1267263
-7,El Bosque,18,3/29/2020,"El Bosque, Region Metropolitana, Chile","El+Bosque,+Region+Metropolitana,+Chile",0,"El Bosque, Santiago Metropolitan Region, Chile",-33.5589761,-70.6787503
-8,Estacion Central,16,3/29/2020,"Estacion Central, Region Metropolitana, Chile","Estacion+Central,+Region+Metropolitana,+Chile",0,"Santiago, Estación Central, Santiago Metropolitan Region, Chile",-33.4619178,-70.6985099
-9,Huechuraba,17,3/29/2020,"Huechuraba, Region Metropolitana, Chile","Huechuraba,+Region+Metropolitana,+Chile",0,"Huechuraba, Santiago Metropolitan Region, Chile",-33.3742128,-70.6367425
-10,Independencia,15,3/29/2020,"Independencia, Region Metropolitana, Chile","Independencia,+Region+Metropolitana,+Chile",0,"Independencia, Chile, Santiago Metropolitan Region, Chile",-33.4155974,-70.6642603
-11,La Cisterna,10,3/29/2020,"La Cisterna, Region Metropolitana, Chile","La+Cisterna,+Region+Metropolitana,+Chile",0,"La Cisterna, Santiago Metropolitan Region, Chile",-33.5264495,-70.6613511
-12,La Florida,43,3/29/2020,"La Florida, Region Metropolitana, Chile","La+Florida,+Region+Metropolitana,+Chile",0,"La Florida, Santiago Metropolitan Region, Chile",-33.5226882,-70.5987142
-13,La Granja,5,3/29/2020,"La Granja, Region Metropolitana, Chile","La+Granja,+Region+Metropolitana,+Chile",0,"La Granja, Santiago Metropolitan Region, Chile",-33.5377931,-70.620678
-14,La Reina,24,3/29/2020,"La Reina, Region Metropolitana, Chile","La+Reina,+Region+Metropolitana,+Chile",0,"La Reina, Santiago Metropolitan Region, Chile",-33.4411269,-70.5340591
-15,Lampa,10,3/29/2020,"Lampa, Region Metropolitana, Chile","Lampa,+Region+Metropolitana,+Chile",0,"Lampa, Santiago Metropolitan Region, Chile",-33.2827093,-70.879328
-16,Las Condes,181,3/29/2020,"Las Condes, Region Metropolitana, Chile","Las+Condes,+Region+Metropolitana,+Chile",0,"Las Condes, Santiago Metropolitan Region, Chile",-33.4079424,-70.5451063
-17,Lo Barnechea,68,3/29/2020,"Lo Barnechea, Region Metropolitana, Chile","Lo+Barnechea,+Region+Metropolitana,+Chile",0,"Lo Barnechea, Santiago Metropolitan Region, Chile",-33.352669,-70.518517
-18,Lo Espejo,4,3/29/2020,"Lo Espejo, Region Metropolitana, Chile","Lo+Espejo,+Region+Metropolitana,+Chile",0,"Lo Espejo, San Bernardo, Santiago Metropolitan Region, Chile",-33.5220498,-70.690565
-19,Lo Prado,14,3/29/2020,"Lo Prado, Region Metropolitana, Chile","Lo+Prado,+Region+Metropolitana,+Chile",0,"Lo Prado, Santiago Metropolitan Region, Chile",-33.4442688,-70.7233493
-20,Macul,10,3/29/2020,"Macul, Region Metropolitana, Chile","Macul,+Region+Metropolitana,+Chile",0,"Macul, Santiago Metropolitan Region, Chile",-33.4851471,-70.5992005
-21,Maipu,43,3/29/2020,"Maipu, Region Metropolitana, Chile","Maipu,+Region+Metropolitana,+Chile",0,"Maipú, Maipu, Santiago Metropolitan Region, Chile",-33.5105866,-70.7572607
-22,Melipilla,6,3/29/2020,"Melipilla, Region Metropolitana, Chile","Melipilla,+Region+Metropolitana,+Chile",0,"Melipilla, Santiago Metropolitan Region, Chile",-33.6858668,-71.2180485
-23,Nunoa,67,3/29/2020,"Nunoa, Region Metropolitana, Chile","Nunoa,+Region+Metropolitana,+Chile",0,"Ñuñoa, Santiago Metropolitan Region, Chile",-33.4566678,-70.5978415
-24,Padre Hurtado,10,3/29/2020,"Padre Hurtado, Region Metropolitana, Chile","Padre+Hurtado,+Region+Metropolitana,+Chile",0,"Padre Hurtado, Santiago Metropolitan Region, Chile",-33.5695362,-70.8156717
-25,Pedro Aguirre Cerda,7,3/29/2020,"Pedro Aguirre Cerda, Region Metropolitana, Chile","Pedro+Aguirre+Cerda,+Region+Metropolitana,+Chile",0,"Pedro Aguirre Cerda, Santiago Metropolitan Region, Chile",-33.4940901,-70.6765026
-26,Penaflor,10,3/29/2020,"Penaflor, Region Metropolitana, Chile","Penaflor,+Region+Metropolitana,+Chile",0,"Peñaflor, Santiago Metropolitan Region, Chile",-33.6060255,-70.8781837
-27,Penalolen,31,3/29/2020,"Penalolen, Region Metropolitana, Chile","Penalolen,+Region+Metropolitana,+Chile",0,"Peñalolén, Santiago Metropolitan Region, Chile",-33.4719116,-70.5627854
-28,Providencia,82,3/29/2020,"Providencia, Region Metropolitana, Chile","Providencia,+Region+Metropolitana,+Chile",0,"Providencia, Santiago Metropolitan Region, Chile",-33.4314474,-70.6093325
-29,Pudahuel,17,3/29/2020,"Pudahuel, Region Metropolitana, Chile","Pudahuel,+Region+Metropolitana,+Chile",0,"Pudahuel, Santiago Metropolitan Region, Chile",-33.4421135,-70.7640644
-30,Puente Alto,45,3/29/2020,"Puente Alto, Region Metropolitana, Chile","Puente+Alto,+Region+Metropolitana,+Chile",0,"Puente Alto, Santiago Metropolitan Region, Chile",-33.6186082,-70.5906057
-31,Quilicura,17,3/29/2020,"Quilicura, Region Metropolitana, Chile","Quilicura,+Region+Metropolitana,+Chile",0,"Quilicura, Santiago Metropolitan Region, Chile",-33.3576747,-70.7292718
-32,Quinta Normal,21,3/29/2020,"Quinta Normal, Region Metropolitana, Chile","Quinta+Normal,+Region+Metropolitana,+Chile",0,"Quinta Normal, Santiago Metropolitan Region, Chile",-33.4317378,-70.6923917
-33,Recoleta,17,3/29/2020,"Recoleta, Region Metropolitana, Chile","Recoleta,+Region+Metropolitana,+Chile",0,"Recoleta, Santiago Metropolitan Region, Chile",-33.4061916,-70.6336176
-34,Renca,9,3/29/2020,"Renca, Region Metropolitana, Chile","Renca,+Region+Metropolitana,+Chile",0,"Renca, Santiago Metropolitan Region, Chile",-33.4063601,-70.7279965
-35,San Bernardo,32,3/29/2020,"San Bernardo, Region Metropolitana, Chile","San+Bernardo,+Region+Metropolitana,+Chile",0,"San Bernardo, Santiago Metropolitan Region, Chile",-33.5854485,-70.6987361
-36,San Joaquin,13,3/29/2020,"San Joaquin, Region Metropolitana, Chile","San+Joaquin,+Region+Metropolitana,+Chile",0,"San Joaquín, Santiago Metropolitan Region, Chile",-33.496202,-70.6283361
-37,San Miguel,25,3/29/2020,"San Miguel, Region Metropolitana, Chile","San+Miguel,+Region+Metropolitana,+Chile",0,"San Miguel, Pedro Aguirre Cerda, Santiago Metropolitan Region, Chile",-33.4923545,-70.651797
-38,Santiago,127,3/29/2020,"Santiago, Region Metropolitana, Chile","Santiago,+Region+Metropolitana,+Chile",0,"Santiago Metropolitan Region, Chile",-33.4375545,-70.6504896
-39,Vitacura,83,3/29/2020,"Vitacura, Region Metropolitana, Chile","Vitacura,+Region+Metropolitana,+Chile",0,"Vitacura, Santiago Metropolitan Region, Chile",-33.3905211,-70.5724124
+id,comuna,n,date,address,address2,empty_address,lat,lon
+1,Buin,7,3/29/2020,"Buin, Region Metropolitana, Chile","Buin,+Region+Metropolitana,+Chile",0,-33.7313897,-70.742431
+2,Calera de Tango,6,3/29/2020,"Calera de Tango, Region Metropolitana, Chile","Calera+de+Tango,+Region+Metropolitana,+Chile",0,-33.6291031,-70.7686968
+3,Cerro Navia,19,3/29/2020,"Cerro Navia, Region Metropolitana, Chile","Cerro+Navia,+Region+Metropolitana,+Chile",0,-33.4218958,-70.7404531
+4,Colina,32,3/29/2020,"Colina, Region Metropolitana, Chile","Colina,+Region+Metropolitana,+Chile",0,-33.2045451,-70.6759654
+5,Conchali,14,3/29/2020,"Conchali, Region Metropolitana, Chile","Conchali,+Region+Metropolitana,+Chile",0,-33.3846893,-70.6800213
+6,Curacavi,5,3/29/2020,"Curacavi, Region Metropolitana, Chile","Curacavi,+Region+Metropolitana,+Chile",0,-33.4009037,-71.1267263
+7,El Bosque,18,3/29/2020,"El Bosque, Region Metropolitana, Chile","El+Bosque,+Region+Metropolitana,+Chile",0,-33.5589761,-70.6787503
+8,Estacion Central,16,3/29/2020,"Estacion Central, Region Metropolitana, Chile","Estacion+Central,+Region+Metropolitana,+Chile",0,-33.4619178,-70.6985099
+9,Huechuraba,17,3/29/2020,"Huechuraba, Region Metropolitana, Chile","Huechuraba,+Region+Metropolitana,+Chile",0,-33.3742128,-70.6367425
+10,Independencia,15,3/29/2020,"Independencia, Region Metropolitana, Chile","Independencia,+Region+Metropolitana,+Chile",0,-33.4155974,-70.6642603
+11,La Cisterna,10,3/29/2020,"La Cisterna, Region Metropolitana, Chile","La+Cisterna,+Region+Metropolitana,+Chile",0,-33.5264495,-70.6613511
+12,La Florida,43,3/29/2020,"La Florida, Region Metropolitana, Chile","La+Florida,+Region+Metropolitana,+Chile",0,-33.5226882,-70.5987142
+13,La Granja,5,3/29/2020,"La Granja, Region Metropolitana, Chile","La+Granja,+Region+Metropolitana,+Chile",0,-33.5377931,-70.620678
+14,La Reina,24,3/29/2020,"La Reina, Region Metropolitana, Chile","La+Reina,+Region+Metropolitana,+Chile",0,-33.4411269,-70.5340591
+15,Lampa,10,3/29/2020,"Lampa, Region Metropolitana, Chile","Lampa,+Region+Metropolitana,+Chile",0,-33.2827093,-70.879328
+16,Las Condes,181,3/29/2020,"Las Condes, Region Metropolitana, Chile","Las+Condes,+Region+Metropolitana,+Chile",0,-33.4079424,-70.5451063
+17,Lo Barnechea,68,3/29/2020,"Lo Barnechea, Region Metropolitana, Chile","Lo+Barnechea,+Region+Metropolitana,+Chile",0,-33.352669,-70.518517
+18,Lo Espejo,4,3/29/2020,"Lo Espejo, Region Metropolitana, Chile","Lo+Espejo,+Region+Metropolitana,+Chile",0,-33.5220498,-70.690565
+19,Lo Prado,14,3/29/2020,"Lo Prado, Region Metropolitana, Chile","Lo+Prado,+Region+Metropolitana,+Chile",0,-33.4442688,-70.7233493
+20,Macul,10,3/29/2020,"Macul, Region Metropolitana, Chile","Macul,+Region+Metropolitana,+Chile",0,-33.4851471,-70.5992005
+21,Maipu,43,3/29/2020,"Maipu, Region Metropolitana, Chile","Maipu,+Region+Metropolitana,+Chile",0,-33.5105866,-70.7572607
+22,Melipilla,6,3/29/2020,"Melipilla, Region Metropolitana, Chile","Melipilla,+Region+Metropolitana,+Chile",0,-33.6858668,-71.2180485
+23,Nunoa,67,3/29/2020,"Nunoa, Region Metropolitana, Chile","Nunoa,+Region+Metropolitana,+Chile",0,-33.4566678,-70.5978415
+24,Padre Hurtado,10,3/29/2020,"Padre Hurtado, Region Metropolitana, Chile","Padre+Hurtado,+Region+Metropolitana,+Chile",0,-33.5695362,-70.8156717
+25,Pedro Aguirre Cerda,7,3/29/2020,"Pedro Aguirre Cerda, Region Metropolitana, Chile","Pedro+Aguirre+Cerda,+Region+Metropolitana,+Chile",0,-33.4940901,-70.6765026
+26,Penaflor,10,3/29/2020,"Penaflor, Region Metropolitana, Chile","Penaflor,+Region+Metropolitana,+Chile",0,-33.6060255,-70.8781837
+27,Penalolen,31,3/29/2020,"Penalolen, Region Metropolitana, Chile","Penalolen,+Region+Metropolitana,+Chile",0,-33.4719116,-70.5627854
+28,Providencia,82,3/29/2020,"Providencia, Region Metropolitana, Chile","Providencia,+Region+Metropolitana,+Chile",0,-33.4314474,-70.6093325
+29,Pudahuel,17,3/29/2020,"Pudahuel, Region Metropolitana, Chile","Pudahuel,+Region+Metropolitana,+Chile",0,-33.4421135,-70.7640644
+30,Puente Alto,45,3/29/2020,"Puente Alto, Region Metropolitana, Chile","Puente+Alto,+Region+Metropolitana,+Chile",0,-33.6186082,-70.5906057
+31,Quilicura,17,3/29/2020,"Quilicura, Region Metropolitana, Chile","Quilicura,+Region+Metropolitana,+Chile",0,-33.3576747,-70.7292718
+32,Quinta Normal,21,3/29/2020,"Quinta Normal, Region Metropolitana, Chile","Quinta+Normal,+Region+Metropolitana,+Chile",0,-33.4317378,-70.6923917
+33,Recoleta,17,3/29/2020,"Recoleta, Region Metropolitana, Chile","Recoleta,+Region+Metropolitana,+Chile",0,-33.4061916,-70.6336176
+34,Renca,9,3/29/2020,"Renca, Region Metropolitana, Chile","Renca,+Region+Metropolitana,+Chile",0,-33.4063601,-70.7279965
+35,San Bernardo,32,3/29/2020,"San Bernardo, Region Metropolitana, Chile","San+Bernardo,+Region+Metropolitana,+Chile",0,-33.5854485,-70.6987361
+36,San Joaquin,13,3/29/2020,"San Joaquin, Region Metropolitana, Chile","San+Joaquin,+Region+Metropolitana,+Chile",0,-33.496202,-70.6283361
+37,San Miguel,25,3/29/2020,"San Miguel, Region Metropolitana, Chile","San+Miguel,+Region+Metropolitana,+Chile",0,-33.4923545,-70.651797
+38,Santiago,127,3/29/2020,"Santiago, Region Metropolitana, Chile","Santiago,+Region+Metropolitana,+Chile",0,-33.4375545,-70.6504896
+39,Vitacura,83,3/29/2020,"Vitacura, Region Metropolitana, Chile","Vitacura,+Region+Metropolitana,+Chile",0,-33.3905211,-70.5724124
