@@ -159,4 +159,4 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 119,Cabo de Hornos,5,3/29/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,11
 120,Punta Arenas,29,3/29/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,11
 121,Natales,1,3/29/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,11
-,,,,,,,-35.46020167,-71.57785555,,All,3
+122,,,,,,,-35.46020167,-71.57785555,,All,3
