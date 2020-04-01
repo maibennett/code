@@ -43,38 +43,38 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 3,Paine,1,3/29/2020,"Paine, Region Metropolitana, Chile","Paine,+Region+Metropolitana,+Chile",0,-33.8086235,-70.7392929,1,Metropolitana,10
 4,El Monte,1,3/29/2020,"El Monte, Region Metropolitana, Chile","El+Monte,+Region+Metropolitana,+Chile",0,-33.6815281,-70.9853968,1,Metropolitana,10
 5,Talagante,1,3/29/2020,"Talagante, Region Metropolitana, Chile","Talagante,+Region+Metropolitana,+Chile",0,-33.6625182,-70.9249706,1,Metropolitana,10
-6,Arica,6,3/29/2020,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,-18.4782534,-70.3125988,,Arica y Parinacota,10
-7,Iquique,5,3/29/2020,"Iquique, Region de Tarapaca, Chile","Iquique,+Region+de+Tarapaca,+Chile",0,-20.2307033,-70.1356692,,Tarapaca,10
-8,Antofagasta,29,3/29/2020,"Antofagasta, Region de Antofagasta, Chile","Antofagasta,+Region+de+Antofagasta,+Chile",0,-23.6509279,-70.3975022,,Antofagasta,10
-9,Calama,2,3/29/2020,"Calama, Region de Antofagasta, Chile","Calama,+Region+de+Antofagasta,+Chile",0,-22.4543923,-68.9293819,1,Antofagasta,10
-10,Tocopilla,2,3/29/2020,"Tocopilla, Region de Antofagasta, Chile","Tocopilla,+Region+de+Antofagasta,+Chile",0,-22.0857976,-70.1930064,1,Antofagasta,10
-11,San Pedro de Atacama,2,3/29/2020,"San Pedro de Atacama, Region de Antofagasta, Chile","San+Pedro+de+Atacama,+Region+de+Antofagasta,+Chile",0,-22.9087073,-68.1997156,1,Antofagasta,10
-12,Diego de Almagro,1,3/29/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,10
-13,Copiapo,1,3/29/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,10
+6,Arica,6,3/29/2020,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,-18.4782534,-70.3125988,,Arica y Parinacota,12
+7,Iquique,5,3/29/2020,"Iquique, Region de Tarapaca, Chile","Iquique,+Region+de+Tarapaca,+Chile",0,-20.2307033,-70.1356692,,Tarapaca,12
+8,Antofagasta,29,3/29/2020,"Antofagasta, Region de Antofagasta, Chile","Antofagasta,+Region+de+Antofagasta,+Chile",0,-23.6509279,-70.3975022,,Antofagasta,12
+9,Calama,2,3/29/2020,"Calama, Region de Antofagasta, Chile","Calama,+Region+de+Antofagasta,+Chile",0,-22.4543923,-68.9293819,1,Antofagasta,12
+10,Tocopilla,2,3/29/2020,"Tocopilla, Region de Antofagasta, Chile","Tocopilla,+Region+de+Antofagasta,+Chile",0,-22.0857976,-70.1930064,1,Antofagasta,12
+11,San Pedro de Atacama,2,3/29/2020,"San Pedro de Atacama, Region de Antofagasta, Chile","San+Pedro+de+Atacama,+Region+de+Antofagasta,+Chile",0,-22.9087073,-68.1997156,1,Antofagasta,12
+12,Diego de Almagro,1,3/29/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,8
+13,Copiapo,1,3/29/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,8
 14,Coquimbo,17,3/29/2020,"Coquimbo, Region de Coquimbo, Chile","Coquimbo,+Region+de+Coquimbo,+Chile",0,-29.9590009,-71.3389183,,Coquimbo,10
 15,Ovalle,4,3/29/2020,"Ovalle, Region de Coquimbo, Chile","Ovalle,+Region+de+Coquimbo,+Chile",0,-30.604304,-71.1969882,,Coquimbo,10
 16,La Serena,2,3/29/2020,"La Serena, Region de Coquimbo, Chile","La+Serena,+Region+de+Coquimbo,+Chile",0,-29.9026691,-71.2519374,1,Coquimbo,10
 17,Rio Hurtado,1,3/29/2020,"Rio Hurtado, Region de Coquimbo, Chile","Rio+Hurtado,+Region+de+Coquimbo,+Chile",0,-30.266667,-70.666667,1,Coquimbo,10
 18,Salamanca,1,3/29/2020,"Salamanca, Region de Coquimbo, Chile","Salamanca,+Region+de+Coquimbo,+Chile",0,-31.782493,-70.9607105,1,Coquimbo,10
 19,Los Vilos,2,3/29/2020,"Los Vilos, Region de Coquimbo, Chile","Los+Vilos,+Region+de+Coquimbo,+Chile",0,-31.9121865,-71.5112017,1,Coquimbo,10
-20,Algarrobo,7,3/29/2020,"Algarrobo, Region de Valparaiso, Chile","Algarrobo,+Region+de+Valparaiso,+Chile",0,-33.3647762,-71.6705534,,Valparaiso,10
-21,Calera,6,3/29/2020,"Calera, Region de Valparaiso, Chile","Calera,+Region+de+Valparaiso,+Chile",0,-32.7873428,-71.20732,,Valparaiso,10
-22,Quillota,6,3/29/2020,"Quillota, Region de Valparaiso, Chile","Quillota,+Region+de+Valparaiso,+Chile",0,-32.8803027,-71.2497156,,Valparaiso,10
-23,Quilpue,11,3/29/2020,"Quilpue, Region de Valparaiso, Chile","Quilpue,+Region+de+Valparaiso,+Chile",0,-33.0482707,-71.4408752,,Valparaiso,10
-24,Valparaiso,16,3/29/2020,"Valparaiso, Region de Valparaiso, Chile","Valparaiso,+Region+de+Valparaiso,+Chile",0,-33.047238,-71.6126885,,Valparaiso,10
-25,Villa Alemana,6,3/29/2020,"Villa Alemana, Region de Valparaiso, Chile","Villa+Alemana,+Region+de+Valparaiso,+Chile",0,-33.0495006,-71.374603,,Valparaiso,10
-26,Vina del Mar,29,3/29/2020,"Vina del Mar, Region de Valparaiso, Chile","Vina+del+Mar,+Region+de+Valparaiso,+Chile",0,-33.0153481,-71.5500276,,Valparaiso,10
-27,La Ligua,2,3/29/2020,"La Ligua, Region de Valparaiso, Chile","La+Ligua,+Region+de+Valparaiso,+Chile",0,-32.4499018,-71.2325958,1,Valparaiso,10
-28,Putaendo,2,3/29/2020,"Putaendo, Region de Valparaiso, Chile","Putaendo,+Region+de+Valparaiso,+Chile",0,-32.628461,-70.7177434,1,Valparaiso,10
-29,San Felipe,2,3/29/2020,"San Felipe, Region de Valparaiso, Chile","San+Felipe,+Region+de+Valparaiso,+Chile",0,-32.75,-70.7208115,1,Valparaiso,10
-30,Los Andes,2,3/29/2020,"Los Andes, Region de Valparaiso, Chile","Los+Andes,+Region+de+Valparaiso,+Chile",0,-32.8337995,-70.5972179,1,Valparaiso,10
-31,Quintero,2,3/29/2020,"Quintero, Region de Valparaiso, Chile","Quintero,+Region+de+Valparaiso,+Chile",0,-32.7723101,-71.5333,1,Valparaiso,10
-32,Concon,2,3/29/2020,"Concon, Region de Valparaiso, Chile","Concon,+Region+de+Valparaiso,+Chile",0,-32.9299468,-71.5186065,1,Valparaiso,10
-33,Limache,2,3/29/2020,"Limache, Region de Valparaiso, Chile","Limache,+Region+de+Valparaiso,+Chile",0,-33.0012816,-71.268144,1,Valparaiso,10
-34,Casa Blanca,2,3/29/2020,"Casa Blanca, Region de Valparaiso, Chile","Casa+Blanca,+Region+de+Valparaiso,+Chile",0,-33.3182828,-71.4070899,1,Valparaiso,10
-35,El Tabo,1,3/29/2020,"El Tabo, Region de Valparaiso, Chile","El+Tabo,+Region+de+Valparaiso,+Chile",0,-33.4557162,-71.6669341,1,Valparaiso,10
-36,San Antonio,2,3/29/2020,"San Antonio, Region de Valparaiso, Chile","San+Antonio,+Region+de+Valparaiso,+Chile",0,-33.5922807,-71.6055123,1,Valparaiso,10
-37,Santo Domingo,1,3/29/2020,"Santo Domingo, Region de Valparaiso, Chile","Santo+Domingo,+Region+de+Valparaiso,+Chile",0,-33.635833,-71.628056,1,Valparaiso,10
+20,Algarrobo,7,3/29/2020,"Algarrobo, Region de Valparaiso, Chile","Algarrobo,+Region+de+Valparaiso,+Chile",0,-33.3647762,-71.6705534,,Valparaiso,11
+21,Calera,6,3/29/2020,"Calera, Region de Valparaiso, Chile","Calera,+Region+de+Valparaiso,+Chile",0,-32.7873428,-71.20732,,Valparaiso,11
+22,Quillota,6,3/29/2020,"Quillota, Region de Valparaiso, Chile","Quillota,+Region+de+Valparaiso,+Chile",0,-32.8803027,-71.2497156,,Valparaiso,11
+23,Quilpue,11,3/29/2020,"Quilpue, Region de Valparaiso, Chile","Quilpue,+Region+de+Valparaiso,+Chile",0,-33.0482707,-71.4408752,,Valparaiso,11
+24,Valparaiso,16,3/29/2020,"Valparaiso, Region de Valparaiso, Chile","Valparaiso,+Region+de+Valparaiso,+Chile",0,-33.047238,-71.6126885,,Valparaiso,11
+25,Villa Alemana,6,3/29/2020,"Villa Alemana, Region de Valparaiso, Chile","Villa+Alemana,+Region+de+Valparaiso,+Chile",0,-33.0495006,-71.374603,,Valparaiso,11
+26,Vina del Mar,29,3/29/2020,"Vina del Mar, Region de Valparaiso, Chile","Vina+del+Mar,+Region+de+Valparaiso,+Chile",0,-33.0153481,-71.5500276,,Valparaiso,11
+27,La Ligua,2,3/29/2020,"La Ligua, Region de Valparaiso, Chile","La+Ligua,+Region+de+Valparaiso,+Chile",0,-32.4499018,-71.2325958,1,Valparaiso,11
+28,Putaendo,2,3/29/2020,"Putaendo, Region de Valparaiso, Chile","Putaendo,+Region+de+Valparaiso,+Chile",0,-32.628461,-70.7177434,1,Valparaiso,11
+29,San Felipe,2,3/29/2020,"San Felipe, Region de Valparaiso, Chile","San+Felipe,+Region+de+Valparaiso,+Chile",0,-32.75,-70.7208115,1,Valparaiso,11
+30,Los Andes,2,3/29/2020,"Los Andes, Region de Valparaiso, Chile","Los+Andes,+Region+de+Valparaiso,+Chile",0,-32.8337995,-70.5972179,1,Valparaiso,11
+31,Quintero,2,3/29/2020,"Quintero, Region de Valparaiso, Chile","Quintero,+Region+de+Valparaiso,+Chile",0,-32.7723101,-71.5333,1,Valparaiso,11
+32,Concon,2,3/29/2020,"Concon, Region de Valparaiso, Chile","Concon,+Region+de+Valparaiso,+Chile",0,-32.9299468,-71.5186065,1,Valparaiso,11
+33,Limache,2,3/29/2020,"Limache, Region de Valparaiso, Chile","Limache,+Region+de+Valparaiso,+Chile",0,-33.0012816,-71.268144,1,Valparaiso,11
+34,Casa Blanca,2,3/29/2020,"Casa Blanca, Region de Valparaiso, Chile","Casa+Blanca,+Region+de+Valparaiso,+Chile",0,-33.3182828,-71.4070899,1,Valparaiso,11
+35,El Tabo,1,3/29/2020,"El Tabo, Region de Valparaiso, Chile","El+Tabo,+Region+de+Valparaiso,+Chile",0,-33.4557162,-71.6669341,1,Valparaiso,11
+36,San Antonio,2,3/29/2020,"San Antonio, Region de Valparaiso, Chile","San+Antonio,+Region+de+Valparaiso,+Chile",0,-33.5922807,-71.6055123,1,Valparaiso,11
+37,Santo Domingo,1,3/29/2020,"Santo Domingo, Region de Valparaiso, Chile","Santo+Domingo,+Region+de+Valparaiso,+Chile",0,-33.635833,-71.628056,1,Valparaiso,11
 38,Rancagua,7,3/29/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,10
 39,Machali,2,3/29/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,1,Ohiggins,10
 40,Requinoa,2,3/29/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,10
