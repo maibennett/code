@@ -159,8 +159,8 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 158,Cabo de Hornos,5,3/29/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,10
 159,Punta Arenas,29,3/29/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,10
 160,Natales,1,3/29/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,10
-161,,,,,,,-35.46020167,-71.57785555,,All,3
-162,,,,,,,-35.46020167,-71.57785555,,All,3
+161,,,3/29/2020,,,,-35.46020167,-71.57785555,,All,3
+162,,,3/29/2020,,,,-35.46020167,-71.57785555,,All,3
 1,Buin,8,3/30/2020,"Buin, Region Metropolitana, Chile","Buin,+Region+Metropolitana,+Chile",0,-33.7313897,-70.742431,,Metropolitana,10
 2,Calera de Tango,7,3/30/2020,"Calera de Tango, Region Metropolitana, Chile","Calera+de+Tango,+Region+Metropolitana,+Chile",0,-33.6291031,-70.7686968,,Metropolitana,10
 3,Cerrillos,4,3/30/2020,"Cerrillos, Region Metropolitana, Chile","Cerrillos,+Region+Metropolitana,+Chile",0,-33.5022166,-70.7476042,,Metropolitana,10
