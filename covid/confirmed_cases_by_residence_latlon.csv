@@ -1,0 +1,341 @@
+id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
+1,Buin,7,3/29/2020,"Buin, Region Metropolitana, Chile","Buin,+Region+Metropolitana,+Chile",0,-33.7313897,-70.742431,,Metropolitana,10
+2,Calera de Tango,6,3/29/2020,"Calera de Tango, Region Metropolitana, Chile","Calera+de+Tango,+Region+Metropolitana,+Chile",0,-33.6291031,-70.7686968,,Metropolitana,10
+3,Cerro Navia,19,3/29/2020,"Cerro Navia, Region Metropolitana, Chile","Cerro+Navia,+Region+Metropolitana,+Chile",0,-33.4218958,-70.7404531,,Metropolitana,10
+4,Colina,32,3/29/2020,"Colina, Region Metropolitana, Chile","Colina,+Region+Metropolitana,+Chile",0,-33.2045451,-70.6759654,,Metropolitana,10
+5,Conchali,14,3/29/2020,"Conchali, Region Metropolitana, Chile","Conchali,+Region+Metropolitana,+Chile",0,-33.3846893,-70.6800213,,Metropolitana,10
+6,Curacavi,5,3/29/2020,"Curacavi, Region Metropolitana, Chile","Curacavi,+Region+Metropolitana,+Chile",0,-33.4009037,-71.1267263,,Metropolitana,10
+7,El Bosque,18,3/29/2020,"El Bosque, Region Metropolitana, Chile","El+Bosque,+Region+Metropolitana,+Chile",0,-33.5589761,-70.6787503,,Metropolitana,10
+8,Estacion Central,16,3/29/2020,"Estacion Central, Region Metropolitana, Chile","Estacion+Central,+Region+Metropolitana,+Chile",0,-33.4619178,-70.6985099,,Metropolitana,10
+9,Huechuraba,17,3/29/2020,"Huechuraba, Region Metropolitana, Chile","Huechuraba,+Region+Metropolitana,+Chile",0,-33.3742128,-70.6367425,,Metropolitana,10
+10,Independencia,15,3/29/2020,"Independencia, Region Metropolitana, Chile","Independencia,+Region+Metropolitana,+Chile",0,-33.4155974,-70.6642603,,Metropolitana,10
+11,La Cisterna,10,3/29/2020,"La Cisterna, Region Metropolitana, Chile","La+Cisterna,+Region+Metropolitana,+Chile",0,-33.5264495,-70.6613511,,Metropolitana,10
+12,La Florida,43,3/29/2020,"La Florida, Region Metropolitana, Chile","La+Florida,+Region+Metropolitana,+Chile",0,-33.5226882,-70.5987142,,Metropolitana,10
+13,La Granja,5,3/29/2020,"La Granja, Region Metropolitana, Chile","La+Granja,+Region+Metropolitana,+Chile",0,-33.5377931,-70.620678,,Metropolitana,10
+14,La Reina,24,3/29/2020,"La Reina, Region Metropolitana, Chile","La+Reina,+Region+Metropolitana,+Chile",0,-33.4411269,-70.5340591,,Metropolitana,10
+15,Lampa,10,3/29/2020,"Lampa, Region Metropolitana, Chile","Lampa,+Region+Metropolitana,+Chile",0,-33.2827093,-70.879328,,Metropolitana,10
+16,Las Condes,181,3/29/2020,"Las Condes, Region Metropolitana, Chile","Las+Condes,+Region+Metropolitana,+Chile",0,-33.4079424,-70.5451063,,Metropolitana,10
+17,Lo Barnechea,68,3/29/2020,"Lo Barnechea, Region Metropolitana, Chile","Lo+Barnechea,+Region+Metropolitana,+Chile",0,-33.352669,-70.518517,,Metropolitana,10
+18,Lo Espejo,4,3/29/2020,"Lo Espejo, Region Metropolitana, Chile","Lo+Espejo,+Region+Metropolitana,+Chile",0,-33.5220498,-70.690565,,Metropolitana,10
+19,Lo Prado,14,3/29/2020,"Lo Prado, Region Metropolitana, Chile","Lo+Prado,+Region+Metropolitana,+Chile",0,-33.4442688,-70.7233493,,Metropolitana,10
+20,Macul,10,3/29/2020,"Macul, Region Metropolitana, Chile","Macul,+Region+Metropolitana,+Chile",0,-33.4851471,-70.5992005,,Metropolitana,10
+21,Maipu,43,3/29/2020,"Maipu, Region Metropolitana, Chile","Maipu,+Region+Metropolitana,+Chile",0,-33.5105866,-70.7572607,,Metropolitana,10
+22,Melipilla,6,3/29/2020,"Melipilla, Region Metropolitana, Chile","Melipilla,+Region+Metropolitana,+Chile",0,-33.6858668,-71.2180485,,Metropolitana,10
+23,Nunoa,67,3/29/2020,"Nunoa, Region Metropolitana, Chile","Nunoa,+Region+Metropolitana,+Chile",0,-33.4566678,-70.5978415,,Metropolitana,10
+24,Padre Hurtado,10,3/29/2020,"Padre Hurtado, Region Metropolitana, Chile","Padre+Hurtado,+Region+Metropolitana,+Chile",0,-33.5695362,-70.8156717,,Metropolitana,10
+25,Pedro Aguirre Cerda,7,3/29/2020,"Pedro Aguirre Cerda, Region Metropolitana, Chile","Pedro+Aguirre+Cerda,+Region+Metropolitana,+Chile",0,-33.4940901,-70.6765026,,Metropolitana,10
+26,Penaflor,10,3/29/2020,"Penaflor, Region Metropolitana, Chile","Penaflor,+Region+Metropolitana,+Chile",0,-33.6060255,-70.8781837,,Metropolitana,10
+27,Penalolen,31,3/29/2020,"Penalolen, Region Metropolitana, Chile","Penalolen,+Region+Metropolitana,+Chile",0,-33.4719116,-70.5627854,,Metropolitana,10
+28,Providencia,82,3/29/2020,"Providencia, Region Metropolitana, Chile","Providencia,+Region+Metropolitana,+Chile",0,-33.4314474,-70.6093325,,Metropolitana,10
+29,Pudahuel,17,3/29/2020,"Pudahuel, Region Metropolitana, Chile","Pudahuel,+Region+Metropolitana,+Chile",0,-33.4421135,-70.7640644,,Metropolitana,10
+30,Puente Alto,45,3/29/2020,"Puente Alto, Region Metropolitana, Chile","Puente+Alto,+Region+Metropolitana,+Chile",0,-33.6186082,-70.5906057,,Metropolitana,10
+31,Quilicura,17,3/29/2020,"Quilicura, Region Metropolitana, Chile","Quilicura,+Region+Metropolitana,+Chile",0,-33.3576747,-70.7292718,,Metropolitana,10
+32,Quinta Normal,21,3/29/2020,"Quinta Normal, Region Metropolitana, Chile","Quinta+Normal,+Region+Metropolitana,+Chile",0,-33.4317378,-70.6923917,,Metropolitana,10
+33,Recoleta,17,3/29/2020,"Recoleta, Region Metropolitana, Chile","Recoleta,+Region+Metropolitana,+Chile",0,-33.4061916,-70.6336176,,Metropolitana,10
+34,Renca,9,3/29/2020,"Renca, Region Metropolitana, Chile","Renca,+Region+Metropolitana,+Chile",0,-33.4063601,-70.7279965,,Metropolitana,10
+35,San Bernardo,32,3/29/2020,"San Bernardo, Region Metropolitana, Chile","San+Bernardo,+Region+Metropolitana,+Chile",0,-33.5854485,-70.6987361,,Metropolitana,10
+36,San Joaquin,13,3/29/2020,"San Joaquin, Region Metropolitana, Chile","San+Joaquin,+Region+Metropolitana,+Chile",0,-33.496202,-70.6283361,,Metropolitana,10
+37,San Miguel,25,3/29/2020,"San Miguel, Region Metropolitana, Chile","San+Miguel,+Region+Metropolitana,+Chile",0,-33.4923545,-70.651797,,Metropolitana,10
+38,Santiago,127,3/29/2020,"Santiago, Region Metropolitana, Chile","Santiago,+Region+Metropolitana,+Chile",0,-33.4375545,-70.6504896,,Metropolitana,10
+39,Vitacura,83,3/29/2020,"Vitacura, Region Metropolitana, Chile","Vitacura,+Region+Metropolitana,+Chile",0,-33.3905211,-70.5724124,,Metropolitana,10
+40,Tiltil,1,3/29/2020,"Tiltil, Region Metropolitana, Chile","Tiltil,+Region+Metropolitana,+Chile",0,-33.0838906,-70.9279843,1,Metropolitana,10
+41,San Jose de Maipo,1,3/29/2020,"San Jose de Maipo, Region Metropolitana, Chile","San+Jose+de+Maipo,+Region+Metropolitana,+Chile",0,-33.643169,-70.345207,1,Metropolitana,10
+42,Paine,1,3/29/2020,"Paine, Region Metropolitana, Chile","Paine,+Region+Metropolitana,+Chile",0,-33.8086235,-70.7392929,1,Metropolitana,10
+43,El Monte,1,3/29/2020,"El Monte, Region Metropolitana, Chile","El+Monte,+Region+Metropolitana,+Chile",0,-33.6815281,-70.9853968,1,Metropolitana,10
+44,Talagante,1,3/29/2020,"Talagante, Region Metropolitana, Chile","Talagante,+Region+Metropolitana,+Chile",0,-33.6625182,-70.9249706,1,Metropolitana,10
+45,Arica,6,3/29/2020,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,-18.4782534,-70.3125988,,Arica y Parinacota,12
+46,Iquique,5,3/29/2020,"Iquique, Region de Tarapaca, Chile","Iquique,+Region+de+Tarapaca,+Chile",0,-20.2307033,-70.1356692,,Tarapaca,12
+47,Antofagasta,29,3/29/2020,"Antofagasta, Region de Antofagasta, Chile","Antofagasta,+Region+de+Antofagasta,+Chile",0,-23.6509279,-70.3975022,,Antofagasta,12
+48,Calama,2,3/29/2020,"Calama, Region de Antofagasta, Chile","Calama,+Region+de+Antofagasta,+Chile",0,-22.4543923,-68.9293819,1,Antofagasta,12
+49,Tocopilla,2,3/29/2020,"Tocopilla, Region de Antofagasta, Chile","Tocopilla,+Region+de+Antofagasta,+Chile",0,-22.0857976,-70.1930064,1,Antofagasta,12
+50,San Pedro de Atacama,2,3/29/2020,"San Pedro de Atacama, Region de Antofagasta, Chile","San+Pedro+de+Atacama,+Region+de+Antofagasta,+Chile",0,-22.9087073,-68.1997156,1,Antofagasta,12
+51,Diego de Almagro,1,3/29/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,8
+52,Copiapo,1,3/29/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,8
+53,Coquimbo,17,3/29/2020,"Coquimbo, Region de Coquimbo, Chile","Coquimbo,+Region+de+Coquimbo,+Chile",0,-29.9590009,-71.3389183,,Coquimbo,10
+54,Ovalle,4,3/29/2020,"Ovalle, Region de Coquimbo, Chile","Ovalle,+Region+de+Coquimbo,+Chile",0,-30.604304,-71.1969882,,Coquimbo,10
+55,La Serena,2,3/29/2020,"La Serena, Region de Coquimbo, Chile","La+Serena,+Region+de+Coquimbo,+Chile",0,-29.9026691,-71.2519374,1,Coquimbo,10
+56,Rio Hurtado,1,3/29/2020,"Rio Hurtado, Region de Coquimbo, Chile","Rio+Hurtado,+Region+de+Coquimbo,+Chile",0,-30.266667,-70.666667,1,Coquimbo,10
+57,Salamanca,1,3/29/2020,"Salamanca, Region de Coquimbo, Chile","Salamanca,+Region+de+Coquimbo,+Chile",0,-31.782493,-70.9607105,1,Coquimbo,10
+58,Los Vilos,2,3/29/2020,"Los Vilos, Region de Coquimbo, Chile","Los+Vilos,+Region+de+Coquimbo,+Chile",0,-31.9121865,-71.5112017,1,Coquimbo,10
+59,Algarrobo,7,3/29/2020,"Algarrobo, Region de Valparaiso, Chile","Algarrobo,+Region+de+Valparaiso,+Chile",0,-33.3647762,-71.6705534,,Valparaiso,11
+60,Calera,6,3/29/2020,"Calera, Region de Valparaiso, Chile","Calera,+Region+de+Valparaiso,+Chile",0,-32.7873428,-71.20732,,Valparaiso,11
+61,Quillota,6,3/29/2020,"Quillota, Region de Valparaiso, Chile","Quillota,+Region+de+Valparaiso,+Chile",0,-32.8803027,-71.2497156,,Valparaiso,11
+62,Quilpue,11,3/29/2020,"Quilpue, Region de Valparaiso, Chile","Quilpue,+Region+de+Valparaiso,+Chile",0,-33.0482707,-71.4408752,,Valparaiso,11
+63,Valparaiso,16,3/29/2020,"Valparaiso, Region de Valparaiso, Chile","Valparaiso,+Region+de+Valparaiso,+Chile",0,-33.047238,-71.6126885,,Valparaiso,11
+64,Villa Alemana,6,3/29/2020,"Villa Alemana, Region de Valparaiso, Chile","Villa+Alemana,+Region+de+Valparaiso,+Chile",0,-33.0495006,-71.374603,,Valparaiso,11
+65,Vina del Mar,29,3/29/2020,"Vina del Mar, Region de Valparaiso, Chile","Vina+del+Mar,+Region+de+Valparaiso,+Chile",0,-33.0153481,-71.5500276,,Valparaiso,11
+66,La Ligua,2,3/29/2020,"La Ligua, Region de Valparaiso, Chile","La+Ligua,+Region+de+Valparaiso,+Chile",0,-32.4499018,-71.2325958,1,Valparaiso,11
+67,Putaendo,2,3/29/2020,"Putaendo, Region de Valparaiso, Chile","Putaendo,+Region+de+Valparaiso,+Chile",0,-32.628461,-70.7177434,1,Valparaiso,11
+68,San Felipe,2,3/29/2020,"San Felipe, Region de Valparaiso, Chile","San+Felipe,+Region+de+Valparaiso,+Chile",0,-32.75,-70.7208115,1,Valparaiso,11
+69,Los Andes,2,3/29/2020,"Los Andes, Region de Valparaiso, Chile","Los+Andes,+Region+de+Valparaiso,+Chile",0,-32.8337995,-70.5972179,1,Valparaiso,11
+70,Quintero,2,3/29/2020,"Quintero, Region de Valparaiso, Chile","Quintero,+Region+de+Valparaiso,+Chile",0,-32.7723101,-71.5333,1,Valparaiso,11
+71,Concon,2,3/29/2020,"Concon, Region de Valparaiso, Chile","Concon,+Region+de+Valparaiso,+Chile",0,-32.9299468,-71.5186065,1,Valparaiso,11
+72,Limache,2,3/29/2020,"Limache, Region de Valparaiso, Chile","Limache,+Region+de+Valparaiso,+Chile",0,-33.0012816,-71.268144,1,Valparaiso,11
+73,Casa Blanca,2,3/29/2020,"Casa Blanca, Region de Valparaiso, Chile","Casa+Blanca,+Region+de+Valparaiso,+Chile",0,-33.3182828,-71.4070899,1,Valparaiso,11
+74,El Tabo,1,3/29/2020,"El Tabo, Region de Valparaiso, Chile","El+Tabo,+Region+de+Valparaiso,+Chile",0,-33.4557162,-71.6669341,1,Valparaiso,11
+75,San Antonio,2,3/29/2020,"San Antonio, Region de Valparaiso, Chile","San+Antonio,+Region+de+Valparaiso,+Chile",0,-33.5922807,-71.6055123,1,Valparaiso,11
+76,Santo Domingo,1,3/29/2020,"Santo Domingo, Region de Valparaiso, Chile","Santo+Domingo,+Region+de+Valparaiso,+Chile",0,-33.635833,-71.628056,1,Valparaiso,11
+77,Rancagua,7,3/29/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,10
+78,Machali,2,3/29/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,1,Ohiggins,10
+79,Requinoa,2,3/29/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,10
+80,Rengo,1,3/29/2020,"Rengo, Region de Ohiggins, Chile","Rengo,+Region+de+Ohiggins,+Chile",0,-34.4028433,-70.8608394,1,Ohiggins,10
+81,Quinta de Tilcoco,1,3/29/2020,"Quinta de Tilcoco, Region de Ohiggins, Chile","Quinta+de+Tilcoco,+Region+de+Ohiggins,+Chile",0,-34.3554003,-70.9704681,1,Ohiggins,10
+82,San Fernando,3,3/29/2020,"San Fernando, Region de Ohiggins, Chile","San+Fernando,+Region+de+Ohiggins,+Chile",0,-34.5858603,-70.9907801,1,Ohiggins,10
+83,Curico,6,3/29/2020,"Curico, Region del Maule, Chile","Curico,+Region+del+Maule,+Chile",0,-34.9779853,-71.2528803,,Maule,10
+84,Linares,4,3/29/2020,"Linares, Region del Maule, Chile","Linares,+Region+del+Maule,+Chile",0,-35.846407,-71.5996137,,Maule,10
+85,Parral,4,3/29/2020,"Parral, Region del Maule, Chile","Parral,+Region+del+Maule,+Chile",0,-36.1406484,-71.8227528,,Maule,10
+86,Talca,34,3/29/2020,"Talca, Region del Maule, Chile","Talca,+Region+del+Maule,+Chile",0,-35.4232444,-71.6484804,,Maule,10
+87,Romeral,1,3/29/2020,"Romeral, Region del Maule, Chile","Romeral,+Region+del+Maule,+Chile",0,-34.933333,-71.316667,1,Maule,10
+88,Molina,1,3/29/2020,"Molina, Region del Maule, Chile","Molina,+Region+del+Maule,+Chile",0,-35.1164987,-71.2829759,1,Maule,10
+89,Rio Claro,1,3/29/2020,"Rio Claro, Region del Maule, Chile","Rio+Claro,+Region+del+Maule,+Chile",0,-35.2808267,-71.2599507,1,Maule,10
+90,Maule,1,3/29/2020,"Maule, Region del Maule, Chile","Maule,+Region+del+Maule,+Chile",0,-35.5163603,-71.5723953,1,Maule,10
+91,Pelluhue,1,3/29/2020,"Pelluhue, Region del Maule, Chile","Pelluhue,+Region+del+Maule,+Chile",0,-35.8141512,-72.5749979,1,Maule,10
+92,Cauquenes,2,3/29/2020,"Cauquenes, Region del Maule, Chile","Cauquenes,+Region+del+Maule,+Chile",0,-35.9676285,-72.3222331,1,Maule,10
+93,Longavi,1,3/29/2020,"Longavi, Region del Maule, Chile","Longavi,+Region+del+Maule,+Chile",0,-35.9636265,-71.6831251,1,Maule,10
+94,Colbun,2,3/29/2020,"Colbun, Region del Maule, Chile","Colbun,+Region+del+Maule,+Chile",0,-35.699248,-71.4146915,1,Maule,10
+95,Bulnes,12,3/29/2020,"Bulnes, Region de Nuble, Chile","Bulnes,+Region+de+Nuble,+Chile",0,-36.7421593,-72.3017718,,Nuble,10
+96,Chillan,114,3/29/2020,"Chillan, Region de Nuble, Chile","Chillan,+Region+de+Nuble,+Chile",0,-36.6062618,-72.1023351,,Nuble,10
+97,Chillan Viejo,13,3/29/2020,"Chillan Viejo, Region de Nuble, Chile","Chillan+Viejo,+Region+de+Nuble,+Chile",0,-36.6291031,-72.1397968,,Nuble,10
+98,Quillon,4,3/29/2020,"Quillon, Region de Nuble, Chile","Quillon,+Region+de+Nuble,+Chile",0,-36.7338906,-72.4602031,1,Nuble,10
+99,San Carlos,8,3/29/2020,"San Carlos, Region de Nuble, Chile","San+Carlos,+Region+de+Nuble,+Chile",0,-36.4229711,-71.9646398,1,Nuble,10
+100,San Nicolas,3,3/29/2020,"San Nicolas, Region de Nuble, Chile","San+Nicolas,+Region+de+Nuble,+Chile",0,-36.5,-72.2167,1,Nuble,10
+101,San Fabian,1,3/29/2020,"San Fabian, Region de Nuble, Chile","San+Fabian,+Region+de+Nuble,+Chile",0,-36.55,-71.55,1,Nuble,10
+102,Colhueco,2,3/29/2020,"Colhueco, Region de Nuble, Chile","Colhueco,+Region+de+Nuble,+Chile",0,-36.6291031,-71.8327093,1,Nuble,10
+103,Pinto,1,3/29/2020,"Pinto, Region de Nuble, Chile","Pinto,+Region+de+Nuble,+Chile",0,-36.7,-71.8940937,1,Nuble,10
+104,El Carmen,1,3/29/2020,"El Carmen, Region de Nuble, Chile","El+Carmen,+Region+de+Nuble,+Chile",0,-36.9,-72.0333,1,Nuble,10
+105,San Ignacio,2,3/29/2020,"San Ignacio, Region de Nuble, Chile","San+Ignacio,+Region+de+Nuble,+Chile",0,-36.533333,-72.433333,1,Nuble,10
+106,Yungay,1,3/29/2020,"Yungay, Region de Nuble, Chile","Yungay,+Region+de+Nuble,+Chile",0,-37.1220156,-72.0131562,1,Nuble,10
+107,Chiguayante,6,3/29/2020,"Chiguayante, Region del Biobio, Chile","Chiguayante,+Region+del+Biobio,+Chile",0,-36.9532201,-73.0173901,,Biobio,10
+108,Concepcion,28,3/29/2020,"Concepcion, Region del Biobio, Chile","Concepcion,+Region+del+Biobio,+Chile",0,-36.8201352,-73.0443904,,Biobio,10
+109,Los Angeles,11,3/29/2020,"Los Angeles, Region del Biobio, Chile","Los+Angeles,+Region+del+Biobio,+Chile",0,-37.4629159,-72.3612251,,Biobio,10
+110,San Pedro de la Paz,18,3/29/2020,"San Pedro de la Paz, Region del Biobio, Chile","San+Pedro+de+la+Paz,+Region+del+Biobio,+Chile",0,-36.8305354,-73.1167368,,Biobio,10
+111,Tome,4,3/29/2020,"Tome, Region del Biobio, Chile","Tome,+Region+del+Biobio,+Chile",0,-36.6131562,-72.9588593,,Biobio,10
+112,Yumbel,5,3/29/2020,"Yumbel, Region del Biobio, Chile","Yumbel,+Region+del+Biobio,+Chile",0,-37.0833,-72.5667,,Biobio,10
+113,Talcahuano,3,3/29/2020,"Talcahuano, Region del Biobio, Chile","Talcahuano,+Region+del+Biobio,+Chile",0,-36.7247834,-73.1169808,1,Biobio,10
+114,Hualpen,2,3/29/2020,"Hualpen, Region del Biobio, Chile","Hualpen,+Region+del+Biobio,+Chile",0,-36.7866757,-73.1099531,1,Biobio,10
+115,Hualqui,1,3/29/2020,"Hualqui, Region del Biobio, Chile","Hualqui,+Region+del+Biobio,+Chile",0,-36.9737875,-72.9368437,1,Biobio,10
+116,Arauco,1,3/29/2020,"Arauco, Region del Biobio, Chile","Arauco,+Region+del+Biobio,+Chile",0,-37.2457765,-73.3166644,1,Biobio,10
+117,Nacimiento,1,3/29/2020,"Nacimiento, Region del Biobio, Chile","Nacimiento,+Region+del+Biobio,+Chile",0,-37.5059062,-72.6737875,1,Biobio,10
+118,Laja,2,3/29/2020,"Laja, Region del Biobio, Chile","Laja,+Region+del+Biobio,+Chile",0,-37.271425,-72.7194906,1,Biobio,10
+119,Mulchen,1,3/29/2020,"Mulchen, Region del Biobio, Chile","Mulchen,+Region+del+Biobio,+Chile",0,-37.7178812,-72.2374343,1,Biobio,10
+120,Santa Barbara,1,3/29/2020,"Santa Barbara, Region del Biobio, Chile","Santa+Barbara,+Region+del+Biobio,+Chile",0,-37.6667,-72.0167,1,Biobio,10
+121,Alto Biobio,1,3/29/2020,"Alto Biobio, Region del Biobio, Chile","Alto+Biobio,+Region+del+Biobio,+Chile",0,-38.05,-71.316667,1,Biobio,10
+122,Angol,7,3/29/2020,"Angol, Region de la Araucania, Chile","Angol,+Region+de+la+Araucania,+Chile",0,-37.8060734,-72.7038047,,Araucania,10
+123,Gorbea,4,3/29/2020,"Gorbea, Region de la Araucania, Chile","Gorbea,+Region+de+la+Araucania,+Chile",0,-39.1005597,-72.67636,,Araucania,10
+124,Padre las Casas,9,3/29/2020,"Padre las Casas, Region de la Araucania, Chile","Padre+las+Casas,+Region+de+la+Araucania,+Chile",0,-38.7682352,-72.5989708,,Araucania,10
+125,Pitrufquen,4,3/29/2020,"Pitrufquen, Region de la Araucania, Chile","Pitrufquen,+Region+de+la+Araucania,+Chile",0,-38.9833,-72.6417312,,Araucania,10
+126,Temuco,154,3/29/2020,"Temuco, Region de la Araucania, Chile","Temuco,+Region+de+la+Araucania,+Chile",0,-38.7359018,-72.5903739,,Araucania,10
+127,Victoria,5,3/29/2020,"Victoria, Region de la Araucania, Chile","Victoria,+Region+de+la+Araucania,+Chile",0,-38.2326538,-72.3515084,,Araucania,10
+128,Vilcun,4,3/29/2020,"Vilcun, Region de la Araucania, Chile","Vilcun,+Region+de+la+Araucania,+Chile",0,-38.6677187,-72.2244406,,Araucania,10
+129,Perquenco,1,3/29/2020,"Perquenco, Region de la Araucania, Chile","Perquenco,+Region+de+la+Araucania,+Chile",0,-38.4161093,-72.3756218,1,Araucania,10
+130,Carahue,1,3/29/2020,"Carahue, Region de la Araucania, Chile","Carahue,+Region+de+la+Araucania,+Chile",0,-38.7088593,-73.1678812,1,Araucania,10
+131,Galvarino,1,3/29/2020,"Galvarino, Region de la Araucania, Chile","Galvarino,+Region+de+la+Araucania,+Chile",0,-38.4088593,-72.7821187,1,Araucania,10
+132,Cholchol,2,3/29/2020,"Cholchol, Region de la Araucania, Chile","Cholchol,+Region+de+la+Araucania,+Chile",0,-38.6005906,-72.8411406,1,Araucania,10
+133,Lautaro,1,3/29/2020,"Lautaro, Region de la Araucania, Chile","Lautaro,+Region+de+la+Araucania,+Chile",0,-38.5084312,-72.4541343,1,Araucania,10
+134,Freire,1,3/29/2020,"Freire, Region de la Araucania, Chile","Freire,+Region+de+la+Araucania,+Chile",0,-38.9573,-72.6269289,1,Araucania,10
+135,Tolten,1,3/29/2020,"Tolten, Region de la Araucania, Chile","Tolten,+Region+de+la+Araucania,+Chile",0,-39.1769265,-73.1681231,1,Araucania,10
+136,Loncoche,1,3/29/2020,"Loncoche, Region de la Araucania, Chile","Loncoche,+Region+de+la+Araucania,+Chile",0,-39.3681199,-72.6315127,1,Araucania,10
+137,Villarrica,3,3/29/2020,"Villarrica, Region de la Araucania, Chile","Villarrica,+Region+de+la+Araucania,+Chile",0,-39.2820124,-72.2307798,1,Araucania,10
+138,Pucon,3,3/29/2020,"Pucon, Region de la Araucania, Chile","Pucon,+Region+de+la+Araucania,+Chile",0,-39.2722541,-71.9776285,1,Araucania,10
+139,Curarrehue,1,3/29/2020,"Curarrehue, Region de la Araucania, Chile","Curarrehue,+Region+de+la+Araucania,+Chile",0,-39.3616465,-71.5890276,1,Araucania,10
+140,Valdivia,12,3/29/2020,"Valdivia, Region de los Rios, Chile","Valdivia,+Region+de+los+Rios,+Chile",0,-39.8335811,-73.215417,,Los Rios,10
+141,Mafil,2,3/29/2020,"Mafil, Region de los Rios, Chile","Mafil,+Region+de+los+Rios,+Chile",0,-39.6648976,-72.9571573,1,Los Rios,10
+142,La Union,1,3/29/2020,"La Union, Region de los Rios, Chile","La+Union,+Region+de+los+Rios,+Chile",0,-40.2952749,-73.079328,1,Los Rios,10
+143,Rio Bueno,1,3/29/2020,"Rio Bueno, Region de los Rios, Chile","Rio+Bueno,+Region+de+los+Rios,+Chile",0,-40.3313422,-72.9485366,1,Los Rios,10
+144,Calbuco,3,3/29/2020,"Calbuco, Region de los Lagos, Chile","Calbuco,+Region+de+los+Lagos,+Chile",0,-41.7720156,-73.1327093,,Los Lagos,10
+145,Osorno,66,3/29/2020,"Osorno, Region de los Lagos, Chile","Osorno,+Region+de+los+Lagos,+Chile",0,-40.5761897,-73.1149469,,Los Lagos,10
+146,Puerto Montt,34,3/29/2020,"Puerto Montt, Region de los Lagos, Chile","Puerto+Montt,+Region+de+los+Lagos,+Chile",0,-41.468917,-72.9411364,,Los Lagos,10
+147,San Pablo,1,3/29/2020,"San Pablo, Region de los Lagos, Chile","San+Pablo,+Region+de+los+Lagos,+Chile",0,-40.4124926,-73.0124926,,Los Lagos,10
+148,Puyehue,1,3/29/2020,"Puyehue, Region de los Lagos, Chile","Puyehue,+Region+de+los+Lagos,+Chile",0,-40.6833658,-72.6015589,,Los Lagos,10
+149,Puerto Octay,1,3/29/2020,"Puerto Octay, Region de los Lagos, Chile","Puerto+Octay,+Region+de+los+Lagos,+Chile",0,-40.9768373,-72.8819616,,Los Lagos,10
+150,Puerto Varas,1,3/29/2020,"Puerto Varas, Region de los Lagos, Chile","Puerto+Varas,+Region+de+los+Lagos,+Chile",0,-41.3167,-72.9833,,Los Lagos,10
+151,Los Muermos,1,3/29/2020,"Los Muermos, Region de los Lagos, Chile","Los+Muermos,+Region+de+los+Lagos,+Chile",0,-41.3994093,-73.4649905,,Los Lagos,10
+152,Calbuco,1,3/29/2020,"Calbuco, Region de los Lagos, Chile","Calbuco,+Region+de+los+Lagos,+Chile",0,-41.7720156,-73.1327093,,Los Lagos,10
+153,Hualaiuhue,1,3/29/2020,"Hualaiuhue, Region de los Lagos, Chile","Hualaiuhue,+Region+de+los+Lagos,+Chile",0,-42.1,-72.416667,,Los Lagos,10
+154,Quinchao,1,3/29/2020,"Quinchao, Region de los Lagos, Chile","Quinchao,+Region+de+los+Lagos,+Chile",0,-42.5381325,-73.4187729,,Los Lagos,10
+155,Castro,1,3/29/2020,"Castro, Region de los Lagos, Chile","Castro,+Region+de+los+Lagos,+Chile",0,-42.4801402,-73.7624137,,Los Lagos,10
+156,Coyhaique,2,3/29/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,10
+157,Aysen,1,3/29/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.9864001,-73.7669461,,Aysen,10
+158,Cabo de Hornos,5,3/29/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,10
+159,Punta Arenas,29,3/29/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,10
+160,Natales,1,3/29/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,10
+161,,,,,,,-35.46020167,-71.57785555,,All,3
+162,,,,,,,-35.46020167,-71.57785555,,All,3
+1,Buin,8,3/30/2020,"Buin, Region Metropolitana, Chile","Buin,+Region+Metropolitana,+Chile",0,-33.7313897,-70.742431,,Metropolitana,10
+2,Calera de Tango,7,3/30/2020,"Calera de Tango, Region Metropolitana, Chile","Calera+de+Tango,+Region+Metropolitana,+Chile",0,-33.6291031,-70.7686968,,Metropolitana,10
+3,Cerrillos,4,3/30/2020,"Cerrillos, Region Metropolitana, Chile","Cerrillos,+Region+Metropolitana,+Chile",0,-33.5022166,-70.7476042,,Metropolitana,10
+4,Cerro Navia,21,3/30/2020,"Cerro Navia, Region Metropolitana, Chile","Cerro+Navia,+Region+Metropolitana,+Chile",0,-33.4218958,-70.7404531,,Metropolitana,10
+5,Colina,39,3/30/2020,"Colina, Region Metropolitana, Chile","Colina,+Region+Metropolitana,+Chile",0,-33.2045451,-70.6759654,,Metropolitana,10
+6,Conchali,18,3/30/2020,"Conchali, Region Metropolitana, Chile","Conchali,+Region+Metropolitana,+Chile",0,-33.3846893,-70.6800213,,Metropolitana,10
+7,Curacavi,5,3/30/2020,"Curacavi, Region Metropolitana, Chile","Curacavi,+Region+Metropolitana,+Chile",0,-33.4009037,-71.1267263,,Metropolitana,10
+8,El Bosque,28,3/30/2020,"El Bosque, Region Metropolitana, Chile","El+Bosque,+Region+Metropolitana,+Chile",0,-33.5589761,-70.6787503,,Metropolitana,10
+9,Estacion Central,22,3/30/2020,"Estacion Central, Region Metropolitana, Chile","Estacion+Central,+Region+Metropolitana,+Chile",0,-33.4619178,-70.6985099,,Metropolitana,10
+10,Huechuraba,19,3/30/2020,"Huechuraba, Region Metropolitana, Chile","Huechuraba,+Region+Metropolitana,+Chile",0,-33.3742128,-70.6367425,,Metropolitana,10
+11,Independencia,17,3/30/2020,"Independencia, Region Metropolitana, Chile","Independencia,+Region+Metropolitana,+Chile",0,-33.4155974,-70.6642603,,Metropolitana,10
+12,La Cisterna,12,3/30/2020,"La Cisterna, Region Metropolitana, Chile","La+Cisterna,+Region+Metropolitana,+Chile",0,-33.5264495,-70.6613511,,Metropolitana,10
+13,La Florida,58,3/30/2020,"La Florida, Region Metropolitana, Chile","La+Florida,+Region+Metropolitana,+Chile",0,-33.5226882,-70.5987142,,Metropolitana,10
+14,La Granja,8,3/30/2020,"La Granja, Region Metropolitana, Chile","La+Granja,+Region+Metropolitana,+Chile",0,-33.5377931,-70.620678,,Metropolitana,10
+15,La Reina,26,3/30/2020,"La Reina, Region Metropolitana, Chile","La+Reina,+Region+Metropolitana,+Chile",0,-33.4411269,-70.5340591,,Metropolitana,10
+16,Lampa,10,3/30/2020,"Lampa, Region Metropolitana, Chile","Lampa,+Region+Metropolitana,+Chile",0,-33.2827093,-70.879328,,Metropolitana,10
+17,Las Condes,208,3/30/2020,"Las Condes, Region Metropolitana, Chile","Las+Condes,+Region+Metropolitana,+Chile",0,-33.4079424,-70.5451063,,Metropolitana,10
+18,Lo Barnechea,78,3/30/2020,"Lo Barnechea, Region Metropolitana, Chile","Lo+Barnechea,+Region+Metropolitana,+Chile",0,-33.352669,-70.518517,,Metropolitana,10
+19,Lo Espejo,7,3/30/2020,"Lo Espejo, Region Metropolitana, Chile","Lo+Espejo,+Region+Metropolitana,+Chile",0,-33.5220498,-70.690565,,Metropolitana,10
+20,Lo Prado,18,3/30/2020,"Lo Prado, Region Metropolitana, Chile","Lo+Prado,+Region+Metropolitana,+Chile",0,-33.4442688,-70.7233493,,Metropolitana,10
+21,Macul,15,3/30/2020,"Macul, Region Metropolitana, Chile","Macul,+Region+Metropolitana,+Chile",0,-33.4851471,-70.5992005,,Metropolitana,10
+22,Maipu,55,3/30/2020,"Maipu, Region Metropolitana, Chile","Maipu,+Region+Metropolitana,+Chile",0,-33.5105866,-70.7572607,,Metropolitana,10
+23,Melipilla,8,3/30/2020,"Melipilla, Region Metropolitana, Chile","Melipilla,+Region+Metropolitana,+Chile",0,-33.6858668,-71.2180485,,Metropolitana,10
+24,Nunoa,84,3/30/2020,"Nunoa, Region Metropolitana, Chile","Nunoa,+Region+Metropolitana,+Chile",0,-33.4566678,-70.5978415,,Metropolitana,10
+25,Padre Hurtado,11,3/30/2020,"Padre Hurtado, Region Metropolitana, Chile","Padre+Hurtado,+Region+Metropolitana,+Chile",0,-33.5695362,-70.8156717,,Metropolitana,10
+26,Pedro Aguirre Cerda,13,3/30/2020,"Pedro Aguirre Cerda, Region Metropolitana, Chile","Pedro+Aguirre+Cerda,+Region+Metropolitana,+Chile",0,-33.4940901,-70.6765026,,Metropolitana,10
+27,Penaflor,13,3/30/2020,"Penaflor, Region Metropolitana, Chile","Penaflor,+Region+Metropolitana,+Chile",0,-33.6060255,-70.8781837,,Metropolitana,10
+28,Penalolen,46,3/30/2020,"Penalolen, Region Metropolitana, Chile","Penalolen,+Region+Metropolitana,+Chile",0,-33.4719116,-70.5627854,,Metropolitana,10
+29,Providencia,86,3/30/2020,"Providencia, Region Metropolitana, Chile","Providencia,+Region+Metropolitana,+Chile",0,-33.4314474,-70.6093325,,Metropolitana,10
+30,Pudahuel,25,3/30/2020,"Pudahuel, Region Metropolitana, Chile","Pudahuel,+Region+Metropolitana,+Chile",0,-33.4421135,-70.7640644,,Metropolitana,10
+31,Puente Alto,58,3/30/2020,"Puente Alto, Region Metropolitana, Chile","Puente+Alto,+Region+Metropolitana,+Chile",0,-33.6186082,-70.5906057,,Metropolitana,10
+32,Quilicura,29,3/30/2020,"Quilicura, Region Metropolitana, Chile","Quilicura,+Region+Metropolitana,+Chile",0,-33.3576747,-70.7292718,,Metropolitana,10
+33,Quinta Normal,25,3/30/2020,"Quinta Normal, Region Metropolitana, Chile","Quinta+Normal,+Region+Metropolitana,+Chile",0,-33.4317378,-70.6923917,,Metropolitana,10
+34,Recoleta,23,3/30/2020,"Recoleta, Region Metropolitana, Chile","Recoleta,+Region+Metropolitana,+Chile",0,-33.4061916,-70.6336176,,Metropolitana,10
+35,Renca,14,3/30/2020,"Renca, Region Metropolitana, Chile","Renca,+Region+Metropolitana,+Chile",0,-33.4063601,-70.7279965,,Metropolitana,10
+36,San Bernardo,41,3/30/2020,"San Bernardo, Region Metropolitana, Chile","San+Bernardo,+Region+Metropolitana,+Chile",0,-33.5854485,-70.6987361,,Metropolitana,10
+37,San Joaquin,24,3/30/2020,"San Joaquin, Region Metropolitana, Chile","San+Joaquin,+Region+Metropolitana,+Chile",0,-33.496202,-70.6283361,,Metropolitana,10
+38,San Miguel,32,3/30/2020,"San Miguel, Region Metropolitana, Chile","San+Miguel,+Region+Metropolitana,+Chile",0,-33.4923545,-70.651797,,Metropolitana,10
+39,San Ramon,6,3/30/2020,"San Ramon, Region Metropolitana, Chile","San+Ramon,+Region+Metropolitana,+Chile",0,-33.5377228,-70.6605006,,Metropolitana,10
+40,Santiago,156,3/30/2020,"Santiago, Region Metropolitana, Chile","Santiago,+Region+Metropolitana,+Chile",0,-33.4375545,-70.6504896,,Metropolitana,10
+41,Vitacura,90,3/30/2020,"Vitacura, Region Metropolitana, Chile","Vitacura,+Region+Metropolitana,+Chile",0,-33.3905211,-70.5724124,,Metropolitana,10
+42,Tiltil,3,3/30/2020,"Tiltil, Region Metropolitana, Chile","Tiltil,+Region+Metropolitana,+Chile",0,-33.0838906,-70.9279843,1,Metropolitana,10
+43,San Jose de Maipo,3,3/30/2020,"San Jose de Maipo, Region Metropolitana, Chile","San+Jose+de+Maipo,+Region+Metropolitana,+Chile",0,-33.643169,-70.345207,1,Metropolitana,10
+44,Paine,3,3/30/2020,"Paine, Region Metropolitana, Chile","Paine,+Region+Metropolitana,+Chile",0,-33.8086235,-70.7392929,1,Metropolitana,10
+45,El Monte,3,3/30/2020,"El Monte, Region Metropolitana, Chile","El+Monte,+Region+Metropolitana,+Chile",0,-33.6815281,-70.9853968,1,Metropolitana,10
+46,Talagante,5,3/30/2020,"Talagante, Region Metropolitana, Chile","Talagante,+Region+Metropolitana,+Chile",0,-33.6625182,-70.9249706,,Metropolitana,10
+47,Pirque,3,3/30/2020,"Pirque, Region Metropolitana, Chile","Pirque,+Region+Metropolitana,+Chile",0,-33.7251289,-70.6651227,1,Metropolitana,10
+48,Arica,6,3/30/2020,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,-18.4782534,-70.3125988,,Arica y Parinacota,12
+49,Iquique,9,3/30/2020,"Iquique, Region de Tarapaca, Chile","Iquique,+Region+de+Tarapaca,+Chile",0,-20.2307033,-70.1356692,,Tarapaca,12
+50,Alto Hospicio,1,3/30/2020,"Alto Hospicio, Region de Tarapaca, Chile","Alto+Hospicio,+Region+de+Tarapaca,+Chile",0,-20.2714968,-70.1262983,,Tarapaca,12
+51,Antofagasta,32,3/30/2020,"Antofagasta, Region de Antofagasta, Chile","Antofagasta,+Region+de+Antofagasta,+Chile",0,-23.6509279,-70.3975022,,Antofagasta,12
+52,Calama,3,3/30/2020,"Calama, Region de Antofagasta, Chile","Calama,+Region+de+Antofagasta,+Chile",0,-22.4543923,-68.9293819,1,Antofagasta,12
+53,Tocopilla,2,3/30/2020,"Tocopilla, Region de Antofagasta, Chile","Tocopilla,+Region+de+Antofagasta,+Chile",0,-22.0857976,-70.1930064,1,Antofagasta,12
+54,San Pedro de Atacama,2,3/30/2020,"San Pedro de Atacama, Region de Antofagasta, Chile","San+Pedro+de+Atacama,+Region+de+Antofagasta,+Chile",0,-22.9087073,-68.1997156,1,Antofagasta,12
+55,Diego de Almagro,1,3/30/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,8
+56,Copiapo,2,3/30/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,8
+57,Coquimbo,19,3/30/2020,"Coquimbo, Region de Coquimbo, Chile","Coquimbo,+Region+de+Coquimbo,+Chile",0,-29.9590009,-71.3389183,,Coquimbo,10
+58,Ovalle,4,3/30/2020,"Ovalle, Region de Coquimbo, Chile","Ovalle,+Region+de+Coquimbo,+Chile",0,-30.604304,-71.1969882,,Coquimbo,10
+59,La Serena,3,3/30/2020,"La Serena, Region de Coquimbo, Chile","La+Serena,+Region+de+Coquimbo,+Chile",0,-29.9026691,-71.2519374,1,Coquimbo,10
+60,Rio Hurtado,1,3/30/2020,"Rio Hurtado, Region de Coquimbo, Chile","Rio+Hurtado,+Region+de+Coquimbo,+Chile",0,-30.266667,-70.666667,1,Coquimbo,10
+61,Salamanca,1,3/30/2020,"Salamanca, Region de Coquimbo, Chile","Salamanca,+Region+de+Coquimbo,+Chile",0,-31.782493,-70.9607105,1,Coquimbo,10
+62,Los Vilos,2,3/30/2020,"Los Vilos, Region de Coquimbo, Chile","Los+Vilos,+Region+de+Coquimbo,+Chile",0,-31.9121865,-71.5112017,1,Coquimbo,10
+63,Algarrobo,7,3/30/2020,"Algarrobo, Region de Valparaiso, Chile","Algarrobo,+Region+de+Valparaiso,+Chile",0,-33.3647762,-71.6705534,,Valparaiso,11
+64,Calera,6,3/30/2020,"Calera, Region de Valparaiso, Chile","Calera,+Region+de+Valparaiso,+Chile",0,-32.7873428,-71.20732,,Valparaiso,11
+65,Quillota,7,3/30/2020,"Quillota, Region de Valparaiso, Chile","Quillota,+Region+de+Valparaiso,+Chile",0,-32.8803027,-71.2497156,,Valparaiso,11
+66,Quilpue,11,3/30/2020,"Quilpue, Region de Valparaiso, Chile","Quilpue,+Region+de+Valparaiso,+Chile",0,-33.0482707,-71.4408752,,Valparaiso,11
+67,Valparaiso,26,3/30/2020,"Valparaiso, Region de Valparaiso, Chile","Valparaiso,+Region+de+Valparaiso,+Chile",0,-33.047238,-71.6126885,,Valparaiso,11
+68,Villa Alemana,8,3/30/2020,"Villa Alemana, Region de Valparaiso, Chile","Villa+Alemana,+Region+de+Valparaiso,+Chile",0,-33.0495006,-71.374603,,Valparaiso,11
+69,Vina del Mar,38,3/30/2020,"Vina del Mar, Region de Valparaiso, Chile","Vina+del+Mar,+Region+de+Valparaiso,+Chile",0,-33.0153481,-71.5500276,,Valparaiso,11
+70,La Ligua,2,3/30/2020,"La Ligua, Region de Valparaiso, Chile","La+Ligua,+Region+de+Valparaiso,+Chile",0,-32.4499018,-71.2325958,1,Valparaiso,11
+71,Putaendo,2,3/30/2020,"Putaendo, Region de Valparaiso, Chile","Putaendo,+Region+de+Valparaiso,+Chile",0,-32.628461,-70.7177434,1,Valparaiso,11
+72,Santa Maria,2,3/30/2020,"Santa Maria, Region de Valparaiso, Chile","Santa+Maria,+Region+de+Valparaiso,+Chile",0,-32.7502654,-70.6658292,,Valparaiso,11
+73,La Cruz,2,3/30/2020,"La Cruz, Region de Valparaiso, Chile","La+Cruz,+Region+de+Valparaiso,+Chile",0,-32.8257881,-71.2360603,,Valparaiso,11
+74,San Felipe,2,3/30/2020,"San Felipe, Region de Valparaiso, Chile","San+Felipe,+Region+de+Valparaiso,+Chile",0,-32.75,-70.7208115,1,Valparaiso,11
+75,Los Andes,2,3/30/2020,"Los Andes, Region de Valparaiso, Chile","Los+Andes,+Region+de+Valparaiso,+Chile",0,-32.8337995,-70.5972179,1,Valparaiso,11
+76,Quintero,2,3/30/2020,"Quintero, Region de Valparaiso, Chile","Quintero,+Region+de+Valparaiso,+Chile",0,-32.7723101,-71.5333,1,Valparaiso,11
+77,Concon,2,3/30/2020,"Concon, Region de Valparaiso, Chile","Concon,+Region+de+Valparaiso,+Chile",0,-32.9299468,-71.5186065,1,Valparaiso,11
+78,Limache,2,3/30/2020,"Limache, Region de Valparaiso, Chile","Limache,+Region+de+Valparaiso,+Chile",0,-33.0012816,-71.268144,1,Valparaiso,11
+79,Casa Blanca,2,3/30/2020,"Casa Blanca, Region de Valparaiso, Chile","Casa+Blanca,+Region+de+Valparaiso,+Chile",0,-33.3182828,-71.4070899,1,Valparaiso,11
+80,El Tabo,1,3/30/2020,"El Tabo, Region de Valparaiso, Chile","El+Tabo,+Region+de+Valparaiso,+Chile",0,-33.4557162,-71.6669341,1,Valparaiso,11
+81,San Antonio,4,3/30/2020,"San Antonio, Region de Valparaiso, Chile","San+Antonio,+Region+de+Valparaiso,+Chile",0,-33.5922807,-71.6055123,,Valparaiso,11
+82,Petorca,2,3/30/2020,"Petorca, Region de Valparaiso, Chile","Petorca,+Region+de+Valparaiso,+Chile",0,-32.2499811,-70.9420548,1,Valparaiso,11
+83,Santo Domingo,1,3/30/2020,"Santo Domingo, Region de Valparaiso, Chile","Santo+Domingo,+Region+de+Valparaiso,+Chile",0,-33.635833,-71.628056,1,Valparaiso,11
+84,Rancagua,7,3/30/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,10
+85,Machali,6,3/30/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,,Ohiggins,10
+86,Requinoa,3,3/30/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,10
+87,Rengo,1,3/30/2020,"Rengo, Region de Ohiggins, Chile","Rengo,+Region+de+Ohiggins,+Chile",0,-34.4028433,-70.8608394,1,Ohiggins,10
+88,Quinta de Tilcoco,1,3/30/2020,"Quinta de Tilcoco, Region de Ohiggins, Chile","Quinta+de+Tilcoco,+Region+de+Ohiggins,+Chile",0,-34.3554003,-70.9704681,1,Ohiggins,10
+89,San Fernando,4,3/30/2020,"San Fernando, Region de Ohiggins, Chile","San+Fernando,+Region+de+Ohiggins,+Chile",0,-34.5858603,-70.9907801,,Ohiggins,10
+90,San Vicente,2,3/30/2020,"San Vicente, Region de Ohiggins, Chile","San+Vicente,+Region+de+Ohiggins,+Chile",0,-34.43671,-71.0992856,1,Ohiggins,10
+91,Chimbarongo,2,3/30/2020,"Chimbarongo, Region de Ohiggins, Chile","Chimbarongo,+Region+de+Ohiggins,+Chile",0,-34.7055157,-71.0583384,1,Ohiggins,10
+92,Curico,8,3/30/2020,"Curico, Region del Maule, Chile","Curico,+Region+del+Maule,+Chile",0,-34.9779853,-71.2528803,,Maule,10
+93,Linares,6,3/30/2020,"Linares, Region del Maule, Chile","Linares,+Region+del+Maule,+Chile",0,-35.846407,-71.5996137,,Maule,10
+94,Parral,4,3/30/2020,"Parral, Region del Maule, Chile","Parral,+Region+del+Maule,+Chile",0,-36.1406484,-71.8227528,,Maule,10
+95,Talca,37,3/30/2020,"Talca, Region del Maule, Chile","Talca,+Region+del+Maule,+Chile",0,-35.4232444,-71.6484804,,Maule,10
+96,Romeral,1,3/30/2020,"Romeral, Region del Maule, Chile","Romeral,+Region+del+Maule,+Chile",0,-34.933333,-71.316667,1,Maule,10
+97,Molina,2,3/30/2020,"Molina, Region del Maule, Chile","Molina,+Region+del+Maule,+Chile",0,-35.1164987,-71.2829759,1,Maule,10
+98,Rio Claro,1,3/30/2020,"Rio Claro, Region del Maule, Chile","Rio+Claro,+Region+del+Maule,+Chile",0,-35.2808267,-71.2599507,1,Maule,10
+99,Maule,2,3/30/2020,"Maule, Region del Maule, Chile","Maule,+Region+del+Maule,+Chile",0,-35.5163603,-71.5723953,1,Maule,10
+100,Pelluhue,2,3/30/2020,"Pelluhue, Region del Maule, Chile","Pelluhue,+Region+del+Maule,+Chile",0,-35.8141512,-72.5749979,1,Maule,10
+101,Cauquenes,2,3/30/2020,"Cauquenes, Region del Maule, Chile","Cauquenes,+Region+del+Maule,+Chile",0,-35.9676285,-72.3222331,1,Maule,10
+102,Longavi,1,3/30/2020,"Longavi, Region del Maule, Chile","Longavi,+Region+del+Maule,+Chile",0,-35.9636265,-71.6831251,1,Maule,10
+103,Colbun,4,3/30/2020,"Colbun, Region del Maule, Chile","Colbun,+Region+del+Maule,+Chile",0,-35.699248,-71.4146915,,Maule,10
+104,San Javier,1,3/30/2020,"San Javier, Region del Maule, Chile","San+Javier,+Region+del+Maule,+Chile",0,-35.595683,-71.7411256,1,Maule,10
+105,Bulnes,18,3/30/2020,"Bulnes, Region de Nuble, Chile","Bulnes,+Region+de+Nuble,+Chile",0,-36.7421593,-72.3017718,,Nuble,10
+106,Chillan,173,3/30/2020,"Chillan, Region de Nuble, Chile","Chillan,+Region+de+Nuble,+Chile",0,-36.6062618,-72.1023351,,Nuble,10
+107,Chillan Viejo,22,3/30/2020,"Chillan Viejo, Region de Nuble, Chile","Chillan+Viejo,+Region+de+Nuble,+Chile",0,-36.6291031,-72.1397968,,Nuble,10
+108,Quillon,7,3/30/2020,"Quillon, Region de Nuble, Chile","Quillon,+Region+de+Nuble,+Chile",0,-36.7338906,-72.4602031,1,Nuble,10
+109,San Carlos,13,3/30/2020,"San Carlos, Region de Nuble, Chile","San+Carlos,+Region+de+Nuble,+Chile",0,-36.4229711,-71.9646398,1,Nuble,10
+110,San Nicolas,3,3/30/2020,"San Nicolas, Region de Nuble, Chile","San+Nicolas,+Region+de+Nuble,+Chile",0,-36.5,-72.2167,1,Nuble,10
+111,San Fabian,5,3/30/2020,"San Fabian, Region de Nuble, Chile","San+Fabian,+Region+de+Nuble,+Chile",0,-36.55,-71.55,,Nuble,10
+112,Colhueco,3,3/30/2020,"Colhueco, Region de Nuble, Chile","Colhueco,+Region+de+Nuble,+Chile",0,-36.6291031,-71.8327093,1,Nuble,10
+113,Pinto,3,3/30/2020,"Pinto, Region de Nuble, Chile","Pinto,+Region+de+Nuble,+Chile",0,-36.7,-71.8940937,1,Nuble,10
+114,El Carmen,3,3/30/2020,"El Carmen, Region de Nuble, Chile","El+Carmen,+Region+de+Nuble,+Chile",0,-36.9,-72.0333,1,Nuble,10
+115,San Ignacio,2,3/30/2020,"San Ignacio, Region de Nuble, Chile","San+Ignacio,+Region+de+Nuble,+Chile",0,-36.533333,-72.433333,1,Nuble,10
+116,Yungay,7,3/30/2020,"Yungay, Region de Nuble, Chile","Yungay,+Region+de+Nuble,+Chile",0,-37.1220156,-72.0131562,,Nuble,10
+117,Chiguayante,18,3/30/2020,"Chiguayante, Region del Biobio, Chile","Chiguayante,+Region+del+Biobio,+Chile",0,-36.9532201,-73.0173901,,Biobio,10
+118,Coronel,11,3/30/2020,"Coronel, Region del Biobio, Chile","Coronel,+Region+del+Biobio,+Chile",0,-36.9895025,-73.2273081,,Biobio,10
+119,Concepcion,28,3/30/2020,"Concepcion, Region del Biobio, Chile","Concepcion,+Region+del+Biobio,+Chile",0,-36.8201352,-73.0443904,,Biobio,10
+120,Los Angeles,15,3/30/2020,"Los Angeles, Region del Biobio, Chile","Los+Angeles,+Region+del+Biobio,+Chile",0,-37.4629159,-72.3612251,,Biobio,10
+121,San Pedro de la Paz,50,3/30/2020,"San Pedro de la Paz, Region del Biobio, Chile","San+Pedro+de+la+Paz,+Region+del+Biobio,+Chile",0,-36.8305354,-73.1167368,,Biobio,10
+122,Tome,6,3/30/2020,"Tome, Region del Biobio, Chile","Tome,+Region+del+Biobio,+Chile",0,-36.6131562,-72.9588593,,Biobio,10
+123,Yumbel,5,3/30/2020,"Yumbel, Region del Biobio, Chile","Yumbel,+Region+del+Biobio,+Chile",0,-37.0833,-72.5667,,Biobio,10
+124,Talcahuano,23,3/30/2020,"Talcahuano, Region del Biobio, Chile","Talcahuano,+Region+del+Biobio,+Chile",0,-36.7247834,-73.1169808,,Biobio,10
+125,Hualpen,39,3/30/2020,"Hualpen, Region del Biobio, Chile","Hualpen,+Region+del+Biobio,+Chile",0,-36.7866757,-73.1099531,,Biobio,10
+126,Hualqui,1,3/30/2020,"Hualqui, Region del Biobio, Chile","Hualqui,+Region+del+Biobio,+Chile",0,-36.9737875,-72.9368437,1,Biobio,10
+127,Arauco,5,3/30/2020,"Arauco, Region del Biobio, Chile","Arauco,+Region+del+Biobio,+Chile",0,-37.2457765,-73.3166644,,Biobio,10
+128,Nacimiento,3,3/30/2020,"Nacimiento, Region del Biobio, Chile","Nacimiento,+Region+del+Biobio,+Chile",0,-37.5059062,-72.6737875,1,Biobio,10
+129,Laja,2,3/30/2020,"Laja, Region del Biobio, Chile","Laja,+Region+del+Biobio,+Chile",0,-37.271425,-72.7194906,1,Biobio,10
+130,Mulchen,5,3/30/2020,"Mulchen, Region del Biobio, Chile","Mulchen,+Region+del+Biobio,+Chile",0,-37.7178812,-72.2374343,,Biobio,10
+131,Santa Barbara,3,3/30/2020,"Santa Barbara, Region del Biobio, Chile","Santa+Barbara,+Region+del+Biobio,+Chile",0,-37.6667,-72.0167,1,Biobio,10
+132,Alto Biobio,3,3/30/2020,"Alto Biobio, Region del Biobio, Chile","Alto+Biobio,+Region+del+Biobio,+Chile",0,-38.05,-71.316667,1,Biobio,10
+133,Curanilahue,2,3/30/2020,"Curanilahue, Region del Biobio, Chile","Curanilahue,+Region+del+Biobio,+Chile",0,-37.4762252,-73.3508791,1,Biobio,10
+134,Angol,13,3/30/2020,"Angol, Region de la Araucania, Chile","Angol,+Region+de+la+Araucania,+Chile",0,-37.8060734,-72.7038047,,Araucania,10
+135,Gorbea,6,3/30/2020,"Gorbea, Region de la Araucania, Chile","Gorbea,+Region+de+la+Araucania,+Chile",0,-39.1005597,-72.67636,,Araucania,10
+136,Padre las Casas,14,3/30/2020,"Padre las Casas, Region de la Araucania, Chile","Padre+las+Casas,+Region+de+la+Araucania,+Chile",0,-38.7682352,-72.5989708,,Araucania,10
+137,Pitrufquen,6,3/30/2020,"Pitrufquen, Region de la Araucania, Chile","Pitrufquen,+Region+de+la+Araucania,+Chile",0,-38.9833,-72.6417312,,Araucania,10
+138,Temuco,225,3/30/2020,"Temuco, Region de la Araucania, Chile","Temuco,+Region+de+la+Araucania,+Chile",0,-38.7359018,-72.5903739,,Araucania,10
+139,Victoria,7,3/30/2020,"Victoria, Region de la Araucania, Chile","Victoria,+Region+de+la+Araucania,+Chile",0,-38.2326538,-72.3515084,,Araucania,10
+140,Vilcun,5,3/30/2020,"Vilcun, Region de la Araucania, Chile","Vilcun,+Region+de+la+Araucania,+Chile",0,-38.6677187,-72.2244406,,Araucania,10
+141,Perquenco,1,3/30/2020,"Perquenco, Region de la Araucania, Chile","Perquenco,+Region+de+la+Araucania,+Chile",0,-38.4161093,-72.3756218,1,Araucania,10
+142,Carahue,1,3/30/2020,"Carahue, Region de la Araucania, Chile","Carahue,+Region+de+la+Araucania,+Chile",0,-38.7088593,-73.1678812,1,Araucania,10
+143,Galvarino,1,3/30/2020,"Galvarino, Region de la Araucania, Chile","Galvarino,+Region+de+la+Araucania,+Chile",0,-38.4088593,-72.7821187,1,Araucania,10
+144,Cholchol,2,3/30/2020,"Cholchol, Region de la Araucania, Chile","Cholchol,+Region+de+la+Araucania,+Chile",0,-38.6005906,-72.8411406,1,Araucania,10
+145,Lautaro,8,3/30/2020,"Lautaro, Region de la Araucania, Chile","Lautaro,+Region+de+la+Araucania,+Chile",0,-38.5084312,-72.4541343,,Araucania,10
+146,Freire,1,3/30/2020,"Freire, Region de la Araucania, Chile","Freire,+Region+de+la+Araucania,+Chile",0,-38.9573,-72.6269289,1,Araucania,10
+147,Tolten,1,3/30/2020,"Tolten, Region de la Araucania, Chile","Tolten,+Region+de+la+Araucania,+Chile",0,-39.1769265,-73.1681231,1,Araucania,10
+148,Loncoche,1,3/30/2020,"Loncoche, Region de la Araucania, Chile","Loncoche,+Region+de+la+Araucania,+Chile",0,-39.3681199,-72.6315127,1,Araucania,10
+149,Villarrica,4,3/30/2020,"Villarrica, Region de la Araucania, Chile","Villarrica,+Region+de+la+Araucania,+Chile",0,-39.2820124,-72.2307798,,Araucania,10
+150,Pucon,3,3/30/2020,"Pucon, Region de la Araucania, Chile","Pucon,+Region+de+la+Araucania,+Chile",0,-39.2722541,-71.9776285,1,Araucania,10
+151,Curarrehue,1,3/30/2020,"Curarrehue, Region de la Araucania, Chile","Curarrehue,+Region+de+la+Araucania,+Chile",0,-39.3616465,-71.5890276,1,Araucania,10
+152,Teodoro Schmidt,4,3/30/2020,"Teodoro Schmidt, Region de la Araucania, Chile","Teodoro+Schmidt,+Region+de+la+Araucania,+Chile",0,-38.9991669,-73.1030517,,Araucania,10
+153,Valdivia,45,3/30/2020,"Valdivia, Region de los Rios, Chile","Valdivia,+Region+de+los+Rios,+Chile",0,-39.8335811,-73.215417,,Los Rios,10
+154,Lanco,2,3/30/2020,"Lanco, Region de los Rios, Chile","Lanco,+Region+de+los+Rios,+Chile",0,-39.4510021,-72.7883715,1,Los Rios,10
+155,Futrono,2,3/30/2020,"Futrono, Region de los Rios, Chile","Futrono,+Region+de+los+Rios,+Chile",0,-40.1245239,-72.3896044,1,Los Rios,10
+156,Paillaco,2,3/30/2020,"Paillaco, Region de los Rios, Chile","Paillaco,+Region+de+los+Rios,+Chile",0,-40.0719058,-72.8792485,1,Los Rios,10
+157,Mafil,2,3/30/2020,"Mafil, Region de los Rios, Chile","Mafil,+Region+de+los+Rios,+Chile",0,-39.6648976,-72.9571573,1,Los Rios,10
+158,La Union,9,3/30/2020,"La Union, Region de los Rios, Chile","La+Union,+Region+de+los+Rios,+Chile",0,-40.2952749,-73.079328,,Los Rios,10
+159,Rio Bueno,1,3/30/2020,"Rio Bueno, Region de los Rios, Chile","Rio+Bueno,+Region+de+los+Rios,+Chile",0,-40.3313422,-72.9485366,1,Los Rios,10
+160,Calbuco,5,3/30/2020,"Calbuco, Region de los Lagos, Chile","Calbuco,+Region+de+los+Lagos,+Chile",0,-41.7720156,-73.1327093,,Los Lagos,10
+161,Osorno,120,3/30/2020,"Osorno, Region de los Lagos, Chile","Osorno,+Region+de+los+Lagos,+Chile",0,-40.5761897,-73.1149469,,Los Lagos,10
+162,Puerto Montt,44,3/30/2020,"Puerto Montt, Region de los Lagos, Chile","Puerto+Montt,+Region+de+los+Lagos,+Chile",0,-41.468917,-72.9411364,,Los Lagos,10
+163,San Pablo,1,3/30/2020,"San Pablo, Region de los Lagos, Chile","San+Pablo,+Region+de+los+Lagos,+Chile",0,-40.4124926,-73.0124926,,Los Lagos,10
+164,Puyehue,1,3/30/2020,"Puyehue, Region de los Lagos, Chile","Puyehue,+Region+de+los+Lagos,+Chile",0,-40.6833658,-72.6015589,,Los Lagos,10
+165,Puerto Octay,1,3/30/2020,"Puerto Octay, Region de los Lagos, Chile","Puerto+Octay,+Region+de+los+Lagos,+Chile",0,-40.9768373,-72.8819616,,Los Lagos,10
+166,Puerto Varas,1,3/30/2020,"Puerto Varas, Region de los Lagos, Chile","Puerto+Varas,+Region+de+los+Lagos,+Chile",0,-41.3167,-72.9833,,Los Lagos,10
+167,Los Muermos,1,3/30/2020,"Los Muermos, Region de los Lagos, Chile","Los+Muermos,+Region+de+los+Lagos,+Chile",0,-41.3994093,-73.4649905,,Los Lagos,10
+168,Calbuco,1,3/30/2020,"Calbuco, Region de los Lagos, Chile","Calbuco,+Region+de+los+Lagos,+Chile",0,-41.7720156,-73.1327093,,Los Lagos,10
+169,Hualaiuhue,1,3/30/2020,"Hualaiuhue, Region de los Lagos, Chile","Hualaiuhue,+Region+de+los+Lagos,+Chile",0,-42.1,-72.416667,,Los Lagos,10
+170,Quinchao,1,3/30/2020,"Quinchao, Region de los Lagos, Chile","Quinchao,+Region+de+los+Lagos,+Chile",0,-42.5381325,-73.4187729,,Los Lagos,10
+171,Castro,1,3/30/2020,"Castro, Region de los Lagos, Chile","Castro,+Region+de+los+Lagos,+Chile",0,-42.4801402,-73.7624137,,Los Lagos,10
+172,Coyhaique,2,3/30/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,10
+173,Aysen,1,3/30/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.9864001,-73.7669461,,Aysen,10
+174,Cabo de Hornos,6,3/30/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,10
+175,Punta Arenas,87,3/30/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,10
+176,Natales,4,3/30/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,10
+177,,,3/30/2020,,,,-35.46020167,-71.57785555,,All,3
+178,,,3/30/2020,,,,-35.46020167,-71.57785555,,All,3
