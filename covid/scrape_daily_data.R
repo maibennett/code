@@ -69,7 +69,14 @@ for(i in 1:16){
 #drop regions with no new cases:
 d_update = d_update[d_update$n_obs!=0,]
 
-d = rbind(d,d_update)
+#Only update if there's new data:
+if(days==max(d$day)){
+  d = d
+}
+
+if(days>max(d$day)){
+  d = d = rbind(d,d_update)
+}
 
 path_countdata <- "C:/Users/maibe/Dropbox/covid/data/data_covid_region.csv"
 
