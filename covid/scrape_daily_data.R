@@ -55,6 +55,9 @@ d = read.csv("https://raw.githubusercontent.com/maibennett/code/master/covid/dat
 d_update = cbind(rep(days,nrow(covid_count_table)),covid_count_table)
 names(d_update) = c("day","region","n_obs","Deaths")
 
+d_update$n_obs = as.numeric(d_update$n_obs)
+d_update$Deaths = as.numeric(d_update$Deaths)
+
 d_update$date = paste(month,day,"2020",sep="/")
 
 d_update$region_lat = NA
@@ -63,6 +66,9 @@ d_update$region_lon = NA
 for(i in 1:16){
   d_update$region_lat[d_update$region==regions[i]] = mean(d$region_lat[d$region==regions[i]])
   d_update$region_lon[d_update$region==regions[i]] = mean(d$region_lon[d$region==regions[i]])
+            
+  #Change deaths to new deaths, instead of cumulated deaths, which is what the ministry reports:
+  d_update$Deaths[d_update$region==regions[i]] =   d_update$Deaths[d_update$region==regions[i]] - sum(d$Deaths[d$region==regions[i]])
 }
 
 #Only update if there's new data:
