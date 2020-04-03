@@ -7,7 +7,8 @@ https://maibennett.shinyapps.com/corona_app
 
 Here I'll be adding updated data and some maps for the spread of COVID-19 in Chile! (Note: Data publicly provided by Ministerio de Salud, and locations obtained through Google Maps)
 
-1) **data_covid.csv:** Data from the Ministry for tested individuals (+), with location according to the testing center.
-2) **data_covid_region.csv:** Data from the Ministry for confirmed indivudals by region and date (from the first case, updated daily).
+1) **data_covid.csv:** Data from the Ministry for tested individuals (+), with location according to the testing center (no longer being updated since 03/17).
+2) **data_covid_region.csv:** Data from the Ministry for confirmed indivudals by region and date (from the first case, updated daily), recovered by scraping data from the ministry of health.
+3) **scrape_daily_data.R:** Code originally created by Sue Marquez for NYS (https://github.com/Suemarquez/covid_nys), and adapted to scrape Chilean data.
 3) **covid_maps_public.R:** Quick R code to generate maps for GIFs.
 4) **confirmed_cases_by_residence_latlon.csv:** Confirmed cases by date and county of residency (comuna), as provided by the Ministry of Health in their Epidemiology reports. Lat/Lon refer to latitude and longitude obtained from geocoding the counties using Google's geocode API (you can check out the code in my other repository folders).
