@@ -23,7 +23,7 @@ covid_count_table <- html_nodes(url, "table") %>% #In this case, the data we wan
   filter(Region!="",Region!="Total",Deaths!="Fallecidos") %>% #Filter rows that we don't need
   mutate(Region = regions) %>% #Rename regions so they are equivalent to other files
   mutate(TotalCases = str_replace_all(TotalCases, ".", "")) %>% #Change the thousand separator
-  select(Region:NewCases) #Just select the two columns we need
+  select(Region,NewCases,Deaths) #Just select the columns we need
 
 #Now we need to include the date:
 #Date from 1st case:
@@ -53,7 +53,7 @@ d = read.csv("https://raw.githubusercontent.com/maibennett/code/master/covid/dat
 
 #Build updated data in the format of the previous data
 d_update = cbind(rep(days,nrow(covid_count_table)),covid_count_table)
-names(d_update) = c("day","region","n_obs")
+names(d_update) = c("day","region","n_obs","Deaths")
 
 d_update$date = paste(month,day,"2020",sep="/")
 
@@ -65,16 +65,13 @@ for(i in 1:16){
   d_update$region_lon[d_update$region==regions[i]] = mean(d$region_lon[d$region==regions[i]])
 }
 
-#drop regions with no new cases: (not necessary)
-d_update = d_update[d_update$n_obs!=0,]
-
 #Only update if there's new data:
 if(days==max(d$day)){
   d = d
 }
 
 if(days>max(d$day)){
-  d = d = rbind(d,d_update)
+  d = rbind(d,d_update)
 }
 
 path_countdata <- "C:/Users/maibe/Dropbox/covid/data/data_covid_region.csv"
