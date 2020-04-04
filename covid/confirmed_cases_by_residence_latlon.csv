@@ -50,10 +50,10 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 49,Copiapo,2,3/30/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,12
 50,Diego de Almagro,1,3/29/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,12
 51,Diego de Almagro,1,3/30/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,12
-52,Aysen,1,3/29/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,10
-53,Aysen,1,3/30/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,10
-54,Coyhaique,2,3/29/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,10
-55,Coyhaique,2,3/30/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,10
+52,Aysen,1,3/29/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,9
+53,Aysen,1,3/30/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,9
+54,Coyhaique,2,3/29/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,9
+55,Coyhaique,2,3/30/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,9
 56,Alto Biobio,1,3/29/2020,"Alto Biobio, Region del Biobio, Chile","Alto+Biobio,+Region+del+Biobio,+Chile",0,-38.05,-71.316667,1,Biobio,10
 57,Alto Biobio,3,3/30/2020,"Alto Biobio, Region del Biobio, Chile","Alto+Biobio,+Region+del+Biobio,+Chile",0,-38.05,-71.316667,1,Biobio,10
 58,Arauco,1,3/29/2020,"Arauco, Region del Biobio, Chile","Arauco,+Region+del+Biobio,+Chile",0,-37.2457765,-73.3166644,1,Biobio,10
@@ -362,8 +362,8 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 48,Arica,12,4/2/2020,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,-18.4782534,-70.3125988,,Arica y Parinacota,12
 56,Copiapo,4,4/2/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,12
 55,Diego de Almagro,1,4/2/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,12
-173,Aysen,4,4/2/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,10
-172,Coyhaique,2,4/2/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,10
+173,Aysen,4,4/2/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,9
+172,Coyhaique,2,4/2/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,9
 132,Alto Biobio,3,4/2/2020,"Alto Biobio, Region del Biobio, Chile","Alto+Biobio,+Region+del+Biobio,+Chile",0,-38.05,-71.316667,1,Biobio,10
 127,Arauco,6,4/2/2020,"Arauco, Region del Biobio, Chile","Arauco,+Region+del+Biobio,+Chile",0,-37.2457765,-73.3166644,,Biobio,10
 117,Chiguayante,26,4/2/2020,"Chiguayante, Region del Biobio, Chile","Chiguayante,+Region+del+Biobio,+Chile",0,-36.9532201,-73.0173901,,Biobio,10
