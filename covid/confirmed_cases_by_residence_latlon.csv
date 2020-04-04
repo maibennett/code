@@ -46,12 +46,12 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 45,Villarrica,4,3/30/2020,"Villarrica, Region de la Araucania, Chile","Villarrica,+Region+de+la+Araucania,+Chile",0,-39.2820124,-72.2307798,,Araucania,10
 46,Arica,6,3/29/2020,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,-18.4782534,-70.3125988,,Arica y Parinacota,12
 47,Arica,6,3/30/2020,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,-18.4782534,-70.3125988,,Arica y Parinacota,12
-48,Copiapo,1,3/29/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,8
-49,Copiapo,2,3/30/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,8
-50,Diego de Almagro,1,3/29/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,8
-51,Diego de Almagro,1,3/30/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,8
-52,Aysen,1,3/29/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.9864001,-73.7669461,,Aysen,10
-53,Aysen,1,3/30/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.9864001,-73.7669461,,Aysen,10
+48,Copiapo,1,3/29/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,12
+49,Copiapo,2,3/30/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,12
+50,Diego de Almagro,1,3/29/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,12
+51,Diego de Almagro,1,3/30/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,12
+52,Aysen,1,3/29/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,10
+53,Aysen,1,3/30/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,10
 54,Coyhaique,2,3/29/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,10
 55,Coyhaique,2,3/30/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,10
 56,Alto Biobio,1,3/29/2020,"Alto Biobio, Region del Biobio, Chile","Alto+Biobio,+Region+del+Biobio,+Chile",0,-38.05,-71.316667,1,Biobio,10
@@ -122,23 +122,23 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 121,Quinchao,1,3/30/2020,"Quinchao, Region de los Lagos, Chile","Quinchao,+Region+de+los+Lagos,+Chile",0,-42.5381325,-73.4187729,,Los Lagos,9
 122,San Pablo,1,3/29/2020,"San Pablo, Region de los Lagos, Chile","San+Pablo,+Region+de+los+Lagos,+Chile",0,-40.4124926,-73.0124926,,Los Lagos,9
 123,San Pablo,1,3/30/2020,"San Pablo, Region de los Lagos, Chile","San+Pablo,+Region+de+los+Lagos,+Chile",0,-40.4124926,-73.0124926,,Los Lagos,9
-124,Futrono,2,3/30/2020,"Futrono, Region de los Rios, Chile","Futrono,+Region+de+los+Rios,+Chile",0,-40.1245239,-72.3896044,1,Los Rios,10
-125,La Union,1,3/29/2020,"La Union, Region de los Rios, Chile","La+Union,+Region+de+los+Rios,+Chile",0,-40.2952749,-73.079328,1,Los Rios,10
-126,La Union,9,3/30/2020,"La Union, Region de los Rios, Chile","La+Union,+Region+de+los+Rios,+Chile",0,-40.2952749,-73.079328,,Los Rios,10
-127,Lanco,2,3/30/2020,"Lanco, Region de los Rios, Chile","Lanco,+Region+de+los+Rios,+Chile",0,-39.4510021,-72.7883715,1,Los Rios,10
-128,Mafil,2,3/29/2020,"Mafil, Region de los Rios, Chile","Mafil,+Region+de+los+Rios,+Chile",0,-39.6648976,-72.9571573,1,Los Rios,10
-129,Mafil,2,3/30/2020,"Mafil, Region de los Rios, Chile","Mafil,+Region+de+los+Rios,+Chile",0,-39.6648976,-72.9571573,1,Los Rios,10
-130,Paillaco,2,3/30/2020,"Paillaco, Region de los Rios, Chile","Paillaco,+Region+de+los+Rios,+Chile",0,-40.0719058,-72.8792485,1,Los Rios,10
-131,Rio Bueno,1,3/29/2020,"Rio Bueno, Region de los Rios, Chile","Rio+Bueno,+Region+de+los+Rios,+Chile",0,-40.3313422,-72.9485366,1,Los Rios,10
-132,Rio Bueno,1,3/30/2020,"Rio Bueno, Region de los Rios, Chile","Rio+Bueno,+Region+de+los+Rios,+Chile",0,-40.3313422,-72.9485366,1,Los Rios,10
-133,Valdivia,12,3/29/2020,"Valdivia, Region de los Rios, Chile","Valdivia,+Region+de+los+Rios,+Chile",0,-39.8335811,-73.215417,,Los Rios,10
-134,Valdivia,45,3/30/2020,"Valdivia, Region de los Rios, Chile","Valdivia,+Region+de+los+Rios,+Chile",0,-39.8335811,-73.215417,,Los Rios,10
-135,Cabo de Hornos,5,3/29/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,10
-136,Cabo de Hornos,6,3/30/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,10
-137,Natales,1,3/29/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,10
-138,Natales,4,3/30/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,10
-139,Punta Arenas,29,3/29/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,10
-140,Punta Arenas,87,3/30/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,10
+124,Futrono,2,3/30/2020,"Futrono, Region de los Rios, Chile","Futrono,+Region+de+los+Rios,+Chile",0,-40.1245239,-72.3896044,1,Los Rios,9
+125,La Union,1,3/29/2020,"La Union, Region de los Rios, Chile","La+Union,+Region+de+los+Rios,+Chile",0,-40.2952749,-73.079328,1,Los Rios,9
+126,La Union,9,3/30/2020,"La Union, Region de los Rios, Chile","La+Union,+Region+de+los+Rios,+Chile",0,-40.2952749,-73.079328,,Los Rios,9
+127,Lanco,2,3/30/2020,"Lanco, Region de los Rios, Chile","Lanco,+Region+de+los+Rios,+Chile",0,-39.4510021,-72.7883715,1,Los Rios,9
+128,Mafil,2,3/29/2020,"Mafil, Region de los Rios, Chile","Mafil,+Region+de+los+Rios,+Chile",0,-39.6648976,-72.9571573,1,Los Rios,9
+129,Mafil,2,3/30/2020,"Mafil, Region de los Rios, Chile","Mafil,+Region+de+los+Rios,+Chile",0,-39.6648976,-72.9571573,1,Los Rios,9
+130,Paillaco,2,3/30/2020,"Paillaco, Region de los Rios, Chile","Paillaco,+Region+de+los+Rios,+Chile",0,-40.0719058,-72.8792485,1,Los Rios,9
+131,Rio Bueno,1,3/29/2020,"Rio Bueno, Region de los Rios, Chile","Rio+Bueno,+Region+de+los+Rios,+Chile",0,-40.3313422,-72.9485366,1,Los Rios,9
+132,Rio Bueno,1,3/30/2020,"Rio Bueno, Region de los Rios, Chile","Rio+Bueno,+Region+de+los+Rios,+Chile",0,-40.3313422,-72.9485366,1,Los Rios,9
+133,Valdivia,12,3/29/2020,"Valdivia, Region de los Rios, Chile","Valdivia,+Region+de+los+Rios,+Chile",0,-39.8335811,-73.215417,,Los Rios,9
+134,Valdivia,45,3/30/2020,"Valdivia, Region de los Rios, Chile","Valdivia,+Region+de+los+Rios,+Chile",0,-39.8335811,-73.215417,,Los Rios,9
+135,Cabo de Hornos,5,3/29/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,7
+136,Cabo de Hornos,6,3/30/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,7
+137,Natales,1,3/29/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,7
+138,Natales,4,3/30/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,7
+139,Punta Arenas,29,3/29/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,7
+140,Punta Arenas,87,3/30/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,7
 141,Cauquenes,2,3/29/2020,"Cauquenes, Region del Maule, Chile","Cauquenes,+Region+del+Maule,+Chile",0,-35.9676285,-72.3222331,1,Maule,10
 142,Cauquenes,2,3/30/2020,"Cauquenes, Region del Maule, Chile","Cauquenes,+Region+del+Maule,+Chile",0,-35.9676285,-72.3222331,1,Maule,10
 143,Colbun,2,3/29/2020,"Colbun, Region del Maule, Chile","Colbun,+Region+del+Maule,+Chile",0,-35.699248,-71.4146915,1,Maule,10
@@ -279,20 +279,20 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 278,San Nicolas,3,3/30/2020,"San Nicolas, Region de Nuble, Chile","San+Nicolas,+Region+de+Nuble,+Chile",0,-36.5,-72.2167,1,Nuble,10
 279,Yungay,1,3/29/2020,"Yungay, Region de Nuble, Chile","Yungay,+Region+de+Nuble,+Chile",0,-37.1220156,-72.0131562,1,Nuble,10
 280,Yungay,7,3/30/2020,"Yungay, Region de Nuble, Chile","Yungay,+Region+de+Nuble,+Chile",0,-37.1220156,-72.0131562,,Nuble,10
-281,Chimbarongo,2,3/30/2020,"Chimbarongo, Region de Ohiggins, Chile","Chimbarongo,+Region+de+Ohiggins,+Chile",0,-34.7055157,-71.0583384,1,Ohiggins,10
-282,Machali,2,3/29/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,1,Ohiggins,10
-283,Machali,6,3/30/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,,Ohiggins,10
-284,Quinta de Tilcoco,1,3/29/2020,"Quinta de Tilcoco, Region de Ohiggins, Chile","Quinta+de+Tilcoco,+Region+de+Ohiggins,+Chile",0,-34.3554003,-70.9704681,1,Ohiggins,10
-285,Quinta de Tilcoco,1,3/30/2020,"Quinta de Tilcoco, Region de Ohiggins, Chile","Quinta+de+Tilcoco,+Region+de+Ohiggins,+Chile",0,-34.3554003,-70.9704681,1,Ohiggins,10
-286,Rancagua,7,3/29/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,10
-287,Rancagua,7,3/30/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,10
-288,Rengo,1,3/29/2020,"Rengo, Region de Ohiggins, Chile","Rengo,+Region+de+Ohiggins,+Chile",0,-34.4028433,-70.8608394,1,Ohiggins,10
-289,Rengo,1,3/30/2020,"Rengo, Region de Ohiggins, Chile","Rengo,+Region+de+Ohiggins,+Chile",0,-34.4028433,-70.8608394,1,Ohiggins,10
-290,Requinoa,2,3/29/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,10
-291,Requinoa,3,3/30/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,10
-292,San Fernando,3,3/29/2020,"San Fernando, Region de Ohiggins, Chile","San+Fernando,+Region+de+Ohiggins,+Chile",0,-34.5858603,-70.9907801,1,Ohiggins,10
-293,San Fernando,4,3/30/2020,"San Fernando, Region de Ohiggins, Chile","San+Fernando,+Region+de+Ohiggins,+Chile",0,-34.5858603,-70.9907801,,Ohiggins,10
-294,San Vicente,2,3/30/2020,"San Vicente, Region de Ohiggins, Chile","San+Vicente,+Region+de+Ohiggins,+Chile",0,-34.43671,-71.0992856,1,Ohiggins,10
+281,Chimbarongo,2,3/30/2020,"Chimbarongo, Region de Ohiggins, Chile","Chimbarongo,+Region+de+Ohiggins,+Chile",0,-34.7055157,-71.0583384,1,Ohiggins,11
+282,Machali,2,3/29/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,1,Ohiggins,11
+283,Machali,6,3/30/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,,Ohiggins,11
+284,Quinta de Tilcoco,1,3/29/2020,"Quinta de Tilcoco, Region de Ohiggins, Chile","Quinta+de+Tilcoco,+Region+de+Ohiggins,+Chile",0,-34.3554003,-70.9704681,1,Ohiggins,11
+285,Quinta de Tilcoco,1,3/30/2020,"Quinta de Tilcoco, Region de Ohiggins, Chile","Quinta+de+Tilcoco,+Region+de+Ohiggins,+Chile",0,-34.3554003,-70.9704681,1,Ohiggins,11
+286,Rancagua,7,3/29/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,11
+287,Rancagua,7,3/30/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,11
+288,Rengo,1,3/29/2020,"Rengo, Region de Ohiggins, Chile","Rengo,+Region+de+Ohiggins,+Chile",0,-34.4028433,-70.8608394,1,Ohiggins,11
+289,Rengo,1,3/30/2020,"Rengo, Region de Ohiggins, Chile","Rengo,+Region+de+Ohiggins,+Chile",0,-34.4028433,-70.8608394,1,Ohiggins,11
+290,Requinoa,2,3/29/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,11
+291,Requinoa,3,3/30/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,11
+292,San Fernando,3,3/29/2020,"San Fernando, Region de Ohiggins, Chile","San+Fernando,+Region+de+Ohiggins,+Chile",0,-34.5858603,-70.9907801,1,Ohiggins,11
+293,San Fernando,4,3/30/2020,"San Fernando, Region de Ohiggins, Chile","San+Fernando,+Region+de+Ohiggins,+Chile",0,-34.5858603,-70.9907801,,Ohiggins,11
+294,San Vicente,2,3/30/2020,"San Vicente, Region de Ohiggins, Chile","San+Vicente,+Region+de+Ohiggins,+Chile",0,-34.43671,-71.0992856,1,Ohiggins,11
 295,Alto Hospicio,1,3/30/2020,"Alto Hospicio, Region de Tarapaca, Chile","Alto+Hospicio,+Region+de+Tarapaca,+Chile",0,-20.2714968,-70.1262983,,Tarapaca,12
 296,Iquique,5,3/29/2020,"Iquique, Region de Tarapaca, Chile","Iquique,+Region+de+Tarapaca,+Chile",0,-20.2307033,-70.1356692,,Tarapaca,12
 297,Iquique,9,3/30/2020,"Iquique, Region de Tarapaca, Chile","Iquique,+Region+de+Tarapaca,+Chile",0,-20.2307033,-70.1356692,,Tarapaca,12
@@ -360,9 +360,9 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 140,Vilcun,11,4/2/2020,"Vilcun, Region de la Araucania, Chile","Vilcun,+Region+de+la+Araucania,+Chile",0,-38.6677187,-72.2244406,,Araucania,10
 149,Villarrica,6,4/2/2020,"Villarrica, Region de la Araucania, Chile","Villarrica,+Region+de+la+Araucania,+Chile",0,-39.2820124,-72.2307798,,Araucania,10
 48,Arica,12,4/2/2020,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,-18.4782534,-70.3125988,,Arica y Parinacota,12
-56,Copiapo,4,4/2/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,8
-55,Diego de Almagro,1,4/2/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,8
-173,Aysen,4,4/2/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.9864001,-73.7669461,,Aysen,10
+56,Copiapo,4,4/2/2020,"Copiapo, Region de Atacama, Chile","Copiapo,+Region+de+Atacama,+Chile",0,-27.3665763,-70.3321587,,Atacama,12
+55,Diego de Almagro,1,4/2/2020,"Diego de Almagro, Region de Atacama, Chile","Diego+de+Almagro,+Region+de+Atacama,+Chile",0,-26.3902488,-70.0475302,,Atacama,12
+173,Aysen,4,4/2/2020,"Aysen, Region de Aysen, Chile","Aysen,+Region+de+Aysen,+Chile",0,-45.4020839,-72.7055361,,Aysen,10
 172,Coyhaique,2,4/2/2020,"Coyhaique, Region de Aysen, Chile","Coyhaique,+Region+de+Aysen,+Chile",0,-45.5712254,-72.068265,,Aysen,10
 132,Alto Biobio,3,4/2/2020,"Alto Biobio, Region del Biobio, Chile","Alto+Biobio,+Region+del+Biobio,+Chile",0,-38.05,-71.316667,1,Biobio,10
 127,Arauco,6,4/2/2020,"Arauco, Region del Biobio, Chile","Arauco,+Region+del+Biobio,+Chile",0,-37.2457765,-73.3166644,,Biobio,10
@@ -400,16 +400,16 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 164,Puyehue,1,4/2/2020,"Puyehue, Region de los Lagos, Chile","Puyehue,+Region+de+los+Lagos,+Chile",0,-40.6833658,-72.6015589,,Los Lagos,9
 170,Quinchao,1,4/2/2020,"Quinchao, Region de los Lagos, Chile","Quinchao,+Region+de+los+Lagos,+Chile",0,-42.5381325,-73.4187729,,Los Lagos,9
 163,San Pablo,1,4/2/2020,"San Pablo, Region de los Lagos, Chile","San+Pablo,+Region+de+los+Lagos,+Chile",0,-40.4124926,-73.0124926,,Los Lagos,9
-155,Futrono,2,4/2/2020,"Futrono, Region de los Rios, Chile","Futrono,+Region+de+los+Rios,+Chile",0,-40.1245239,-72.3896044,1,Los Rios,10
-158,La Union,10,4/2/2020,"La Union, Region de los Rios, Chile","La+Union,+Region+de+los+Rios,+Chile",0,-40.2952749,-73.079328,,Los Rios,10
-154,Lanco,2,4/2/2020,"Lanco, Region de los Rios, Chile","Lanco,+Region+de+los+Rios,+Chile",0,-39.4510021,-72.7883715,1,Los Rios,10
-157,Mafil,2,4/2/2020,"Mafil, Region de los Rios, Chile","Mafil,+Region+de+los+Rios,+Chile",0,-39.6648976,-72.9571573,1,Los Rios,10
-156,Paillaco,2,4/2/2020,"Paillaco, Region de los Rios, Chile","Paillaco,+Region+de+los+Rios,+Chile",0,-40.0719058,-72.8792485,1,Los Rios,10
-159,Rio Bueno,1,4/2/2020,"Rio Bueno, Region de los Rios, Chile","Rio+Bueno,+Region+de+los+Rios,+Chile",0,-40.3313422,-72.9485366,1,Los Rios,10
-153,Valdivia,47,4/2/2020,"Valdivia, Region de los Rios, Chile","Valdivia,+Region+de+los+Rios,+Chile",0,-39.8335811,-73.215417,,Los Rios,10
-174,Cabo de Hornos,6,4/2/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,10
-176,Natales,5,4/2/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,10
-175,Punta Arenas,143,4/2/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,10
+155,Futrono,2,4/2/2020,"Futrono, Region de los Rios, Chile","Futrono,+Region+de+los+Rios,+Chile",0,-40.1245239,-72.3896044,1,Los Rios,9
+158,La Union,10,4/2/2020,"La Union, Region de los Rios, Chile","La+Union,+Region+de+los+Rios,+Chile",0,-40.2952749,-73.079328,,Los Rios,9
+154,Lanco,2,4/2/2020,"Lanco, Region de los Rios, Chile","Lanco,+Region+de+los+Rios,+Chile",0,-39.4510021,-72.7883715,1,Los Rios,9
+157,Mafil,2,4/2/2020,"Mafil, Region de los Rios, Chile","Mafil,+Region+de+los+Rios,+Chile",0,-39.6648976,-72.9571573,1,Los Rios,9
+156,Paillaco,2,4/2/2020,"Paillaco, Region de los Rios, Chile","Paillaco,+Region+de+los+Rios,+Chile",0,-40.0719058,-72.8792485,1,Los Rios,9
+159,Rio Bueno,1,4/2/2020,"Rio Bueno, Region de los Rios, Chile","Rio+Bueno,+Region+de+los+Rios,+Chile",0,-40.3313422,-72.9485366,1,Los Rios,9
+153,Valdivia,47,4/2/2020,"Valdivia, Region de los Rios, Chile","Valdivia,+Region+de+los+Rios,+Chile",0,-39.8335811,-73.215417,,Los Rios,9
+174,Cabo de Hornos,6,4/2/2020,"Cabo de Hornos, Region de Magallanes, Chile","Cabo+de+Hornos,+Region+de+Magallanes,+Chile",0,-54.933333,-67.616667,,Magallanes,7
+176,Natales,5,4/2/2020,"Natales, Region de Magallanes, Chile","Natales,+Region+de+Magallanes,+Chile",0,-51.733333,-72.516667,,Magallanes,7
+175,Punta Arenas,143,4/2/2020,"Punta Arenas, Region de Magallanes, Chile","Punta+Arenas,+Region+de+Magallanes,+Chile",0,-53.1638329,-70.9170683,,Magallanes,7
 101,Cauquenes,2,4/2/2020,"Cauquenes, Region del Maule, Chile","Cauquenes,+Region+del+Maule,+Chile",0,-35.9676285,-72.3222331,1,Maule,10
 103,Colbun,4,4/2/2020,"Colbun, Region del Maule, Chile","Colbun,+Region+del+Maule,+Chile",0,-35.699248,-71.4146915,,Maule,10
 92,Curico,11,4/2/2020,"Curico, Region del Maule, Chile","Curico,+Region+del+Maule,+Chile",0,-34.9779853,-71.2528803,,Maule,10
@@ -486,14 +486,14 @@ id,comuna,n,date,address,address2,empty_address,lat,lon,aprox,region,zoom
 115,San Ignacio,2,4/2/2020,"San Ignacio, Region de Nuble, Chile","San+Ignacio,+Region+de+Nuble,+Chile",0,-36.533333,-72.433333,1,Nuble,10
 110,San Nicolas,4,4/2/2020,"San Nicolas, Region de Nuble, Chile","San+Nicolas,+Region+de+Nuble,+Chile",0,-36.5,-72.2167,,Nuble,10
 116,Yungay,10,4/2/2020,"Yungay, Region de Nuble, Chile","Yungay,+Region+de+Nuble,+Chile",0,-37.1220156,-72.0131562,,Nuble,10
-91,Chimbarongo,2,4/2/2020,"Chimbarongo, Region de Ohiggins, Chile","Chimbarongo,+Region+de+Ohiggins,+Chile",0,-34.7055157,-71.0583384,1,Ohiggins,10
-85,Machali,7,4/2/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,,Ohiggins,10
-88,Quinta de Tilcoco,1,4/2/2020,"Quinta de Tilcoco, Region de Ohiggins, Chile","Quinta+de+Tilcoco,+Region+de+Ohiggins,+Chile",0,-34.3554003,-70.9704681,1,Ohiggins,10
-84,Rancagua,9,4/2/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,10
-87,Rengo,1,4/2/2020,"Rengo, Region de Ohiggins, Chile","Rengo,+Region+de+Ohiggins,+Chile",0,-34.4028433,-70.8608394,1,Ohiggins,10
-86,Requinoa,3,4/2/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,10
-89,San Fernando,4,4/2/2020,"San Fernando, Region de Ohiggins, Chile","San+Fernando,+Region+de+Ohiggins,+Chile",0,-34.5858603,-70.9907801,,Ohiggins,10
-90,San Vicente,4,4/2/2020,"San Vicente, Region de Ohiggins, Chile","San+Vicente,+Region+de+Ohiggins,+Chile",0,-34.43671,-71.0992856,,Ohiggins,10
+91,Chimbarongo,2,4/2/2020,"Chimbarongo, Region de Ohiggins, Chile","Chimbarongo,+Region+de+Ohiggins,+Chile",0,-34.7055157,-71.0583384,1,Ohiggins,11
+85,Machali,7,4/2/2020,"Machali, Region de Ohiggins, Chile","Machali,+Region+de+Ohiggins,+Chile",0,-34.179452,-70.6565151,,Ohiggins,11
+88,Quinta de Tilcoco,1,4/2/2020,"Quinta de Tilcoco, Region de Ohiggins, Chile","Quinta+de+Tilcoco,+Region+de+Ohiggins,+Chile",0,-34.3554003,-70.9704681,1,Ohiggins,11
+84,Rancagua,9,4/2/2020,"Rancagua, Region de Ohiggins, Chile","Rancagua,+Region+de+Ohiggins,+Chile",0,-34.1701324,-70.7406259,,Ohiggins,11
+87,Rengo,1,4/2/2020,"Rengo, Region de Ohiggins, Chile","Rengo,+Region+de+Ohiggins,+Chile",0,-34.4028433,-70.8608394,1,Ohiggins,11
+86,Requinoa,3,4/2/2020,"Requinoa, Region de Ohiggins, Chile","Requinoa,+Region+de+Ohiggins,+Chile",0,-34.2883749,-70.815833,1,Ohiggins,11
+89,San Fernando,4,4/2/2020,"San Fernando, Region de Ohiggins, Chile","San+Fernando,+Region+de+Ohiggins,+Chile",0,-34.5858603,-70.9907801,,Ohiggins,11
+90,San Vicente,4,4/2/2020,"San Vicente, Region de Ohiggins, Chile","San+Vicente,+Region+de+Ohiggins,+Chile",0,-34.43671,-71.0992856,,Ohiggins,11
 50,Alto Hospicio,3,4/2/2020,"Alto Hospicio, Region de Tarapaca, Chile","Alto+Hospicio,+Region+de+Tarapaca,+Chile",0,-20.2714968,-70.1262983,,Tarapaca,12
 49,Iquique,10,4/2/2020,"Iquique, Region de Tarapaca, Chile","Iquique,+Region+de+Tarapaca,+Chile",0,-20.2307033,-70.1356692,,Tarapaca,12
 63,Algarrobo,9,4/2/2020,"Algarrobo, Region de Valparaiso, Chile","Algarrobo,+Region+de+Valparaiso,+Chile",0,-33.3647762,-71.6705534,,Valparaiso,11
