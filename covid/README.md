@@ -5,7 +5,7 @@ https://www.magdalenabennett.com/covid
 and
 https://maibennett.shinyapps.com/corona_app
 
-Here I'll be adding updated data and some maps for the spread of COVID-19 in Chile! (Note: Data publicly provided by Ministerio de Salud, and locations obtained through Google Maps)
+Here I'll be adding updated data and some maps for the spread of COVID-19 in Chile! (Note: Data publicly provided by Ministerio de Salud, and locations obtained through geocode R script (see other repositories) using Google Maps API)
 
 #### Code
 1) **scrape_daily_data.R:** Code originally created by Sue Marquez for NYS (https://github.com/Suemarquez/covid_nys), and adapted to scrape Chilean data.
