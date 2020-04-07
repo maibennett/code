@@ -1,4 +1,4 @@
-## COVID-19 repository
+# COVID-19 repository
 
 Some of the code and data I'm using to put up:
 https://www.magdalenabennett.com/covid
