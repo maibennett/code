@@ -1,4 +1,4 @@
-"","id","Region","comuna","Poblacion","Tasa","address","address2","empty_address","FormattedAddress","lat","lon","date","n","aprox"
+"","id","region","comuna","Poblacion","Tasa","address","address2","empty_address","FormattedAddress","lat","lon","date","n","aprox"
 "1",1,"Arica y Parinacota","Arica",247552,25.4,"Arica, Region de Arica y Parinacota, Chile","Arica,+Region+de+Arica+y+Parinacota,+Chile",0,"Arica, Arica y Parinacota, Chile",-18.4782534,-70.3125988,"03/30/2020",6,0
 "2",2,"Arica y Parinacota","Camarones",1233,0,"Camarones, Region de Arica y Parinacota, Chile","Camarones,+Region+de+Arica+y+Parinacota,+Chile",0,"Camarones, Arica y Parinacota, Chile",-19.0111932,-69.8654656,"03/30/2020",NA,0
 "3",3,"Arica y Parinacota","General Lagos",810,0,"General Lagos, Region de Arica y Parinacota, Chile","General+Lagos,+Region+de+Arica+y+Parinacota,+Chile",0,"General Lagos, Gral. Lagos, Arica y Parinacota, Chile",-17.866667,-69.583333,"03/30/2020",NA,0
