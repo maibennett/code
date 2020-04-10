@@ -10,7 +10,8 @@ Here I'll be adding updated data and some maps for the spread of COVID-19 in Chi
 #### Code
 1) **scrape_daily_data.R:** Code originally created by Sue Marquez for NYS (https://github.com/Suemarquez/covid_nys), and adapted to scrape Chilean data.
 2) **covid_maps_public.R:** Quick R code to generate maps for GIFs.
-3) **geocode_residence_public.R:** R code to download data by by residence, geocode it (include lat/lon), and save it.
+3) **geocode_residence_public.R:** R code to download data by residence, geocode it (include lat/lon), and save it.
+4) **scrape_pdfv2.py:** *Very rough* Python code to scrape confirmed cases by residence directly from the Epi Reports in pdf. *Disclaimer: I'm clearly not a Python coder, so code might be inefficient, but it works well with recent reports*.
 
 #### Data
 1) **data_covid.csv:** Data from the Ministry for tested individuals (+), with location according to the testing center (no longer being updated since 03/17). Individual data from archived reports [here](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/).
