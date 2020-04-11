@@ -63,8 +63,9 @@ if all_tests[all_tests["date"].str.match(update_date)].shape[0]==0:
 uci_all = pd.read_csv('https://raw.githubusercontent.com/maibennett/code/master/covid/data/hospitalized.csv')
 uci = DailyReports[3].iloc[16]
 
+update = pd.isna(uci_all[uci_all["Date"].str.match(update_date)]['UCI'])
 # Only if we haven't recorded that value
-if uci_all[uci_all["Date"].str.match(update_date)].shape==0 or pd.isna(uci_all[uci_all["Date"].str.match(update_date)]['UCI']):
+if uci_all[uci_all["Date"].str.match(update_date)].shape==0 or update.bool():
     
     dailyuci = pd.DataFrame(columns=uci_all.columns)
 
@@ -76,7 +77,7 @@ if uci_all[uci_all["Date"].str.match(update_date)].shape==0 or pd.isna(uci_all[u
     if uci_all[uci_all["Date"].str.match(update_date)].shape==0:    
         uci_all = uci_all.append(dailyuci)
         
-    if pd.isna(uci_all[uci_all["Date"].str.match(update_date)]['Hospital']):
+    if update.bool():
         uci_all['Hospital'].iloc[uci_all.shape[0]-1] = n
         uci_all['use2'].iloc[uci_all.shape[0]-1] = 1
         
