@@ -65,7 +65,7 @@ uci = DailyReports[3].iloc[16]
 
 update = pd.isna(uci_all[uci_all["Date"].str.match(update_date)]['UCI'])
 # Only if we haven't recorded that value
-if uci_all[uci_all["Date"].str.match(update_date)].shape==0 or update.bool():
+if uci_all[uci_all["Date"].str.match(update_date)].shape[0]==0 or update.bool():
     
     dailyuci = pd.DataFrame(columns=uci_all.columns)
 
