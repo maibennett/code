@@ -17,14 +17,15 @@ import gc
 
 gc.collect()
 
+###### Change the date and the version of the report here
 date = 20200410
+#version = "v3"
+version = ""
+##########################################################
 
 day = str(date)[6:8]
 month = str(date)[4:6]
 year = str(2020)
-
-#version = "v3"
-version = ""
 
 url = "https://cdn.digital.gob.cl/public_files/Campañas/Corona-Virus/Reportes/"+day+"."+month+"."+"2020_Reporte_Covid19"+version+".pdf"
 
