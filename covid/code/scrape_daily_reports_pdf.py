@@ -70,8 +70,16 @@ if uci_all[uci_all["Date"].str.match(update_date)].shape==0 or pd.isna(uci_all[u
 
     dailyuci = dailyuci.append(
             {'Date': update_date,
-             'UCI': int(uci[1])}, ignore_index=True)
+             'UCI': int(uci[1]),
+             'use2': 1}, ignore_index=True)
 
+    if uci_all[uci_all["Date"].str.match(update_date)].shape==0:    
+        uci_all = uci_all.append(dailyuci)
+        
+    if pd.isna(uci_all[uci_all["Date"].str.match(update_date)]['Hospital']):
+        uci_all['Hospital'].iloc[uci_all.shape[0]-1] = n
+        uci_all['use2'].iloc[uci_all.shape[0]-1] = 1
+        
     uci_all = uci_all.append(dailyuci)
     directory = "C:/Users/maibe/Dropbox/covid/data/"
     name_file = directory + "hospitalized_updated" + str(date) + ".csv"
