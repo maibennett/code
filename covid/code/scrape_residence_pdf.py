@@ -61,7 +61,7 @@ def remove_accents(a):
     return unidecode.unidecode(a)
 
 # The loop repeats itself until we find all 16 regions 
-while region_id<17:
+while region_id<16:
     
     # Gets info from the the page count
     table = chile_residence[count]
@@ -96,9 +96,6 @@ while region_id<17:
         if drop != 0:
             table = table.iloc[:drop]
             
-    # Now we have to separate the data (comina, population, number of cases, and rate)
-    temp = re.compile("([a-zA-Z- ]+) (\d*\.?\d+) ([0-9- ]+) (\d*\,?\d+)")  # we are going to separate strings from numbers 
-    
     # We remove accents to keep it consistent (and make things easier)
     table[table.columns[2]] = table[table.columns[2]].apply(remove_accents)
     
@@ -108,13 +105,23 @@ while region_id<17:
     table['rate'] = "NA"
         
     for i in range(0,table.shape[0]):
+        # Now we have to separate the data (comuna, population, number of cases, and rate)
+        temp = re.compile("([a-zA-Z- ]+) (\d*\.?\d+) ([0-9- ]+) (\d*\,?\d+)")  # we are going to separate strings from numbers 
         # We add this first line for Villa O'higgins
         table[table.columns[2]].iloc[i] = table[table.columns[2]].iloc[i].replace("\'", "").strip()
-        res = temp.match(table[table.columns[2]].iloc[i]).groups()
-        table['comuna'].iloc[i] = res[0].strip()
-        table['poblacion'].iloc[i] = res[1].strip()
-        table['n'].iloc[i] = res[2].strip()
-        table['rate'].iloc[i] = res[3].strip()
+        try: 
+            res = temp.match(table[table.columns[2]].iloc[i]).groups()
+            table['comuna'].iloc[i] = res[0].strip()
+            table['poblacion'].iloc[i] = res[1].strip()
+            table['n'].iloc[i] = res[2].strip()
+            table['rate'].iloc[i] = res[3].strip()
+        except AttributeError:
+            temp = re.compile("([a-zA-Z- ]+) (\d*\.?\d+) (\d*\,?\d+)")
+            res = temp.match(table[table.columns[2]].iloc[i]).groups()
+            table['comuna'].iloc[i] = res[0].strip()
+            table['poblacion'].iloc[i] = res[1].strip()
+            table['n'].iloc[i] = '-'
+            table['rate'].iloc[i] = res[2].strip()
     
     # Drop columns we don't need       
     table = table.drop(table.columns[0:3], axis=1)
