@@ -3,9 +3,9 @@
 Created on Fri Apr 10 09:22:11 2020
 @author: maibe
 """
-#############################################
-### Scrape PDFs from Ministerio de Salud
-#############################################
+########################################################
+### Scrape Epi Reports (PDFs) from Ministerio de Salud
+########################################################
 
 import tabula #library that extracts tables from pdfs
 import pandas as pd
@@ -16,24 +16,26 @@ import gc
 
 gc.collect()
 
-directory = "C:/Users/maibe/Dropbox/covid/data/"    
-    
+directory = #Insert a directory here where you want to save your data   
+
+#Insert date that reflects the data (usually 1 day before the report is published). Format yyyymmdd
 date = 20200407
 #date = 20200405
 #date = 20200402
 
+# Change the url for the report you want to scrape
 url = "https://www.minsal.cl/wp-content/uploads/2020/04/Informe_EPI_GOB_08_04_2020.pdf"
 #url = "https://www.minsal.cl/wp-content/uploads/2020/04/Reporte_COVID_19_06_04_2020.pdf"
 #url = "https://www.minsal.cl/wp-content/uploads/2020/04/Informe_EPI_03_04_2020.pdf"
 
-#Data for informe de epidemiologia
+#Data from informe de epidemiologia
 chile_residence = tabula.read_pdf(url, pages = 'all' ,guess=False)
 
 regions = ["Arica y Parinacota","Tarapaca","Antofagasta","Atacama", "Coquimbo", 
               "Valparaiso", "Metropolitana","Ohiggins", "Maule","Nuble","Biobio",
               "Araucania","Los Rios","Los Lagos","Aysen","Magallanes"]
 
-#### Search where the first table is:
+#### Search where the first table is, and store it in count:
 start = False
 count = -1
 
@@ -51,6 +53,7 @@ region_id = 0
 
 colnames = ['region','comuna','poblacion','n','rate']
 
+# Residence is the dataframe where we'll store all the data we want.
 residence = pd.DataFrame(columns = colnames)
 
 # Remove accents
