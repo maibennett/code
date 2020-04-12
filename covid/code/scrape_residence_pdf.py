@@ -12,9 +12,6 @@ import pandas as pd
 import re
 import unidecode 
 import csv
-import gc
-
-gc.collect()
 
 directory = #Insert a directory here where you want to save your data   
 
