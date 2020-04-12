@@ -11,7 +11,7 @@ cat("\014")
 library(stringr)
 
 #Sets dir_data to the path where this script is stored (you have to have rstudioapi installed as a package).
-dir_data = "C:/Users/maibe/Dropbox/covid/data/"
+dir_data = #INSERT YOUR DIRECTORY HERE#
 
 #Change the name of the file
 infile <- "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19.csv"
@@ -22,15 +22,12 @@ data <- read.csv(infile, stringsAsFactors = FALSE)
 #Generate address that we're going to look up:
 data$address = paste0(data$Comuna,", Region de ",data$Region,", Chile")
 
-#Generate the complete address for the data(separated each space by a + sign) --> 
-#In this case, full addresses were separated in different variables
+#Generate the complete address for the data(separated each space by a + sign)
 data$address2 = str_replace_all(data$address," ","+")
 
 #Generate a dummy variable to identify if the address is empty or not (will not run geocode on this)
 data$empty_address = as.numeric(data$address=="")
 
-# get the address list, and append "USA" to the end to increase accuracy 
-# (change or remove this if your address already include a country etc.)
 addresses = data$address2
 head(addresses)
 
