@@ -80,6 +80,6 @@ if(days>max(d$day)){
   d = rbind(d,d_update)
 }
 
-path_countdata <- "C:/Users/maibe/Dropbox/covid/data/data_covid_region.csv"
+path_countdata <- "data_covid_region.csv"
 
 write_csv(d, path = path_countdata)
