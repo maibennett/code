@@ -85,7 +85,7 @@ if all_data[all_data["date"].str.match(update_date)].shape[0]==0:
                  all_data.columns[3]: max(all_data_subset['region_lat']),
                  all_data.columns[4]: max(all_data_subset['region_lon']),
                  all_data.columns[5]: data['Casos nuevos'].iloc[k],
-                 all_data.columns[6]: data['Fallecidos'].iloc[k]}, ignore_index=True)
+                 all_data.columns[6]: data['Fallecidos'].iloc[k] - sum(all_data_subset['Deaths'])}, ignore_index=True)
         k = k+1
 
     all_data = all_data.append(dailydata)
