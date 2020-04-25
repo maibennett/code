@@ -53,7 +53,9 @@ DailyReports = tabula.read_pdf(url,pages='all')
 ####### For tests (all) by institution:
 all_tests = pd.read_csv('https://raw.githubusercontent.com/maibennett/code/master/covid/data/tests.csv') # Download updated data from GitHub
 tests = DailyReports[2][2:] #Get table from report
-
+if date==20200425:
+    tests = DailyReports[9][2:]
+    
 update_date = str(int(month)) + "/" + str(int(day)-1) + "/" +str(year)
 
 # Only if we haven't recorded that value
