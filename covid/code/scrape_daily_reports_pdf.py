@@ -117,7 +117,9 @@ if all_data[all_data["date"].str.match(update_date)].shape[0]==0:
 all_tests_region = pd.read_csv("https://raw.githubusercontent.com/maibennett/code/master/covid/data/tests_by_newcases.csv")
 
 if date<20200414:
-    tests_region = DailyReports[2][0:DailyReports[2].shape[0]-1]  
+    tests_region = DailyReports[2][0:DailyReports[2].shape[0]-1]
+if date==20200425:
+    tests_region = DailyReports[10][0:DailyReports[10].shape[0]-1]
 else:
     tests_region = DailyReports[3][0:DailyReports[3].shape[0]-1]
     
