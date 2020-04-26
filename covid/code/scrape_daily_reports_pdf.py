@@ -135,7 +135,7 @@ regions = ["Arica y Parinacota","Tarapaca","Antofagasta","Atacama", "Coquimbo",
               "Araucania","Los Rios","Los Lagos","Aysen","Magallanes"]
 
 
-data[data.columns[0]] = regions
+data_region[data_region.columns[0]] = regions
 
 # Remove accents
 def remove_accents(a):
@@ -173,7 +173,7 @@ if all_tests_region[all_tests_region["date"].str.match(update_date)].shape[0]==0
                     {all_tests_region.columns[0]: update_date,
                      all_tests_region.columns[1]: region,
                      all_tests_region.columns[2]: tests_region['# exámenes informados'].iloc[i],
-                     all_tests_region.columns[3]: data[data.columns[1]].iloc[k]}, ignore_index=True)
+                     all_tests_region.columns[3]: data_region[data_region.columns[1]].iloc[k]}, ignore_index=True)
             i = i+1
             
         else:
@@ -181,7 +181,7 @@ if all_tests_region[all_tests_region["date"].str.match(update_date)].shape[0]==0
                     {all_tests_region.columns[0]: update_date,
                      all_tests_region.columns[1]: region,
                      all_tests_region.columns[2]: 0,
-                     all_tests_region.columns[3]: data[data.columns[1]].iloc[k]}, ignore_index=True)
+                     all_tests_region.columns[3]: data_region[data_region.columns[1]].iloc[k]}, ignore_index=True)
         k = k+1
 
     all_tests_region = all_tests_region.append(dailytest)
