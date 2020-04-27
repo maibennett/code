@@ -55,6 +55,8 @@ all_tests = pd.read_csv('https://raw.githubusercontent.com/maibennett/code/maste
 tests = DailyReports[2][2:] #Get table from report
 if date==20200425:
     tests = DailyReports[9][2:]
+if date==20200427:
+    tests = DailyReports[3]
     
 update_date = str(int(month)) + "/" + str(int(day)-1) + "/" +str(year)
 
@@ -64,13 +66,13 @@ if all_tests[all_tests["date"].str.match(update_date)].shape[0]==0:
 
     dailytest = dailytest.append(
             {all_tests.columns[0]: update_date,
-             all_tests.columns[1]: int(tests[tests.columns[1]].iloc[3].replace(".","")),
-             all_tests.columns[2]: int(tests[tests.columns[1]].iloc[0].replace(".","")),
-             all_tests.columns[3]: int(tests[tests.columns[1]].iloc[1].replace(".","")),
-             all_tests.columns[4]: int(tests[tests.columns[1]].iloc[2].replace(".","")),
-             all_tests.columns[5]: int(tests[tests.columns[3]].iloc[0].replace(".","")),
-             all_tests.columns[6]: int(tests[tests.columns[3]].iloc[1].replace(".","")),
-             all_tests.columns[7]: int(tests[tests.columns[3]].iloc[2].replace(".",""))}, ignore_index=True)
+             all_tests.columns[1]: int(str(round(tests[tests.columns[1]].iloc[3],3)).replace(".","")),
+             all_tests.columns[2]: int(str(round(tests[tests.columns[1]].iloc[0],3)).replace(".","")),
+             all_tests.columns[3]: int(str(round(tests[tests.columns[1]].iloc[1],3)).replace(".","")),
+             all_tests.columns[4]: int(str(round(tests[tests.columns[1]].iloc[2],3)).replace(".","")),
+             all_tests.columns[5]: int(str(round(tests[tests.columns[3]].iloc[0],3)).replace(".","")),
+             all_tests.columns[6]: int(str(round(tests[tests.columns[3]].iloc[1],3)).replace(".","")),
+             all_tests.columns[7]: int(str(round(tests[tests.columns[3]].iloc[2],3)).replace(".",""))}, ignore_index=True)
 
     all_tests = all_tests.append(dailytest)
     directory = "C:/" #Insert the path for the directory here
@@ -122,6 +124,8 @@ if date<20200414:
     tests_region = DailyReports[2][0:DailyReports[2].shape[0]-1]
 if date==20200425:
     tests_region = DailyReports[10][0:DailyReports[10].shape[0]-1]
+if date==20200427:
+    tests_region = DailyReports[4][0:DailyReports[4].shape[0]-1]
 else:
     tests_region = DailyReports[3][0:DailyReports[3].shape[0]-1]
     
@@ -172,7 +176,7 @@ if all_tests_region[all_tests_region["date"].str.match(update_date)].shape[0]==0
             dailytest = dailytest.append(
                     {all_tests_region.columns[0]: update_date,
                      all_tests_region.columns[1]: region,
-                     all_tests_region.columns[2]: tests_region['# exámenes informados'].iloc[i],
+                     all_tests_region.columns[2]: str(tests_region['# exámenes informados'].iloc[i]).replace(".",""),
                      all_tests_region.columns[3]: data_region[data_region.columns[1]].iloc[k]}, ignore_index=True)
             i = i+1
             
