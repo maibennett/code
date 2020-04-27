@@ -176,7 +176,7 @@ if all_tests_region[all_tests_region["date"].str.match(update_date)].shape[0]==0
             dailytest = dailytest.append(
                     {all_tests_region.columns[0]: update_date,
                      all_tests_region.columns[1]: region,
-                     all_tests_region.columns[2]: str(tests_region['# exámenes informados'].iloc[i]).replace(".",""),
+                     all_tests_region.columns[2]: int(str(round(tests_region['# exámenes informados'].iloc[i],3)).replace(".","")),
                      all_tests_region.columns[3]: data_region[data_region.columns[1]].iloc[k]}, ignore_index=True)
             i = i+1
             
