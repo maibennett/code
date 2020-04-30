@@ -31,22 +31,22 @@ date,region,test24,NewCases
 4/9/2020,Los Lagos,199,9
 4/9/2020,Aysen,0,0
 4/9/2020,Magallanes,24,45
-4/10/2020,Arica y Parinacota,107,20
+4/10/2020,Arica y Parinacota,93,20
 4/10/2020,Tarapaca,0,3
-4/10/2020,Antofagasta,248,7
-4/10/2020,Atacama,2105,0
+4/10/2020,Antofagasta,107,7
+4/10/2020,Atacama,60,0
 4/10/2020,Coquimbo,0,3
-4/10/2020,Valparaiso,281,7
-4/10/2020,Metropolitana,126,255
-4/10/2020,Ohiggins,178,1
+4/10/2020,Valparaiso,248,7
+4/10/2020,Metropolitana,2105,255
+4/10/2020,Ohiggins,74,1
 4/10/2020,Maule,0,3
 4/10/2020,Nuble,60,17
-4/10/2020,Biobio,46,16
-4/10/2020,Araucania,74,27
+4/10/2020,Biobio,281,16
+4/10/2020,Araucania,126,27
 4/10/2020,Los Rios,0,6
-4/10/2020,Los Lagos,259,15
+4/10/2020,Los Lagos,178,15
 4/10/2020,Aysen,0,0
-4/10/2020,Magallanes,93,46
+4/10/2020,Magallanes,46,46
 4/11/2020,Arica y Parinacota,103,8
 4/11/2020,Tarapaca,0,8
 4/11/2020,Antofagasta,175,21
@@ -117,7 +117,7 @@ date,region,test24,NewCases
 4/15/2020,Atacama,29,0
 4/15/2020,Coquimbo,0,2
 4/15/2020,Valparaiso,240,31
-4/15/2020,Metropolitana,4,348
+4/15/2020,Metropolitana,4356,348
 4/15/2020,Ohiggins,58,0
 4/15/2020,Maule,469,15
 4/15/2020,Nuble,110,5
