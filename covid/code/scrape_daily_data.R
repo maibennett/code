@@ -10,12 +10,15 @@ library(stringr)
 library(pdftools)
 library(rvest)
 
+# Store the url you want to scrape 
 url <- read_html("https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/") #This is the website we want to scrape
 
+# In this case, I want to rename the regions to match my other datasets.
 regions = c("Arica y Parinacota","Tarapaca","Antofagasta","Atacama", "Coquimbo", 
             "Valparaiso", "Metropolitana","Ohiggins", "Maule","Nuble","Biobio",
             "Araucania","Los Rios","Los Lagos","Aysen","Magallanes")
 
+# Search for the node you want to retrieve using right click - "Inspect" -> Selector tool
 covid_count_table <- html_nodes(url, "table") %>% #In this case, the data we want to get is in <table> </table>
   .[[1]] %>%
   html_table(fill=TRUE) %>% 
