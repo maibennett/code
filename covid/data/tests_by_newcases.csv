@@ -1,961 +1,977 @@
 date,region,test24,NewCases
-4/8/2020,Arica y Parinacota,70.0,12
-4/8/2020,Tarapaca,0.0,3
-4/8/2020,Antofagasta,182.0,15
-4/8/2020,Atacama,57.0,2
-4/8/2020,Coquimbo,0.0,5
-4/8/2020,Valparaiso,301.0,5
-4/8/2020,Metropolitana,5383.0,284
-4/8/2020,Ohiggins,68.0,1
-4/8/2020,Maule,397.0,9
-4/8/2020,Nuble,364.0,10
-4/8/2020,Biobio,592.0,21
-4/8/2020,Araucania,124.0,20
-4/8/2020,Los Rios,0.0,4
-4/8/2020,Los Lagos,341.0,15
-4/8/2020,Aysen,10.0,0
-4/8/2020,Magallanes,73.0,20
-4/9/2020,Arica y Parinacota,0.0,12
-4/9/2020,Tarapaca,0.0,6
-4/9/2020,Antofagasta,128.0,18
-4/9/2020,Atacama,52.0,3
-4/9/2020,Coquimbo,0.0,0
-4/9/2020,Valparaiso,249.0,11
-4/9/2020,Metropolitana,3185.0,361
-4/9/2020,Ohiggins,0.0,0
-4/9/2020,Maule,219.0,3
-4/9/2020,Nuble,0.0,18
-4/9/2020,Biobio,149.0,14
-4/9/2020,Araucania,148.0,23
-4/9/2020,Los Rios,91.0,6
-4/9/2020,Los Lagos,199.0,9
-4/9/2020,Aysen,0.0,0
-4/9/2020,Magallanes,24.0,45
-4/10/2020,Arica y Parinacota,93.0,20
-4/10/2020,Tarapaca,0.0,3
-4/10/2020,Antofagasta,107.0,7
-4/10/2020,Atacama,60.0,0
-4/10/2020,Coquimbo,0.0,3
-4/10/2020,Valparaiso,248.0,7
-4/10/2020,Metropolitana,2105.0,255
-4/10/2020,Ohiggins,74.0,1
-4/10/2020,Maule,0.0,3
-4/10/2020,Nuble,259.0,17
-4/10/2020,Biobio,281.0,16
-4/10/2020,Araucania,126.0,27
-4/10/2020,Los Rios,0.0,6
-4/10/2020,Los Lagos,178.0,15
-4/10/2020,Aysen,0.0,0
-4/10/2020,Magallanes,46.0,46
-4/11/2020,Arica y Parinacota,103.0,8
-4/11/2020,Tarapaca,0.0,8
-4/11/2020,Antofagasta,175.0,21
-4/11/2020,Atacama,25.0,0
-4/11/2020,Coquimbo,0.0,2
-4/11/2020,Valparaiso,273.0,6
-4/11/2020,Metropolitana,3861.0,151
-4/11/2020,Ohiggins,0.0,1
-4/11/2020,Maule,341.0,4
-4/11/2020,Nuble,189.0,7
-4/11/2020,Biobio,469.0,10
-4/11/2020,Araucania,184.0,36
-4/11/2020,Los Rios,0.0,5
-4/11/2020,Los Lagos,225.0,8
-4/11/2020,Aysen,7.0,0
-4/11/2020,Magallanes,45.0,19
-4/12/2020,Arica y Parinacota,0.0,0
-4/12/2020,Tarapaca,0.0,6
-4/12/2020,Antofagasta,103.0,11
-4/12/2020,Atacama,20.0,0
-4/12/2020,Coquimbo,0.0,0
-4/12/2020,Valparaiso,223.0,19
-4/12/2020,Metropolitana,1850.0,204
-4/12/2020,Ohiggins,113.0,2
-4/12/2020,Maule,65.0,3
-4/12/2020,Nuble,74.0,5
-4/12/2020,Biobio,0.0,12
-4/12/2020,Araucania,232.0,20
-4/12/2020,Los Rios,0.0,3
-4/12/2020,Los Lagos,39.0,8
-4/12/2020,Aysen,0.0,0
-4/12/2020,Magallanes,45.0,19
-4/13/2020,Arica y Parinacota,93.0,5
-4/13/2020,Tarapaca,0.0,10
-4/13/2020,Antofagasta,95.0,6
-4/13/2020,Atacama,22.0,0
-4/13/2020,Coquimbo,0.0,0
-4/13/2020,Valparaiso,92.0,12
-4/13/2020,Metropolitana,1656.0,283
-4/13/2020,Ohiggins,30.0,5
-4/13/2020,Maule,160.0,1
-4/13/2020,Nuble,0.0,4
-4/13/2020,Biobio,218.0,16
-4/13/2020,Araucania,148.0,21
-4/13/2020,Los Rios,67.0,10
-4/13/2020,Los Lagos,131.0,5
-4/13/2020,Aysen,12.0,0
-4/13/2020,Magallanes,35.0,14
-4/14/2020,Arica y Parinacota,24.0,4
-4/14/2020,Tarapaca,0.0,0
-4/14/2020,Antofagasta,117.0,21
-4/14/2020,Atacama,25.0,0
-4/14/2020,Coquimbo,0.0,0
-4/14/2020,Valparaiso,385.0,14
-4/14/2020,Metropolitana,2694.0,248
-4/14/2020,Ohiggins,30.0,1
-4/14/2020,Maule,0.0,10
-4/14/2020,Nuble,0.0,12
-4/14/2020,Biobio,311.0,14
-4/14/2020,Araucania,218.0,10
-4/14/2020,Los Rios,67.0,2
-4/14/2020,Los Lagos,137.0,5
-4/14/2020,Aysen,8.0,0
-4/14/2020,Magallanes,63.0,15
-4/15/2020,Arica y Parinacota,198.0,5
-4/15/2020,Tarapaca,30.0,4
-4/15/2020,Antofagasta,117.0,16
-4/15/2020,Atacama,29.0,0
-4/15/2020,Coquimbo,0.0,2
-4/15/2020,Valparaiso,240.0,31
-4/15/2020,Metropolitana,4356.0,348
-4/15/2020,Ohiggins,58.0,0
-4/15/2020,Maule,469.0,15
-4/15/2020,Nuble,110.0,5
-4/15/2020,Biobio,408.0,17
-4/15/2020,Araucania,246.0,56
-4/15/2020,Los Rios,49.0,3
-4/15/2020,Los Lagos,139.0,9
-4/15/2020,Aysen,16.0,0
-4/15/2020,Magallanes,86.0,23
-4/16/2020,Arica y Parinacota,131.0,5
-4/16/2020,Tarapaca,0.0,7
-4/16/2020,Antofagasta,143.0,19
-4/16/2020,Atacama,37.0,0
-4/16/2020,Coquimbo,0.0,0
-4/16/2020,Valparaiso,246.0,15
-4/16/2020,Metropolitana,3670.0,233
-4/16/2020,Ohiggins,50.0,1
-4/16/2020,Maule,367.0,56
-4/16/2020,Nuble,159.0,17
-4/16/2020,Biobio,80.0,19
-4/16/2020,Araucania,220.0,25
-4/16/2020,Los Rios,71.0,1
-4/16/2020,Los Lagos,198.0,13
-4/16/2020,Aysen,8.0,0
-4/16/2020,Magallanes,69.0,34
-4/17/2020,Arica y Parinacota,0.0,8
-4/17/2020,Tarapaca,60.0,8
-4/17/2020,Antofagasta,200.0,15
-4/17/2020,Atacama,50.0,0
-4/17/2020,Coquimbo,0.0,0
-4/17/2020,Valparaiso,330.0,14
-4/17/2020,Metropolitana,2743.0,277
-4/17/2020,Ohiggins,0.0,0
-4/17/2020,Maule,176.0,53
-4/17/2020,Nuble,76.0,11
-4/17/2020,Biobio,751.0,28
-4/17/2020,Araucania,169.0,37
-4/17/2020,Los Rios,91.0,2
-4/17/2020,Los Lagos,315.0,4
-4/17/2020,Aysen,8.0,0
-4/17/2020,Magallanes,48.0,21
-4/18/2020,Arica y Parinacota,155.0,3
-4/18/2020,Tarapaca,0.0,9
-4/18/2020,Antofagasta,129.0,23
-4/18/2020,Atacama,31.0,0
-4/18/2020,Coquimbo,0.0,0
-4/18/2020,Valparaiso,166.0,22
-4/18/2020,Metropolitana,3475.0,189
-4/18/2020,Ohiggins,0.0,0
-4/18/2020,Maule,0.0,26
-4/18/2020,Nuble,127.0,11
-4/18/2020,Biobio,358.0,10
-4/18/2020,Araucania,122.0,28
-4/18/2020,Los Rios,0.0,1
-4/18/2020,Los Lagos,96.0,5
-4/18/2020,Aysen,6.0,0
-4/18/2020,Magallanes,93.0,31
-4/19/2020,Arica y Parinacota,48.0,16
-4/19/2020,Tarapaca,0.0,3
-4/19/2020,Antofagasta,197.0,14
-4/19/2020,Atacama,33.0,0
-4/19/2020,Coquimbo,0.0,1
-4/19/2020,Valparaiso,177.0,7
-4/19/2020,Metropolitana,3276.0,262
-4/19/2020,Ohiggins,72.0,1
-4/19/2020,Maule,328.0,2
-4/19/2020,Nuble,149.0,9
-4/19/2020,Biobio,214.0,10
-4/19/2020,Araucania,376.0,73
-4/19/2020,Los Rios,121.0,5
-4/19/2020,Los Lagos,139.0,3
-4/19/2020,Aysen,0.0,0
-4/19/2020,Magallanes,48.0,13
-4/20/2020,Arica y Parinacota,52.0,9
-4/20/2020,Tarapaca,30.0,11
-4/20/2020,Antofagasta,147.0,28
-4/20/2020,Atacama,33.0,0
-4/20/2020,Coquimbo,0.0,0
-4/20/2020,Valparaiso,142.0,15
-4/20/2020,Metropolitana,2126.0,145
-4/20/2020,Ohiggins,65.0,1
-4/20/2020,Maule,188.0,12
-4/20/2020,Nuble,73.0,7
-4/20/2020,Biobio,216.0,10
-4/20/2020,Araucania,206.0,47
-4/20/2020,Los Rios,58.0,5
-4/20/2020,Los Lagos,149.0,8
-4/20/2020,Aysen,4.0,0
-4/20/2020,Magallanes,41.0,27
-4/21/2020,Arica y Parinacota,0.0,10
-4/21/2020,Tarapaca,59.0,10
-4/21/2020,Antofagasta,152.0,35
-4/21/2020,Atacama,47.0,0
-4/21/2020,Coquimbo,29.0,1
-4/21/2020,Valparaiso,384.0,18
-4/21/2020,Metropolitana,3917.0,295
-4/21/2020,Ohiggins,0.0,2
-4/21/2020,Maule,724.0,12
-4/21/2020,Nuble,221.0,9
-4/21/2020,Biobio,340.0,22
-4/21/2020,Araucania,176.0,21
-4/21/2020,Los Rios,54.0,4
-4/21/2020,Los Lagos,209.0,13
-4/21/2020,Aysen,4.0,0
-4/21/2020,Magallanes,49.0,12
-4/22/2020,Arica y Parinacota,169.0,30
-4/22/2020,Tarapaca,30.0,14
-4/22/2020,Antofagasta,146.0,14
-4/22/2020,Atacama,57.0,5
-4/22/2020,Coquimbo,22.0,0
-4/22/2020,Valparaiso,90.0,8
-4/22/2020,Metropolitana,3712.0,351
-4/22/2020,Ohiggins,86.0,17
-4/22/2020,Maule,663.0,5
-4/22/2020,Nuble,189.0,5
-4/22/2020,Biobio,468.0,17
-4/22/2020,Araucania,370.0,29
-4/22/2020,Los Rios,67.0,2
-4/22/2020,Los Lagos,335.0,9
-4/22/2020,Aysen,21.0,0
-4/22/2020,Magallanes,0.0,10
-4/23/2020,Arica y Parinacota,85.0,29
-4/23/2020,Tarapaca,203.0,6
-4/23/2020,Antofagasta,166.0,26
-4/23/2020,Atacama,77.0,3
-4/23/2020,Coquimbo,44.0,2
-4/23/2020,Valparaiso,293.0,7
-4/23/2020,Metropolitana,4376.0,327
-4/23/2020,Ohiggins,72.0,5
-4/23/2020,Maule,606.0,16
-4/23/2020,Nuble,0.0,7
-4/23/2020,Biobio,340.0,8
-4/23/2020,Araucania,306.0,42
-4/23/2020,Los Rios,87.0,1
-4/23/2020,Los Lagos,324.0,6
-4/23/2020,Aysen,48.0,0
-4/23/2020,Magallanes,93.0,9
-4/24/2020,Arica y Parinacota,90.0,6
-4/24/2020,Tarapaca,118.0,9
-4/24/2020,Antofagasta,217.0,25
-4/24/2020,Atacama,46.0,3
-4/24/2020,Coquimbo,42.0,1
-4/24/2020,Valparaiso,262.0,18
-4/24/2020,Metropolitana,4218.0,404
-4/24/2020,Ohiggins,0.0,4
-4/24/2020,Maule,254.0,1
-4/24/2020,Nuble,371.0,10
-4/24/2020,Biobio,354.0,13
-4/24/2020,Araucania,347.0,19
-4/24/2020,Los Rios,77.0,3
-4/24/2020,Los Lagos,406.0,5
-4/24/2020,Aysen,30.0,0
-4/24/2020,Magallanes,113.0,31
-4/25/2020,Arica y Parinacota,73.0,7
-4/25/2020,Tarapaca,58.0,13
-4/25/2020,Antofagasta,214.0,52
-4/25/2020,Atacama,54.0,5
-4/25/2020,Coquimbo,72.0,0
-4/25/2020,Valparaiso,201.0,6
-4/25/2020,Metropolitana,4313.0,331
-4/25/2020,Ohiggins,195.0,7
-4/25/2020,Maule,349.0,4
-4/25/2020,Nuble,91.0,6
-4/25/2020,Biobio,404.0,7
-4/25/2020,Araucania,273.0,13
-4/25/2020,Los Rios,99.0,1
-4/25/2020,Los Lagos,302.0,8
-4/25/2020,Aysen,13.0,0
-4/25/2020,Magallanes,52.0,13
-4/26/2020,Arica y Parinacota,146.0,13
-4/26/2020,Tarapaca,58.0,8
-4/26/2020,Antofagasta,180.0,14
-4/26/2020,Atacama,56.0,6
-4/26/2020,Coquimbo,0.0,1
-4/26/2020,Valparaiso,167.0,25
-4/26/2020,Metropolitana,3289.0,362
-4/26/2020,Ohiggins,30.0,2
-4/26/2020,Maule,535.0,9
-4/26/2020,Nuble,90.0,10
-4/26/2020,Biobio,174.0,3
-4/26/2020,Araucania,246.0,20
-4/26/2020,Los Rios,56.0,2
-4/26/2020,Los Lagos,207.0,4
-4/26/2020,Aysen,0.0,0
-4/26/2020,Magallanes,26.0,3
-4/27/2020,Arica y Parinacota,80.0,3
-4/27/2020,Tarapaca,57.0,5
-4/27/2020,Antofagasta,181.0,24
-4/27/2020,Atacama,73.0,0
-4/27/2020,Coquimbo,148.0,0
-4/27/2020,Valparaiso,184.0,8
-4/27/2020,Metropolitana,2975.0,442
-4/27/2020,Ohiggins,95.0,3
-4/27/2020,Maule,255.0,21
-4/27/2020,Nuble,59.0,6
-4/27/2020,Biobio,234.0,3
-4/27/2020,Araucania,218.0,15
-4/27/2020,Los Rios,54.0,0
-4/27/2020,Los Lagos,225.0,0
-4/27/2020,Aysen,29.0,0
-4/27/2020,Magallanes,63.0,22
-4/28/2020,Arica y Parinacota,61.0,4
-4/28/2020,Tarapaca,111.0,14
-4/28/2020,Antofagasta,198.0,33
-4/28/2020,Atacama,112.0,7
-4/28/2020,Coquimbo,74.0,2
-4/28/2020,Valparaiso,169.0,33
-4/28/2020,Metropolitana,4349.0,589
-4/28/2020,Ohiggins,105.0,7
-4/28/2020,Maule,58.0,8
-4/28/2020,Nuble,104.0,14
-4/28/2020,Biobio,230.0,10
-4/28/2020,Araucania,275.0,22
-4/28/2020,Los Rios,98.0,2
-4/28/2020,Los Lagos,390.0,4
-4/28/2020,Aysen,53.0,0
-4/28/2020,Magallanes,67.0,21
-4/29/2020,Arica y Parinacota,84.0,7
-4/29/2020,Tarapaca,124.0,15
-4/29/2020,Antofagasta,259.0,32
-4/29/2020,Atacama,107.0,1
-4/29/2020,Coquimbo,78.0,0
-4/29/2020,Valparaiso,278.0,33
-4/29/2020,Metropolitana,5282.0,736
-4/29/2020,Ohiggins,111.0,4
-4/29/2020,Maule,249.0,1
-4/29/2020,Nuble,120.0,7
-4/29/2020,Biobio,534.0,8
-4/29/2020,Araucania,201.0,20
-4/29/2020,Los Rios,93.0,7
-4/29/2020,Los Lagos,276.0,6
-4/29/2020,Aysen,22.0,0
-4/29/2020,Magallanes,80.0,11
-4/30/2020,Arica y Parinacota,124.0,18
-4/30/2020,Tarapaca,8.0,2
-4/30/2020,Antofagasta,164.0,43
-4/30/2020,Atacama,114.0,0
-4/30/2020,Coquimbo,166.0,1
-4/30/2020,Valparaiso,450.0,9
-4/30/2020,Metropolitana,6144.0,891
-4/30/2020,Ohiggins,94.0,1
-4/30/2020,Maule,187.0,1
-4/30/2020,Nuble,129.0,0
-4/30/2020,Biobio,296.0,2
-4/30/2020,Araucania,421.0,2
-4/30/2020,Los Rios,122.0,0
-4/30/2020,Los Lagos,371.0,14
-4/30/2020,Aysen,0.0,0
-4/30/2020,Magallanes,126.0,1
-5/1/2020,Arica y Parinacota,87.0,10
-5/1/2020,Tarapaca,102.0,12
-5/1/2020,Antofagasta,312.0,90
-5/1/2020,Atacama,105.0,16
-5/1/2020,Coquimbo,165.0,1
-5/1/2020,Valparaiso,327.0,46
-5/1/2020,Metropolitana,6922.0,1145
-5/1/2020,Ohiggins,181.0,11
-5/1/2020,Maule,339.0,2
-5/1/2020,Nuble,101.0,8
-5/1/2020,Biobio,483.0,22
-5/1/2020,Araucania,194.0,19
-5/1/2020,Los Rios,133.0,7
-5/1/2020,Los Lagos,412.0,12
-5/1/2020,Aysen,46.0,0
-5/1/2020,Magallanes,58.0,26
-5/2/2020,Arica y Parinacota,41.0,1
-5/2/2020,Tarapaca,90.0,60
-5/2/2020,Antofagasta,271.0,61
-5/2/2020,Atacama,75.0,8
-5/2/2020,Coquimbo,102.0,10
-5/2/2020,Valparaiso,251.0,24
-5/2/2020,Metropolitana,4570.0,995
-5/2/2020,Ohiggins,63.0,5
-5/2/2020,Maule,302.0,1
-5/2/2020,Nuble,97.0,10
-5/2/2020,Biobio,251.0,8
-5/2/2020,Araucania,354.0,14
-5/2/2020,Los Rios,70.0,2
-5/2/2020,Los Lagos,220.0,4
-5/2/2020,Aysen,32.0,0
-5/2/2020,Magallanes,29.0,25
-5/3/2020,Arica y Parinacota,89.0,0
-5/3/2020,Tarapaca,90.0,23
-5/3/2020,Antofagasta,231.0,20
-5/3/2020,Atacama,70.0,3
-5/3/2020,Coquimbo,191.0,3
-5/3/2020,Valparaiso,196.0,18
-5/3/2020,Metropolitana,5631.0,872
-5/3/2020,Ohiggins,72.0,6
-5/3/2020,Maule,322.0,2
-5/3/2020,Nuble,69.0,1
-5/3/2020,Biobio,355.0,3
-5/3/2020,Araucania,204.0,3
-5/3/2020,Los Rios,70.0,1
-5/3/2020,Los Lagos,262.0,7
-5/3/2020,Aysen,0.0,0
-5/3/2020,Magallanes,61.0,18
-5/4/2020,Arica y Parinacota,86.0,7
-5/4/2020,Tarapaca,123.0,27
-5/4/2020,Antofagasta,182.0,51
-5/4/2020,Atacama,111.0,8
-5/4/2020,Coquimbo,0.0,6
-5/4/2020,Valparaiso,233.0,31
-5/4/2020,Metropolitana,5509.0,1179
-5/4/2020,Ohiggins,214.0,5
-5/4/2020,Maule,267.0,9
-5/4/2020,Nuble,0.0,2
-5/4/2020,Biobio,416.0,12
-5/4/2020,Araucania,364.0,21
-5/4/2020,Los Rios,90.0,0
-5/4/2020,Los Lagos,243.0,1
-5/4/2020,Aysen,44.0,0
-5/4/2020,Magallanes,82.0,14
-5/5/2020,Arica y Parinacota,77.0,3
-5/5/2020,Tarapaca,53.0,17
-5/5/2020,Antofagasta,236.0,44
-5/5/2020,Atacama,107.0,2
-5/5/2020,Coquimbo,23.0,0
-5/5/2020,Valparaiso,268.0,29
-5/5/2020,Metropolitana,6920.0,875
-5/5/2020,Ohiggins,174.0,9
-5/5/2020,Maule,135.0,0
-5/5/2020,Nuble,213.0,2
-5/5/2020,Biobio,473.0,15
-5/5/2020,Araucania,436.0,10
-5/5/2020,Los Rios,95.0,1
-5/5/2020,Los Lagos,686.0,16
-5/5/2020,Aysen,38.0,0
-5/5/2020,Magallanes,79.0,9
-5/6/2020,Arica y Parinacota,123.0,7
-5/6/2020,Tarapaca,221.0,78
-5/6/2020,Antofagasta,247.0,40
-5/6/2020,Atacama,164.0,7
-5/6/2020,Coquimbo,51.0,3
-5/6/2020,Valparaiso,690.0,65
-5/6/2020,Metropolitana,8382.0,1246
-5/6/2020,Ohiggins,68.0,6
-5/6/2020,Maule,93.0,6
-5/6/2020,Nuble,171.0,2
-5/6/2020,Biobio,736.0,25
-5/6/2020,Araucania,413.0,23
-5/6/2020,Los Rios,142.0,2
-5/6/2020,Los Lagos,449.0,4
-5/6/2020,Aysen,0.0,1
-5/6/2020,Magallanes,168.0,18
-5/7/2020,Arica y Parinacota,92.0,2
-5/7/2020,Tarapaca,169.0,42
-5/7/2020,Antofagasta,291.0,28
-5/7/2020,Atacama,167.0,1
-5/7/2020,Coquimbo,59.0,11
-5/7/2020,Valparaiso,573.0,47
-5/7/2020,Metropolitana,7839.0,1151
-5/7/2020,Ohiggins,150.0,16
-5/7/2020,Maule,181.0,11
-5/7/2020,Nuble,110.0,1
-5/7/2020,Biobio,647.0,28
-5/7/2020,Araucania,391.0,18
-5/7/2020,Los Rios,127.0,1
-5/7/2020,Los Lagos,849.0,3
-5/7/2020,Aysen,32.0,0
-5/7/2020,Magallanes,58.0,31
-5/8/2020,Arica y Parinacota,127.0,10
-5/8/2020,Tarapaca,184.0,26
-5/8/2020,Antofagasta,215.0,24
-5/8/2020,Atacama,111.0,29
-5/8/2020,Coquimbo,66.0,18
-5/8/2020,Valparaiso,588.0,50
-5/8/2020,Metropolitana,8345.0,978
-5/8/2020,Ohiggins,131.0,15
-5/8/2020,Maule,238.0,7
-5/8/2020,Nuble,156.0,7
-5/8/2020,Biobio,847.0,40
-5/8/2020,Araucania,174.0,15
-5/8/2020,Los Rios,135.0,3
-5/8/2020,Los Lagos,537.0,11
-5/8/2020,Aysen,35.0,0
-5/8/2020,Magallanes,54.0,14
-5/9/2020,Arica y Parinacota,74.0,3
-5/9/2020,Tarapaca,185.0,35
-5/9/2020,Antofagasta,419.0,31
-5/9/2020,Atacama,101.0,7
-5/9/2020,Coquimbo,370.0,6
-5/9/2020,Valparaiso,489.0,55
-5/9/2020,Metropolitana,7691.0,1396
-5/9/2020,Ohiggins,269.0,13
-5/9/2020,Maule,446.0,9
-5/9/2020,Nuble,196.0,11
-5/9/2020,Biobio,715.0,17
-5/9/2020,Araucania,372.0,36
-5/9/2020,Los Rios,147.0,0
-5/9/2020,Los Lagos,1146.0,16
-5/9/2020,Aysen,102.0,0
-5/9/2020,Magallanes,58.0,12
-5/10/2020,Arica y Parinacota,70.0,11
-5/10/2020,Tarapaca,275.0,27
-5/10/2020,Antofagasta,245.0,36
-5/10/2020,Atacama,133.0,9
-5/10/2020,Coquimbo,95.0,5
-5/10/2020,Valparaiso,552.0,37
-5/10/2020,Metropolitana,8498.0,964
-5/10/2020,Ohiggins,183.0,21
-5/10/2020,Maule,333.0,13
-5/10/2020,Nuble,142.0,2
-5/10/2020,Biobio,386.0,33
-5/10/2020,Araucania,576.0,12
-5/10/2020,Los Rios,64.0,2
-5/10/2020,Los Lagos,1670.0,17
-5/10/2020,Aysen,93.0,0
-5/10/2020,Magallanes,58.0,8
-5/11/2020,Arica y Parinacota,83.0,0
-5/11/2020,Tarapaca,0.0,31
-5/11/2020,Antofagasta,285.0,95
-5/11/2020,Atacama,86.0,1
-5/11/2020,Coquimbo,48.0,8
-5/11/2020,Valparaiso,518.0,59
-5/11/2020,Metropolitana,6424.0,1392
-5/11/2020,Ohiggins,0.0,8
-5/11/2020,Maule,245.0,12
-5/11/2020,Nuble,180.0,12
-5/11/2020,Biobio,522.0,10
-5/11/2020,Araucania,90.0,16
-5/11/2020,Los Rios,105.0,3
-5/11/2020,Los Lagos,644.0,2
-5/11/2020,Aysen,0.0,0
-5/11/2020,Magallanes,53.0,9
-5/12/2020,Arica y Parinacota,90.0,8
-5/12/2020,Tarapaca,6.0,37
-5/12/2020,Antofagasta,94.0,107
-5/12/2020,Atacama,0.0,5
-5/12/2020,Coquimbo,0.0,5
-5/12/2020,Valparaiso,298.0,94
-5/12/2020,Metropolitana,7173.0,2256
-5/12/2020,Ohiggins,164.0,24
-5/12/2020,Maule,329.0,19
-5/12/2020,Nuble,0.0,13
-5/12/2020,Biobio,1342.0,33
-5/12/2020,Araucania,437.0,13
-5/12/2020,Los Rios,108.0,1
-5/12/2020,Los Lagos,194.0,34
-5/12/2020,Aysen,20.0,0
-5/12/2020,Magallanes,155.0,11
-5/13/2020,Arica y Parinacota,140.0,4
-5/13/2020,Tarapaca,274.0,67
-5/13/2020,Antofagasta,283.0,61
-5/13/2020,Atacama,4.0,1
-5/13/2020,Coquimbo,80.0,12
-5/13/2020,Valparaiso,301.0,90
-5/13/2020,Metropolitana,7563.0,2251
-5/13/2020,Ohiggins,204.0,47
-5/13/2020,Maule,234.0,34
-5/13/2020,Nuble,226.0,10
-5/13/2020,Biobio,433.0,20
-5/13/2020,Araucania,480.0,41
-5/13/2020,Los Rios,107.0,2
-5/13/2020,Los Lagos,933.0,5
-5/13/2020,Aysen,110.0,0
-5/13/2020,Magallanes,130.0,14
-5/14/2020,Arica y Parinacota,107.0,5
-5/14/2020,Tarapaca,346.0,97
-5/14/2020,Antofagasta,416.0,54
-5/14/2020,Atacama,197.0,3
-5/14/2020,Coquimbo,253.0,15
-5/14/2020,Valparaiso,1097.0,99
-5/14/2020,Metropolitana,9948.0,2060
-5/14/2020,Ohiggins,148.0,28
-5/14/2020,Maule,241.0,21
-5/14/2020,Nuble,183.0,36
-5/14/2020,Biobio,1530.0,41
-5/14/2020,Araucania,452.0,28
-5/14/2020,Los Rios,218.0,5
-5/14/2020,Los Lagos,921.0,8
-5/14/2020,Aysen,38.0,0
-5/14/2020,Magallanes,0.0,2
-5/15/2020,Arica y Parinacota,0.0,9
-5/15/2020,Tarapaca,268.0,66
-5/15/2020,Antofagasta,5.0,98
-5/15/2020,Atacama,311.0,3
-5/15/2020,Coquimbo,92.0,7
-5/15/2020,Valparaiso,213.0,53
-5/15/2020,Metropolitana,6555.0,1518
-5/15/2020,Ohiggins,0.0,6
-5/15/2020,Maule,0.0,11
-5/15/2020,Nuble,0.0,36
-5/15/2020,Biobio,70.0,38
-5/15/2020,Araucania,417.0,23
-5/15/2020,Los Rios,81.0,0
-5/15/2020,Los Lagos,718.0,3
-5/15/2020,Aysen,32.0,0
-5/15/2020,Magallanes,51.0,15
-5/16/2020,Arica y Parinacota,106.0,1
-5/16/2020,Tarapaca,374.0,130
-5/16/2020,Antofagasta,299.0,76
-5/16/2020,Atacama,66.0,3
-5/16/2020,Coquimbo,180.0,7
-5/16/2020,Valparaiso,839.0,109
-5/16/2020,Metropolitana,7371.0,1890
-5/16/2020,Ohiggins,168.0,37
-5/16/2020,Maule,371.0,22
-5/16/2020,Nuble,345.0,21
-5/16/2020,Biobio,1544.0,25
-5/16/2020,Araucania,410.0,19
-5/16/2020,Los Rios,29.0,1
-5/16/2020,Los Lagos,675.0,3
-5/16/2020,Aysen,66.0,0
-5/16/2020,Magallanes,328.0,9
-5/17/2020,Arica y Parinacota,135.0,20
-5/17/2020,Tarapaca,284.0,81
-5/17/2020,Antofagasta,345.0,84
-5/17/2020,Atacama,143.0,8
-5/17/2020,Coquimbo,205.0,18
-5/17/2020,Valparaiso,545.0,79
-5/17/2020,Metropolitana,11992.0,1767
-5/17/2020,Ohiggins,349.0,52
-5/17/2020,Maule,270.0,29
-5/17/2020,Nuble,834.0,43
-5/17/2020,Biobio,1009.0,45
-5/17/2020,Araucania,211.0,33
-5/17/2020,Los Rios,77.0,4
-5/17/2020,Los Lagos,779.0,5
-5/17/2020,Aysen,14.0,0
-5/17/2020,Magallanes,323.0,10
-5/18/2020,Arica y Parinacota,78.0,24
-5/18/2020,Tarapaca,269.0,53
-5/18/2020,Antofagasta,290.0,59
-5/18/2020,Atacama,98.0,1
-5/18/2020,Coquimbo,308.0,27
-5/18/2020,Valparaiso,529.0,86
-5/18/2020,Metropolitana,10754.0,3140
-5/18/2020,Ohiggins,143.0,24
-5/18/2020,Maule,892.0,38
-5/18/2020,Nuble,0.0,3
-5/18/2020,Biobio,1119.0,28
-5/18/2020,Araucania,642.0,27
-5/18/2020,Los Rios,264.0,5
-5/18/2020,Los Lagos,705.0,4
-5/18/2020,Aysen,0.0,0
-5/18/2020,Magallanes,98.0,1
-5/19/2020,Arica y Parinacota,93.0,2
-5/19/2020,Tarapaca,121.0,30
-5/19/2020,Antofagasta,386.0,83
-5/19/2020,Atacama,86.0,5
-5/19/2020,Coquimbo,128.0,24
-5/19/2020,Valparaiso,616.0,131
-5/19/2020,Metropolitana,7285.0,3588
-5/19/2020,Ohiggins,143.0,13
-5/19/2020,Maule,477.0,40
-5/19/2020,Nuble,657.0,23
-5/19/2020,Biobio,1043.0,52
-5/19/2020,Araucania,406.0,14
-5/19/2020,Los Rios,50.0,18
-5/19/2020,Los Lagos,577.0,10
-5/19/2020,Aysen,68.0,0
-5/19/2020,Magallanes,333.0,5
-5/20/2020,Arica y Parinacota,88.0,29
-5/20/2020,Tarapaca,361.0,107
-5/20/2020,Antofagasta,396.0,47
-5/20/2020,Atacama,133.0,5
-5/20/2020,Coquimbo,167.0,5
-5/20/2020,Valparaiso,631.0,117
-5/20/2020,Metropolitana,11345.0,3462
-5/20/2020,Ohiggins,102.0,10
-5/20/2020,Maule,0.0,51
-5/20/2020,Nuble,0.0,9
-5/20/2020,Biobio,1048.0,39
-5/20/2020,Araucania,373.0,35
-5/20/2020,Los Rios,219.0,11
-5/20/2020,Los Lagos,1058.0,27
-5/20/2020,Aysen,50.0,0
-5/20/2020,Magallanes,363.0,10
-5/21/2020,Arica y Parinacota,182.0,18
-5/21/2020,Tarapaca,342.0,147
-5/21/2020,Antofagasta,259.0,63
-5/21/2020,Atacama,154.0,7
-5/21/2020,Coquimbo,202.0,13
-5/21/2020,Valparaiso,358.0,133
-5/21/2020,Metropolitana,10626.0,3709
-5/21/2020,Ohiggins,115.0,27
-5/21/2020,Maule,533.0,51
-5/21/2020,Nuble,372.0,5
-5/21/2020,Biobio,1135.0,48
-5/21/2020,Araucania,513.0,22
-5/21/2020,Los Rios,161.0,4
-5/21/2020,Los Lagos,928.0,24
-5/21/2020,Aysen,45.0,0
-5/21/2020,Magallanes,165.0,5
-5/22/2020,Arica y Parinacota,157.0,11
-5/22/2020,Tarapaca,347.0,78
-5/22/2020,Antofagasta,344.0,56
-5/22/2020,Atacama,133.0,7
-5/22/2020,Coquimbo,221.0,13
-5/22/2020,Valparaiso,975.0,96
-5/22/2020,Metropolitana,9725.0,3049
-5/22/2020,Ohiggins,230.0,26
-5/22/2020,Maule,332.0,41
-5/22/2020,Nuble,283.0,52
-5/22/2020,Biobio,1157.0,43
-5/22/2020,Araucania,382.0,37
-5/22/2020,Los Rios,170.0,12
-5/22/2020,Los Lagos,661.0,10
-5/22/2020,Aysen,6.0,0
-5/22/2020,Magallanes,116.0,5
-5/23/2020,Arica y Parinacota,76.0,16
-5/23/2020,Tarapaca,335.0,93
-5/23/2020,Antofagasta,224.0,50
-5/23/2020,Atacama,99.0,0
-5/23/2020,Coquimbo,227.0,29
-5/23/2020,Valparaiso,547.0,114
-5/23/2020,Metropolitana,8696.0,3145
-5/23/2020,Ohiggins,0.0,36
-5/23/2020,Maule,385.0,69
-5/23/2020,Nuble,0.0,25
-5/23/2020,Biobio,1202.0,60
-5/23/2020,Araucania,591.0,34
-5/23/2020,Los Rios,206.0,16
-5/23/2020,Los Lagos,1768.0,9
-5/23/2020,Aysen,44.0,0
-5/23/2020,Magallanes,26.0,13
-5/24/2020,Arica y Parinacota,160.0,15
-5/24/2020,Tarapaca,365.0,66
-5/24/2020,Antofagasta,347.0,68
-5/24/2020,Atacama,83.0,3
-5/24/2020,Coquimbo,210.0,15
-5/24/2020,Valparaiso,575.0,75
-5/24/2020,Metropolitana,10330.0,4386
-5/24/2020,Ohiggins,233.0,34
-5/24/2020,Maule,286.0,61
-5/24/2020,Nuble,573.0,37
-5/24/2020,Biobio,1598.0,44
-5/24/2020,Araucania,199.0,49
-5/24/2020,Los Rios,157.0,7
-5/24/2020,Los Lagos,969.0,27
-5/24/2020,Aysen,13.0,2
-5/24/2020,Magallanes,185.0,6
-5/25/2020,Arica y Parinacota,159.0,9
-5/25/2020,Tarapaca,586.0,107
-5/25/2020,Antofagasta,218.0,48
-5/25/2020,Atacama,175.0,3
-5/25/2020,Coquimbo,214.0,46
-5/25/2020,Valparaiso,599.0,150
-5/25/2020,Metropolitana,8874.0,3355
-5/25/2020,Ohiggins,112.0,66
-5/25/2020,Maule,434.0,60
-5/25/2020,Nuble,129.0,8
-5/25/2020,Biobio,714.0,44
-5/25/2020,Araucania,353.0,26
-5/25/2020,Los Rios,135.0,7
-5/25/2020,Los Lagos,334.0,18
-5/25/2020,Aysen,0.0,2
-5/25/2020,Magallanes,48.0,15
-5/26/2020,Arica y Parinacota,81.0,19
-5/26/2020,Tarapaca,314.0,74
-5/26/2020,Antofagasta,165.0,74
-5/26/2020,Atacama,261.0,9
-5/26/2020,Coquimbo,138.0,71
-5/26/2020,Valparaiso,694.0,121
-5/26/2020,Metropolitana,8632.0,3726
-5/26/2020,Ohiggins,0.0,37
-5/26/2020,Maule,291.0,53
-5/26/2020,Nuble,281.0,27
-5/26/2020,Biobio,1362.0,63
-5/26/2020,Araucania,471.0,33
-5/26/2020,Los Rios,147.0,5
-5/26/2020,Los Lagos,416.0,10
-5/26/2020,Aysen,103.0,0
-5/26/2020,Magallanes,42.0,6
-5/27/2020,Arica y Parinacota,172.0,21
-5/27/2020,Tarapaca,360.0,146
-5/27/2020,Antofagasta,206.0,111
-5/27/2020,Atacama,178.0,5
-5/27/2020,Coquimbo,222.0,27
-5/27/2020,Valparaiso,898.0,154
-5/27/2020,Metropolitana,9000.0,3904
-5/27/2020,Ohiggins,208.0,14
-5/27/2020,Maule,547.0,54
-5/27/2020,Nuble,323.0,31
-5/27/2020,Biobio,1614.0,112
-5/27/2020,Araucania,528.0,38
-5/27/2020,Los Rios,206.0,9
-5/27/2020,Los Lagos,901.0,23
-5/27/2020,Aysen,113.0,2
-5/27/2020,Magallanes,174.0,3
-5/28/2020,Arica y Parinacota,90.0,20
-5/28/2020,Tarapaca,470.0,136
-5/28/2020,Antofagasta,343.0,70
-5/28/2020,Atacama,155.0,5
-5/28/2020,Coquimbo,176.0,55
-5/28/2020,Valparaiso,536.0,112
-5/28/2020,Metropolitana,9981.0,2995
-5/28/2020,Ohiggins,3.0,40
-5/28/2020,Maule,348.0,60
-5/28/2020,Nuble,336.0,37
-5/28/2020,Biobio,1822.0,101
-5/28/2020,Araucania,514.0,35
-5/28/2020,Los Rios,223.0,12
-5/28/2020,Los Lagos,939.0,8
-5/28/2020,Aysen,51.0,2
-5/28/2020,Magallanes,346.0,7
-5/29/2020,Arica y Parinacota,243.0,6
-5/29/2020,Tarapaca,565.0,157
-5/29/2020,Antofagasta,501.0,111
-5/29/2020,Atacama,83.0,8
-5/29/2020,Coquimbo,248.0,60
-5/29/2020,Valparaiso,871.0,195
-5/29/2020,Metropolitana,9996.0,3341
-5/29/2020,Ohiggins,193.0,11
-5/29/2020,Maule,439.0,76
-5/29/2020,Nuble,0.0,14
-5/29/2020,Biobio,1566.0,110
-5/29/2020,Araucania,673.0,71
-5/29/2020,Los Rios,198.0,15
-5/29/2020,Los Lagos,1013.0,38
-5/29/2020,Aysen,89.0,0
-5/29/2020,Magallanes,136.0,7
-5/30/2020,Arica y Parinacota,137.0,31
-5/30/2020,Tarapaca,472.0,111
-5/30/2020,Antofagasta,379.0,81
-5/30/2020,Atacama,126.0,3
-5/30/2020,Coquimbo,359.0,31
-5/30/2020,Valparaiso,714.0,130
-5/30/2020,Metropolitana,11821.0,4253
-5/30/2020,Ohiggins,174.0,29
-5/30/2020,Maule,471.0,41
-5/30/2020,Nuble,345.0,1
-5/30/2020,Biobio,1500.0,91
-5/30/2020,Araucania,473.0,11
-5/30/2020,Los Rios,188.0,11
-5/30/2020,Los Lagos,1711.0,3
-5/30/2020,Aysen,71.0,1
-5/30/2020,Magallanes,179.0,2
-5/31/2020,Arica y Parinacota,0.0,17
-5/31/2020,Tarapaca,445.0,165
-5/31/2020,Antofagasta,247.0,75
-5/31/2020,Atacama,289.0,14
-5/31/2020,Coquimbo,177.0,40
-5/31/2020,Valparaiso,587.0,181
-5/31/2020,Metropolitana,11285.0,4735
-5/31/2020,Ohiggins,196.0,28
-5/31/2020,Maule,0.0,44
-5/31/2020,Nuble,639.0,33
-5/31/2020,Biobio,1295.0,91
-5/31/2020,Araucania,491.0,40
-5/31/2020,Los Rios,114.0,7
-5/31/2020,Los Lagos,994.0,0
-5/31/2020,Aysen,24.0,0
-5/31/2020,Magallanes,0.0,1057
-6/9/2020,Arica y Parinacota,92.0,16
-6/9/2020,Tarapaca,329.0,100
-6/9/2020,Antofagasta,543.0,157
-6/9/2020,Atacama,186.0,17
-6/9/2020,Coquimbo,363.0,81
-6/9/2020,Valparaiso,795.0,223
-6/9/2020,Metropolitana,7792.0,4620
-6/9/2020,Ohiggins,243.0,125
-6/9/2020,Maule,626.0,151
-6/9/2020,Nuble,348.0,32
-6/9/2020,Biobio,1559.0,152
-6/9/2020,Araucania,570.0,43
-6/9/2020,Los Rios,148.0,6
-6/9/2020,Los Lagos,837.0,13
-6/9/2020,Aysen,30.0,0
-6/9/2020,Magallanes,16.0,1
-6/10/2020,Arica y Parinacota,274.0,37
-6/10/2020,Tarapaca,344.0,105
-6/10/2020,Antofagasta,436.0,194
-6/10/2020,Atacama,139.0,24
-6/10/2020,Coquimbo,307.0,89
-6/10/2020,Valparaiso,986.0,251
-6/10/2020,Metropolitana,12227.0,4389
-6/10/2020,Ohiggins,275.0,110
-6/10/2020,Maule,673.0,120
-6/10/2020,Nuble,526.0,57
-6/10/2020,Biobio,1596.0,128
-6/10/2020,Araucania,551.0,47
-6/10/2020,Los Rios,192.0,10
-6/10/2020,Los Lagos,1227.0,21
-6/10/2020,Aysen,119.0,1
-6/10/2020,Magallanes,104.0,13
-6/11/2020,Arica y Parinacota,164.0,44
-6/11/2020,Tarapaca,495.0,127
-6/11/2020,Antofagasta,526.0,132
-6/11/2020,Atacama,218.0,24
-6/11/2020,Coquimbo,307.0,93
-6/11/2020,Valparaiso,939.0,306
-6/11/2020,Metropolitana,11112.0,5559
-6/11/2020,Ohiggins,160.0,77
-6/11/2020,Maule,566.0,131
-6/11/2020,Nuble,371.0,45
-6/11/2020,Biobio,1764.0,129
-6/11/2020,Araucania,694.0,44
-6/11/2020,Los Rios,242.0,17
-6/11/2020,Los Lagos,970.0,21
-6/11/2020,Aysen,65.0,0
-6/11/2020,Magallanes,140.0,5
-6/12/2020,Arica y Parinacota,189.0,51
-6/12/2020,Tarapaca,395.0,181
-6/12/2020,Antofagasta,535.0,153
-6/12/2020,Atacama,81.0,23
-6/12/2020,Coquimbo,266.0,74
-6/12/2020,Valparaiso,978.0,356
-6/12/2020,Metropolitana,12281.0,5057
-6/12/2020,Ohiggins,396.0,159
-6/12/2020,Maule,699.0,153
-6/12/2020,Nuble,248.0,19
-6/12/2020,Biobio,1774.0,166
-6/12/2020,Araucania,678.0,66
-6/12/2020,Los Rios,300.0,8
-6/12/2020,Los Lagos,1152.0,25
-6/12/2020,Aysen,109.0,2
-6/12/2020,Magallanes,142.0,16
-6/13/2020,Arica y Parinacota,241.0,47
-6/13/2020,Tarapaca,482.0,141
-6/13/2020,Antofagasta,654.0,248
-6/13/2020,Atacama,132.0,12
-6/13/2020,Coquimbo,345.0,44
-6/13/2020,Valparaiso,967.0,231
-6/13/2020,Metropolitana,12267.0,5647
-6/13/2020,Ohiggins,167.0,139
-6/13/2020,Maule,677.0,153
-6/13/2020,Nuble,245.0,41
-6/13/2020,Biobio,1535.0,132
-6/13/2020,Araucania,722.0,30
-6/13/2020,Los Rios,219.0,10
-6/13/2020,Los Lagos,1316.0,33
-6/13/2020,Aysen,46.0,0
-6/13/2020,Magallanes,136.0,30
-6/14/2020,Arica y Parinacota,237.0,30
-6/14/2020,Tarapaca,360.0,113
-6/14/2020,Antofagasta,364.0,270
-6/14/2020,Atacama,415.0,36
-6/14/2020,Coquimbo,314.0,120
-6/14/2020,Valparaiso,840.0,254
-6/14/2020,Metropolitana,11.163,3.882
-6/14/2020,Ohiggins,361.0,85
-6/14/2020,Maule,454.0,94
-6/14/2020,Nuble,420.0,54
-6/14/2020,Biobio,1.5530000000000002,59
-6/14/2020,Araucania,859.0,53
-6/14/2020,Los Rios,258.0,32
-6/14/2020,Los Lagos,1.004,27
-6/14/2020,Aysen,80.0,2
-6/14/2020,Magallanes,126.0,32
+4/8/2020,Arica y Parinacota,70,12
+4/8/2020,Tarapaca,0,3
+4/8/2020,Antofagasta,182,15
+4/8/2020,Atacama,57,2
+4/8/2020,Coquimbo,0,5
+4/8/2020,Valparaiso,301,5
+4/8/2020,Metropolitana,5383,284
+4/8/2020,Ohiggins,68,1
+4/8/2020,Maule,397,9
+4/8/2020,Nuble,364,10
+4/8/2020,Biobio,592,21
+4/8/2020,Araucania,124,20
+4/8/2020,Los Rios,0,4
+4/8/2020,Los Lagos,341,15
+4/8/2020,Aysen,10,0
+4/8/2020,Magallanes,73,20
+4/9/2020,Arica y Parinacota,0,12
+4/9/2020,Tarapaca,0,6
+4/9/2020,Antofagasta,128,18
+4/9/2020,Atacama,52,3
+4/9/2020,Coquimbo,0,0
+4/9/2020,Valparaiso,249,11
+4/9/2020,Metropolitana,3185,361
+4/9/2020,Ohiggins,0,0
+4/9/2020,Maule,219,3
+4/9/2020,Nuble,0,18
+4/9/2020,Biobio,149,14
+4/9/2020,Araucania,148,23
+4/9/2020,Los Rios,91,6
+4/9/2020,Los Lagos,199,9
+4/9/2020,Aysen,0,0
+4/9/2020,Magallanes,24,45
+4/10/2020,Arica y Parinacota,93,20
+4/10/2020,Tarapaca,0,3
+4/10/2020,Antofagasta,107,7
+4/10/2020,Atacama,60,0
+4/10/2020,Coquimbo,0,3
+4/10/2020,Valparaiso,248,7
+4/10/2020,Metropolitana,2105,255
+4/10/2020,Ohiggins,74,1
+4/10/2020,Maule,0,3
+4/10/2020,Nuble,259,17
+4/10/2020,Biobio,281,16
+4/10/2020,Araucania,126,27
+4/10/2020,Los Rios,0,6
+4/10/2020,Los Lagos,178,15
+4/10/2020,Aysen,0,0
+4/10/2020,Magallanes,46,46
+4/11/2020,Arica y Parinacota,103,8
+4/11/2020,Tarapaca,0,8
+4/11/2020,Antofagasta,175,21
+4/11/2020,Atacama,25,0
+4/11/2020,Coquimbo,0,2
+4/11/2020,Valparaiso,273,6
+4/11/2020,Metropolitana,3861,151
+4/11/2020,Ohiggins,0,1
+4/11/2020,Maule,341,4
+4/11/2020,Nuble,189,7
+4/11/2020,Biobio,469,10
+4/11/2020,Araucania,184,36
+4/11/2020,Los Rios,0,5
+4/11/2020,Los Lagos,225,8
+4/11/2020,Aysen,7,0
+4/11/2020,Magallanes,45,19
+4/12/2020,Arica y Parinacota,0,0
+4/12/2020,Tarapaca,0,6
+4/12/2020,Antofagasta,103,11
+4/12/2020,Atacama,20,0
+4/12/2020,Coquimbo,0,0
+4/12/2020,Valparaiso,223,19
+4/12/2020,Metropolitana,1850,204
+4/12/2020,Ohiggins,113,2
+4/12/2020,Maule,65,3
+4/12/2020,Nuble,74,5
+4/12/2020,Biobio,0,12
+4/12/2020,Araucania,232,20
+4/12/2020,Los Rios,0,3
+4/12/2020,Los Lagos,39,8
+4/12/2020,Aysen,0,0
+4/12/2020,Magallanes,45,19
+4/13/2020,Arica y Parinacota,93,5
+4/13/2020,Tarapaca,0,10
+4/13/2020,Antofagasta,95,6
+4/13/2020,Atacama,22,0
+4/13/2020,Coquimbo,0,0
+4/13/2020,Valparaiso,92,12
+4/13/2020,Metropolitana,1656,283
+4/13/2020,Ohiggins,30,5
+4/13/2020,Maule,160,1
+4/13/2020,Nuble,0,4
+4/13/2020,Biobio,218,16
+4/13/2020,Araucania,148,21
+4/13/2020,Los Rios,67,10
+4/13/2020,Los Lagos,131,5
+4/13/2020,Aysen,12,0
+4/13/2020,Magallanes,35,14
+4/14/2020,Arica y Parinacota,24,4
+4/14/2020,Tarapaca,0,0
+4/14/2020,Antofagasta,117,21
+4/14/2020,Atacama,25,0
+4/14/2020,Coquimbo,0,0
+4/14/2020,Valparaiso,385,14
+4/14/2020,Metropolitana,2694,248
+4/14/2020,Ohiggins,30,1
+4/14/2020,Maule,0,10
+4/14/2020,Nuble,0,12
+4/14/2020,Biobio,311,14
+4/14/2020,Araucania,218,10
+4/14/2020,Los Rios,67,2
+4/14/2020,Los Lagos,137,5
+4/14/2020,Aysen,8,0
+4/14/2020,Magallanes,63,15
+4/15/2020,Arica y Parinacota,198,5
+4/15/2020,Tarapaca,30,4
+4/15/2020,Antofagasta,117,16
+4/15/2020,Atacama,29,0
+4/15/2020,Coquimbo,0,2
+4/15/2020,Valparaiso,240,31
+4/15/2020,Metropolitana,4356,348
+4/15/2020,Ohiggins,58,0
+4/15/2020,Maule,469,15
+4/15/2020,Nuble,110,5
+4/15/2020,Biobio,408,17
+4/15/2020,Araucania,246,56
+4/15/2020,Los Rios,49,3
+4/15/2020,Los Lagos,139,9
+4/15/2020,Aysen,16,0
+4/15/2020,Magallanes,86,23
+4/16/2020,Arica y Parinacota,131,5
+4/16/2020,Tarapaca,0,7
+4/16/2020,Antofagasta,143,19
+4/16/2020,Atacama,37,0
+4/16/2020,Coquimbo,0,0
+4/16/2020,Valparaiso,246,15
+4/16/2020,Metropolitana,3670,233
+4/16/2020,Ohiggins,50,1
+4/16/2020,Maule,367,56
+4/16/2020,Nuble,159,17
+4/16/2020,Biobio,80,19
+4/16/2020,Araucania,220,25
+4/16/2020,Los Rios,71,1
+4/16/2020,Los Lagos,198,13
+4/16/2020,Aysen,8,0
+4/16/2020,Magallanes,69,34
+4/17/2020,Arica y Parinacota,0,8
+4/17/2020,Tarapaca,60,8
+4/17/2020,Antofagasta,200,15
+4/17/2020,Atacama,50,0
+4/17/2020,Coquimbo,0,0
+4/17/2020,Valparaiso,330,14
+4/17/2020,Metropolitana,2743,277
+4/17/2020,Ohiggins,0,0
+4/17/2020,Maule,176,53
+4/17/2020,Nuble,76,11
+4/17/2020,Biobio,751,28
+4/17/2020,Araucania,169,37
+4/17/2020,Los Rios,91,2
+4/17/2020,Los Lagos,315,4
+4/17/2020,Aysen,8,0
+4/17/2020,Magallanes,48,21
+4/18/2020,Arica y Parinacota,155,3
+4/18/2020,Tarapaca,0,9
+4/18/2020,Antofagasta,129,23
+4/18/2020,Atacama,31,0
+4/18/2020,Coquimbo,0,0
+4/18/2020,Valparaiso,166,22
+4/18/2020,Metropolitana,3475,189
+4/18/2020,Ohiggins,0,0
+4/18/2020,Maule,0,26
+4/18/2020,Nuble,127,11
+4/18/2020,Biobio,358,10
+4/18/2020,Araucania,122,28
+4/18/2020,Los Rios,0,1
+4/18/2020,Los Lagos,96,5
+4/18/2020,Aysen,6,0
+4/18/2020,Magallanes,93,31
+4/19/2020,Arica y Parinacota,48,16
+4/19/2020,Tarapaca,0,3
+4/19/2020,Antofagasta,197,14
+4/19/2020,Atacama,33,0
+4/19/2020,Coquimbo,0,1
+4/19/2020,Valparaiso,177,7
+4/19/2020,Metropolitana,3276,262
+4/19/2020,Ohiggins,72,1
+4/19/2020,Maule,328,2
+4/19/2020,Nuble,149,9
+4/19/2020,Biobio,214,10
+4/19/2020,Araucania,376,73
+4/19/2020,Los Rios,121,5
+4/19/2020,Los Lagos,139,3
+4/19/2020,Aysen,0,0
+4/19/2020,Magallanes,48,13
+4/20/2020,Arica y Parinacota,52,9
+4/20/2020,Tarapaca,30,11
+4/20/2020,Antofagasta,147,28
+4/20/2020,Atacama,33,0
+4/20/2020,Coquimbo,0,0
+4/20/2020,Valparaiso,142,15
+4/20/2020,Metropolitana,2126,145
+4/20/2020,Ohiggins,65,1
+4/20/2020,Maule,188,12
+4/20/2020,Nuble,73,7
+4/20/2020,Biobio,216,10
+4/20/2020,Araucania,206,47
+4/20/2020,Los Rios,58,5
+4/20/2020,Los Lagos,149,8
+4/20/2020,Aysen,4,0
+4/20/2020,Magallanes,41,27
+4/21/2020,Arica y Parinacota,0,10
+4/21/2020,Tarapaca,59,10
+4/21/2020,Antofagasta,152,35
+4/21/2020,Atacama,47,0
+4/21/2020,Coquimbo,29,1
+4/21/2020,Valparaiso,384,18
+4/21/2020,Metropolitana,3917,295
+4/21/2020,Ohiggins,0,2
+4/21/2020,Maule,724,12
+4/21/2020,Nuble,221,9
+4/21/2020,Biobio,340,22
+4/21/2020,Araucania,176,21
+4/21/2020,Los Rios,54,4
+4/21/2020,Los Lagos,209,13
+4/21/2020,Aysen,4,0
+4/21/2020,Magallanes,49,12
+4/22/2020,Arica y Parinacota,169,30
+4/22/2020,Tarapaca,30,14
+4/22/2020,Antofagasta,146,14
+4/22/2020,Atacama,57,5
+4/22/2020,Coquimbo,22,0
+4/22/2020,Valparaiso,90,8
+4/22/2020,Metropolitana,3712,351
+4/22/2020,Ohiggins,86,17
+4/22/2020,Maule,663,5
+4/22/2020,Nuble,189,5
+4/22/2020,Biobio,468,17
+4/22/2020,Araucania,370,29
+4/22/2020,Los Rios,67,2
+4/22/2020,Los Lagos,335,9
+4/22/2020,Aysen,21,0
+4/22/2020,Magallanes,0,10
+4/23/2020,Arica y Parinacota,85,29
+4/23/2020,Tarapaca,203,6
+4/23/2020,Antofagasta,166,26
+4/23/2020,Atacama,77,3
+4/23/2020,Coquimbo,44,2
+4/23/2020,Valparaiso,293,7
+4/23/2020,Metropolitana,4376,327
+4/23/2020,Ohiggins,72,5
+4/23/2020,Maule,606,16
+4/23/2020,Nuble,0,7
+4/23/2020,Biobio,340,8
+4/23/2020,Araucania,306,42
+4/23/2020,Los Rios,87,1
+4/23/2020,Los Lagos,324,6
+4/23/2020,Aysen,48,0
+4/23/2020,Magallanes,93,9
+4/24/2020,Arica y Parinacota,90,6
+4/24/2020,Tarapaca,118,9
+4/24/2020,Antofagasta,217,25
+4/24/2020,Atacama,46,3
+4/24/2020,Coquimbo,42,1
+4/24/2020,Valparaiso,262,18
+4/24/2020,Metropolitana,4218,404
+4/24/2020,Ohiggins,0,4
+4/24/2020,Maule,254,1
+4/24/2020,Nuble,371,10
+4/24/2020,Biobio,354,13
+4/24/2020,Araucania,347,19
+4/24/2020,Los Rios,77,3
+4/24/2020,Los Lagos,406,5
+4/24/2020,Aysen,30,0
+4/24/2020,Magallanes,113,31
+4/25/2020,Arica y Parinacota,73,7
+4/25/2020,Tarapaca,58,13
+4/25/2020,Antofagasta,214,52
+4/25/2020,Atacama,54,5
+4/25/2020,Coquimbo,72,0
+4/25/2020,Valparaiso,201,6
+4/25/2020,Metropolitana,4313,331
+4/25/2020,Ohiggins,195,7
+4/25/2020,Maule,349,4
+4/25/2020,Nuble,91,6
+4/25/2020,Biobio,404,7
+4/25/2020,Araucania,273,13
+4/25/2020,Los Rios,99,1
+4/25/2020,Los Lagos,302,8
+4/25/2020,Aysen,13,0
+4/25/2020,Magallanes,52,13
+4/26/2020,Arica y Parinacota,146,13
+4/26/2020,Tarapaca,58,8
+4/26/2020,Antofagasta,180,14
+4/26/2020,Atacama,56,6
+4/26/2020,Coquimbo,0,1
+4/26/2020,Valparaiso,167,25
+4/26/2020,Metropolitana,3289,362
+4/26/2020,Ohiggins,30,2
+4/26/2020,Maule,535,9
+4/26/2020,Nuble,90,10
+4/26/2020,Biobio,174,3
+4/26/2020,Araucania,246,20
+4/26/2020,Los Rios,56,2
+4/26/2020,Los Lagos,207,4
+4/26/2020,Aysen,0,0
+4/26/2020,Magallanes,26,3
+4/27/2020,Arica y Parinacota,80,3
+4/27/2020,Tarapaca,57,5
+4/27/2020,Antofagasta,181,24
+4/27/2020,Atacama,73,0
+4/27/2020,Coquimbo,148,0
+4/27/2020,Valparaiso,184,8
+4/27/2020,Metropolitana,2975,442
+4/27/2020,Ohiggins,95,3
+4/27/2020,Maule,255,21
+4/27/2020,Nuble,59,6
+4/27/2020,Biobio,234,3
+4/27/2020,Araucania,218,15
+4/27/2020,Los Rios,54,0
+4/27/2020,Los Lagos,225,0
+4/27/2020,Aysen,29,0
+4/27/2020,Magallanes,63,22
+4/28/2020,Arica y Parinacota,61,4
+4/28/2020,Tarapaca,111,14
+4/28/2020,Antofagasta,198,33
+4/28/2020,Atacama,112,7
+4/28/2020,Coquimbo,74,2
+4/28/2020,Valparaiso,169,33
+4/28/2020,Metropolitana,4349,589
+4/28/2020,Ohiggins,105,7
+4/28/2020,Maule,58,8
+4/28/2020,Nuble,104,14
+4/28/2020,Biobio,230,10
+4/28/2020,Araucania,275,22
+4/28/2020,Los Rios,98,2
+4/28/2020,Los Lagos,390,4
+4/28/2020,Aysen,53,0
+4/28/2020,Magallanes,67,21
+4/29/2020,Arica y Parinacota,84,7
+4/29/2020,Tarapaca,124,15
+4/29/2020,Antofagasta,259,32
+4/29/2020,Atacama,107,1
+4/29/2020,Coquimbo,78,0
+4/29/2020,Valparaiso,278,33
+4/29/2020,Metropolitana,5282,736
+4/29/2020,Ohiggins,111,4
+4/29/2020,Maule,249,1
+4/29/2020,Nuble,120,7
+4/29/2020,Biobio,534,8
+4/29/2020,Araucania,201,20
+4/29/2020,Los Rios,93,7
+4/29/2020,Los Lagos,276,6
+4/29/2020,Aysen,22,0
+4/29/2020,Magallanes,80,11
+4/30/2020,Arica y Parinacota,124,18
+4/30/2020,Tarapaca,8,2
+4/30/2020,Antofagasta,164,43
+4/30/2020,Atacama,114,0
+4/30/2020,Coquimbo,166,1
+4/30/2020,Valparaiso,450,9
+4/30/2020,Metropolitana,6144,891
+4/30/2020,Ohiggins,94,1
+4/30/2020,Maule,187,1
+4/30/2020,Nuble,129,0
+4/30/2020,Biobio,296,2
+4/30/2020,Araucania,421,2
+4/30/2020,Los Rios,122,0
+4/30/2020,Los Lagos,371,14
+4/30/2020,Aysen,0,0
+4/30/2020,Magallanes,126,1
+5/1/2020,Arica y Parinacota,87,10
+5/1/2020,Tarapaca,102,12
+5/1/2020,Antofagasta,312,90
+5/1/2020,Atacama,105,16
+5/1/2020,Coquimbo,165,1
+5/1/2020,Valparaiso,327,46
+5/1/2020,Metropolitana,6922,1145
+5/1/2020,Ohiggins,181,11
+5/1/2020,Maule,339,2
+5/1/2020,Nuble,101,8
+5/1/2020,Biobio,483,22
+5/1/2020,Araucania,194,19
+5/1/2020,Los Rios,133,7
+5/1/2020,Los Lagos,412,12
+5/1/2020,Aysen,46,0
+5/1/2020,Magallanes,58,26
+5/2/2020,Arica y Parinacota,41,1
+5/2/2020,Tarapaca,90,60
+5/2/2020,Antofagasta,271,61
+5/2/2020,Atacama,75,8
+5/2/2020,Coquimbo,102,10
+5/2/2020,Valparaiso,251,24
+5/2/2020,Metropolitana,4570,995
+5/2/2020,Ohiggins,63,5
+5/2/2020,Maule,302,1
+5/2/2020,Nuble,97,10
+5/2/2020,Biobio,251,8
+5/2/2020,Araucania,354,14
+5/2/2020,Los Rios,70,2
+5/2/2020,Los Lagos,220,4
+5/2/2020,Aysen,32,0
+5/2/2020,Magallanes,29,25
+5/3/2020,Arica y Parinacota,89,0
+5/3/2020,Tarapaca,90,23
+5/3/2020,Antofagasta,231,20
+5/3/2020,Atacama,70,3
+5/3/2020,Coquimbo,191,3
+5/3/2020,Valparaiso,196,18
+5/3/2020,Metropolitana,5631,872
+5/3/2020,Ohiggins,72,6
+5/3/2020,Maule,322,2
+5/3/2020,Nuble,69,1
+5/3/2020,Biobio,355,3
+5/3/2020,Araucania,204,3
+5/3/2020,Los Rios,70,1
+5/3/2020,Los Lagos,262,7
+5/3/2020,Aysen,0,0
+5/3/2020,Magallanes,61,18
+5/4/2020,Arica y Parinacota,86,7
+5/4/2020,Tarapaca,123,27
+5/4/2020,Antofagasta,182,51
+5/4/2020,Atacama,111,8
+5/4/2020,Coquimbo,0,6
+5/4/2020,Valparaiso,233,31
+5/4/2020,Metropolitana,5509,1179
+5/4/2020,Ohiggins,214,5
+5/4/2020,Maule,267,9
+5/4/2020,Nuble,0,2
+5/4/2020,Biobio,416,12
+5/4/2020,Araucania,364,21
+5/4/2020,Los Rios,90,0
+5/4/2020,Los Lagos,243,1
+5/4/2020,Aysen,44,0
+5/4/2020,Magallanes,82,14
+5/5/2020,Arica y Parinacota,77,3
+5/5/2020,Tarapaca,53,17
+5/5/2020,Antofagasta,236,44
+5/5/2020,Atacama,107,2
+5/5/2020,Coquimbo,23,0
+5/5/2020,Valparaiso,268,29
+5/5/2020,Metropolitana,6920,875
+5/5/2020,Ohiggins,174,9
+5/5/2020,Maule,135,0
+5/5/2020,Nuble,213,2
+5/5/2020,Biobio,473,15
+5/5/2020,Araucania,436,10
+5/5/2020,Los Rios,95,1
+5/5/2020,Los Lagos,686,16
+5/5/2020,Aysen,38,0
+5/5/2020,Magallanes,79,9
+5/6/2020,Arica y Parinacota,123,7
+5/6/2020,Tarapaca,221,78
+5/6/2020,Antofagasta,247,40
+5/6/2020,Atacama,164,7
+5/6/2020,Coquimbo,51,3
+5/6/2020,Valparaiso,690,65
+5/6/2020,Metropolitana,8382,1246
+5/6/2020,Ohiggins,68,6
+5/6/2020,Maule,93,6
+5/6/2020,Nuble,171,2
+5/6/2020,Biobio,736,25
+5/6/2020,Araucania,413,23
+5/6/2020,Los Rios,142,2
+5/6/2020,Los Lagos,449,4
+5/6/2020,Aysen,0,1
+5/6/2020,Magallanes,168,18
+5/7/2020,Arica y Parinacota,92,2
+5/7/2020,Tarapaca,169,42
+5/7/2020,Antofagasta,291,28
+5/7/2020,Atacama,167,1
+5/7/2020,Coquimbo,59,11
+5/7/2020,Valparaiso,573,47
+5/7/2020,Metropolitana,7839,1151
+5/7/2020,Ohiggins,150,16
+5/7/2020,Maule,181,11
+5/7/2020,Nuble,110,1
+5/7/2020,Biobio,647,28
+5/7/2020,Araucania,391,18
+5/7/2020,Los Rios,127,1
+5/7/2020,Los Lagos,849,3
+5/7/2020,Aysen,32,0
+5/7/2020,Magallanes,58,31
+5/8/2020,Arica y Parinacota,127,10
+5/8/2020,Tarapaca,184,26
+5/8/2020,Antofagasta,215,24
+5/8/2020,Atacama,111,29
+5/8/2020,Coquimbo,66,18
+5/8/2020,Valparaiso,588,50
+5/8/2020,Metropolitana,8345,978
+5/8/2020,Ohiggins,131,15
+5/8/2020,Maule,238,7
+5/8/2020,Nuble,156,7
+5/8/2020,Biobio,847,40
+5/8/2020,Araucania,174,15
+5/8/2020,Los Rios,135,3
+5/8/2020,Los Lagos,537,11
+5/8/2020,Aysen,35,0
+5/8/2020,Magallanes,54,14
+5/9/2020,Arica y Parinacota,74,3
+5/9/2020,Tarapaca,185,35
+5/9/2020,Antofagasta,419,31
+5/9/2020,Atacama,101,7
+5/9/2020,Coquimbo,370,6
+5/9/2020,Valparaiso,489,55
+5/9/2020,Metropolitana,7691,1396
+5/9/2020,Ohiggins,269,13
+5/9/2020,Maule,446,9
+5/9/2020,Nuble,196,11
+5/9/2020,Biobio,715,17
+5/9/2020,Araucania,372,36
+5/9/2020,Los Rios,147,0
+5/9/2020,Los Lagos,1146,16
+5/9/2020,Aysen,102,0
+5/9/2020,Magallanes,58,12
+5/10/2020,Arica y Parinacota,70,11
+5/10/2020,Tarapaca,275,27
+5/10/2020,Antofagasta,245,36
+5/10/2020,Atacama,133,9
+5/10/2020,Coquimbo,95,5
+5/10/2020,Valparaiso,552,37
+5/10/2020,Metropolitana,8498,964
+5/10/2020,Ohiggins,183,21
+5/10/2020,Maule,333,13
+5/10/2020,Nuble,142,2
+5/10/2020,Biobio,386,33
+5/10/2020,Araucania,576,12
+5/10/2020,Los Rios,64,2
+5/10/2020,Los Lagos,1670,17
+5/10/2020,Aysen,93,0
+5/10/2020,Magallanes,58,8
+5/11/2020,Arica y Parinacota,83,0
+5/11/2020,Tarapaca,0,31
+5/11/2020,Antofagasta,285,95
+5/11/2020,Atacama,86,1
+5/11/2020,Coquimbo,48,8
+5/11/2020,Valparaiso,518,59
+5/11/2020,Metropolitana,6424,1392
+5/11/2020,Ohiggins,0,8
+5/11/2020,Maule,245,12
+5/11/2020,Nuble,180,12
+5/11/2020,Biobio,522,10
+5/11/2020,Araucania,90,16
+5/11/2020,Los Rios,105,3
+5/11/2020,Los Lagos,644,2
+5/11/2020,Aysen,0,0
+5/11/2020,Magallanes,53,9
+5/12/2020,Arica y Parinacota,90,8
+5/12/2020,Tarapaca,6,37
+5/12/2020,Antofagasta,94,107
+5/12/2020,Atacama,0,5
+5/12/2020,Coquimbo,0,5
+5/12/2020,Valparaiso,298,94
+5/12/2020,Metropolitana,7173,2256
+5/12/2020,Ohiggins,164,24
+5/12/2020,Maule,329,19
+5/12/2020,Nuble,0,13
+5/12/2020,Biobio,1342,33
+5/12/2020,Araucania,437,13
+5/12/2020,Los Rios,108,1
+5/12/2020,Los Lagos,194,34
+5/12/2020,Aysen,20,0
+5/12/2020,Magallanes,155,11
+5/13/2020,Arica y Parinacota,140,4
+5/13/2020,Tarapaca,274,67
+5/13/2020,Antofagasta,283,61
+5/13/2020,Atacama,4,1
+5/13/2020,Coquimbo,80,12
+5/13/2020,Valparaiso,301,90
+5/13/2020,Metropolitana,7563,2251
+5/13/2020,Ohiggins,204,47
+5/13/2020,Maule,234,34
+5/13/2020,Nuble,226,10
+5/13/2020,Biobio,433,20
+5/13/2020,Araucania,480,41
+5/13/2020,Los Rios,107,2
+5/13/2020,Los Lagos,933,5
+5/13/2020,Aysen,110,0
+5/13/2020,Magallanes,130,14
+5/14/2020,Arica y Parinacota,107,5
+5/14/2020,Tarapaca,346,97
+5/14/2020,Antofagasta,416,54
+5/14/2020,Atacama,197,3
+5/14/2020,Coquimbo,253,15
+5/14/2020,Valparaiso,1097,99
+5/14/2020,Metropolitana,9948,2060
+5/14/2020,Ohiggins,148,28
+5/14/2020,Maule,241,21
+5/14/2020,Nuble,183,36
+5/14/2020,Biobio,1530,41
+5/14/2020,Araucania,452,28
+5/14/2020,Los Rios,218,5
+5/14/2020,Los Lagos,921,8
+5/14/2020,Aysen,38,0
+5/14/2020,Magallanes,0,2
+5/15/2020,Arica y Parinacota,0,9
+5/15/2020,Tarapaca,268,66
+5/15/2020,Antofagasta,5,98
+5/15/2020,Atacama,311,3
+5/15/2020,Coquimbo,92,7
+5/15/2020,Valparaiso,213,53
+5/15/2020,Metropolitana,6555,1518
+5/15/2020,Ohiggins,0,6
+5/15/2020,Maule,0,11
+5/15/2020,Nuble,0,36
+5/15/2020,Biobio,70,38
+5/15/2020,Araucania,417,23
+5/15/2020,Los Rios,81,0
+5/15/2020,Los Lagos,718,3
+5/15/2020,Aysen,32,0
+5/15/2020,Magallanes,51,15
+5/16/2020,Arica y Parinacota,106,1
+5/16/2020,Tarapaca,374,130
+5/16/2020,Antofagasta,299,76
+5/16/2020,Atacama,66,3
+5/16/2020,Coquimbo,180,7
+5/16/2020,Valparaiso,839,109
+5/16/2020,Metropolitana,7371,1890
+5/16/2020,Ohiggins,168,37
+5/16/2020,Maule,371,22
+5/16/2020,Nuble,345,21
+5/16/2020,Biobio,1544,25
+5/16/2020,Araucania,410,19
+5/16/2020,Los Rios,29,1
+5/16/2020,Los Lagos,675,3
+5/16/2020,Aysen,66,0
+5/16/2020,Magallanes,328,9
+5/17/2020,Arica y Parinacota,135,20
+5/17/2020,Tarapaca,284,81
+5/17/2020,Antofagasta,345,84
+5/17/2020,Atacama,143,8
+5/17/2020,Coquimbo,205,18
+5/17/2020,Valparaiso,545,79
+5/17/2020,Metropolitana,11992,1767
+5/17/2020,Ohiggins,349,52
+5/17/2020,Maule,270,29
+5/17/2020,Nuble,834,43
+5/17/2020,Biobio,1009,45
+5/17/2020,Araucania,211,33
+5/17/2020,Los Rios,77,4
+5/17/2020,Los Lagos,779,5
+5/17/2020,Aysen,14,0
+5/17/2020,Magallanes,323,10
+5/18/2020,Arica y Parinacota,78,24
+5/18/2020,Tarapaca,269,53
+5/18/2020,Antofagasta,290,59
+5/18/2020,Atacama,98,1
+5/18/2020,Coquimbo,308,27
+5/18/2020,Valparaiso,529,86
+5/18/2020,Metropolitana,10754,3140
+5/18/2020,Ohiggins,143,24
+5/18/2020,Maule,892,38
+5/18/2020,Nuble,0,3
+5/18/2020,Biobio,1119,28
+5/18/2020,Araucania,642,27
+5/18/2020,Los Rios,264,5
+5/18/2020,Los Lagos,705,4
+5/18/2020,Aysen,0,0
+5/18/2020,Magallanes,98,1
+5/19/2020,Arica y Parinacota,93,2
+5/19/2020,Tarapaca,121,30
+5/19/2020,Antofagasta,386,83
+5/19/2020,Atacama,86,5
+5/19/2020,Coquimbo,128,24
+5/19/2020,Valparaiso,616,131
+5/19/2020,Metropolitana,7285,3588
+5/19/2020,Ohiggins,143,13
+5/19/2020,Maule,477,40
+5/19/2020,Nuble,657,23
+5/19/2020,Biobio,1043,52
+5/19/2020,Araucania,406,14
+5/19/2020,Los Rios,50,18
+5/19/2020,Los Lagos,577,10
+5/19/2020,Aysen,68,0
+5/19/2020,Magallanes,333,5
+5/20/2020,Arica y Parinacota,88,29
+5/20/2020,Tarapaca,361,107
+5/20/2020,Antofagasta,396,47
+5/20/2020,Atacama,133,5
+5/20/2020,Coquimbo,167,5
+5/20/2020,Valparaiso,631,117
+5/20/2020,Metropolitana,11345,3462
+5/20/2020,Ohiggins,102,10
+5/20/2020,Maule,0,51
+5/20/2020,Nuble,0,9
+5/20/2020,Biobio,1048,39
+5/20/2020,Araucania,373,35
+5/20/2020,Los Rios,219,11
+5/20/2020,Los Lagos,1058,27
+5/20/2020,Aysen,50,0
+5/20/2020,Magallanes,363,10
+5/21/2020,Arica y Parinacota,182,18
+5/21/2020,Tarapaca,342,147
+5/21/2020,Antofagasta,259,63
+5/21/2020,Atacama,154,7
+5/21/2020,Coquimbo,202,13
+5/21/2020,Valparaiso,358,133
+5/21/2020,Metropolitana,10626,3709
+5/21/2020,Ohiggins,115,27
+5/21/2020,Maule,533,51
+5/21/2020,Nuble,372,5
+5/21/2020,Biobio,1135,48
+5/21/2020,Araucania,513,22
+5/21/2020,Los Rios,161,4
+5/21/2020,Los Lagos,928,24
+5/21/2020,Aysen,45,0
+5/21/2020,Magallanes,165,5
+5/22/2020,Arica y Parinacota,157,11
+5/22/2020,Tarapaca,347,78
+5/22/2020,Antofagasta,344,56
+5/22/2020,Atacama,133,7
+5/22/2020,Coquimbo,221,13
+5/22/2020,Valparaiso,975,96
+5/22/2020,Metropolitana,9725,3049
+5/22/2020,Ohiggins,230,26
+5/22/2020,Maule,332,41
+5/22/2020,Nuble,283,52
+5/22/2020,Biobio,1157,43
+5/22/2020,Araucania,382,37
+5/22/2020,Los Rios,170,12
+5/22/2020,Los Lagos,661,10
+5/22/2020,Aysen,6,0
+5/22/2020,Magallanes,116,5
+5/23/2020,Arica y Parinacota,76,16
+5/23/2020,Tarapaca,335,93
+5/23/2020,Antofagasta,224,50
+5/23/2020,Atacama,99,0
+5/23/2020,Coquimbo,227,29
+5/23/2020,Valparaiso,547,114
+5/23/2020,Metropolitana,8696,3145
+5/23/2020,Ohiggins,0,36
+5/23/2020,Maule,385,69
+5/23/2020,Nuble,0,25
+5/23/2020,Biobio,1202,60
+5/23/2020,Araucania,591,34
+5/23/2020,Los Rios,206,16
+5/23/2020,Los Lagos,1768,9
+5/23/2020,Aysen,44,0
+5/23/2020,Magallanes,26,13
+5/24/2020,Arica y Parinacota,160,15
+5/24/2020,Tarapaca,365,66
+5/24/2020,Antofagasta,347,68
+5/24/2020,Atacama,83,3
+5/24/2020,Coquimbo,210,15
+5/24/2020,Valparaiso,575,75
+5/24/2020,Metropolitana,10330,4386
+5/24/2020,Ohiggins,233,34
+5/24/2020,Maule,286,61
+5/24/2020,Nuble,573,37
+5/24/2020,Biobio,1598,44
+5/24/2020,Araucania,199,49
+5/24/2020,Los Rios,157,7
+5/24/2020,Los Lagos,969,27
+5/24/2020,Aysen,13,2
+5/24/2020,Magallanes,185,6
+5/25/2020,Arica y Parinacota,159,9
+5/25/2020,Tarapaca,586,107
+5/25/2020,Antofagasta,218,48
+5/25/2020,Atacama,175,3
+5/25/2020,Coquimbo,214,46
+5/25/2020,Valparaiso,599,150
+5/25/2020,Metropolitana,8874,3355
+5/25/2020,Ohiggins,112,66
+5/25/2020,Maule,434,60
+5/25/2020,Nuble,129,8
+5/25/2020,Biobio,714,44
+5/25/2020,Araucania,353,26
+5/25/2020,Los Rios,135,7
+5/25/2020,Los Lagos,334,18
+5/25/2020,Aysen,0,2
+5/25/2020,Magallanes,48,15
+5/26/2020,Arica y Parinacota,81,19
+5/26/2020,Tarapaca,314,74
+5/26/2020,Antofagasta,165,74
+5/26/2020,Atacama,261,9
+5/26/2020,Coquimbo,138,71
+5/26/2020,Valparaiso,694,121
+5/26/2020,Metropolitana,8632,3726
+5/26/2020,Ohiggins,0,37
+5/26/2020,Maule,291,53
+5/26/2020,Nuble,281,27
+5/26/2020,Biobio,1362,63
+5/26/2020,Araucania,471,33
+5/26/2020,Los Rios,147,5
+5/26/2020,Los Lagos,416,10
+5/26/2020,Aysen,103,0
+5/26/2020,Magallanes,42,6
+5/27/2020,Arica y Parinacota,172,21
+5/27/2020,Tarapaca,360,146
+5/27/2020,Antofagasta,206,111
+5/27/2020,Atacama,178,5
+5/27/2020,Coquimbo,222,27
+5/27/2020,Valparaiso,898,154
+5/27/2020,Metropolitana,9000,3904
+5/27/2020,Ohiggins,208,14
+5/27/2020,Maule,547,54
+5/27/2020,Nuble,323,31
+5/27/2020,Biobio,1614,112
+5/27/2020,Araucania,528,38
+5/27/2020,Los Rios,206,9
+5/27/2020,Los Lagos,901,23
+5/27/2020,Aysen,113,2
+5/27/2020,Magallanes,174,3
+5/28/2020,Arica y Parinacota,90,20
+5/28/2020,Tarapaca,470,136
+5/28/2020,Antofagasta,343,70
+5/28/2020,Atacama,155,5
+5/28/2020,Coquimbo,176,55
+5/28/2020,Valparaiso,536,112
+5/28/2020,Metropolitana,9981,2995
+5/28/2020,Ohiggins,3,40
+5/28/2020,Maule,348,60
+5/28/2020,Nuble,336,37
+5/28/2020,Biobio,1822,101
+5/28/2020,Araucania,514,35
+5/28/2020,Los Rios,223,12
+5/28/2020,Los Lagos,939,8
+5/28/2020,Aysen,51,2
+5/28/2020,Magallanes,346,7
+5/29/2020,Arica y Parinacota,243,6
+5/29/2020,Tarapaca,565,157
+5/29/2020,Antofagasta,501,111
+5/29/2020,Atacama,83,8
+5/29/2020,Coquimbo,248,60
+5/29/2020,Valparaiso,871,195
+5/29/2020,Metropolitana,9996,3341
+5/29/2020,Ohiggins,193,11
+5/29/2020,Maule,439,76
+5/29/2020,Nuble,0,14
+5/29/2020,Biobio,1566,110
+5/29/2020,Araucania,673,71
+5/29/2020,Los Rios,198,15
+5/29/2020,Los Lagos,1013,38
+5/29/2020,Aysen,89,0
+5/29/2020,Magallanes,136,7
+5/30/2020,Arica y Parinacota,137,31
+5/30/2020,Tarapaca,472,111
+5/30/2020,Antofagasta,379,81
+5/30/2020,Atacama,126,3
+5/30/2020,Coquimbo,359,31
+5/30/2020,Valparaiso,714,130
+5/30/2020,Metropolitana,11821,4253
+5/30/2020,Ohiggins,174,29
+5/30/2020,Maule,471,41
+5/30/2020,Nuble,345,1
+5/30/2020,Biobio,1500,91
+5/30/2020,Araucania,473,11
+5/30/2020,Los Rios,188,11
+5/30/2020,Los Lagos,1711,3
+5/30/2020,Aysen,71,1
+5/30/2020,Magallanes,179,2
+5/31/2020,Arica y Parinacota,0,17
+5/31/2020,Tarapaca,445,165
+5/31/2020,Antofagasta,247,75
+5/31/2020,Atacama,289,14
+5/31/2020,Coquimbo,177,40
+5/31/2020,Valparaiso,587,181
+5/31/2020,Metropolitana,11285,4735
+5/31/2020,Ohiggins,196,28
+5/31/2020,Maule,0,44
+5/31/2020,Nuble,639,33
+5/31/2020,Biobio,1295,91
+5/31/2020,Araucania,491,40
+5/31/2020,Los Rios,114,7
+5/31/2020,Los Lagos,994,0
+5/31/2020,Aysen,24,0
+5/31/2020,Magallanes,0,1057
+6/9/2020,Arica y Parinacota,92,16
+6/9/2020,Tarapaca,329,100
+6/9/2020,Antofagasta,543,157
+6/9/2020,Atacama,186,17
+6/9/2020,Coquimbo,363,81
+6/9/2020,Valparaiso,795,223
+6/9/2020,Metropolitana,7792,4620
+6/9/2020,Ohiggins,243,125
+6/9/2020,Maule,626,151
+6/9/2020,Nuble,348,32
+6/9/2020,Biobio,1559,152
+6/9/2020,Araucania,570,43
+6/9/2020,Los Rios,148,6
+6/9/2020,Los Lagos,837,13
+6/9/2020,Aysen,30,0
+6/9/2020,Magallanes,16,1
+6/10/2020,Arica y Parinacota,274,37
+6/10/2020,Tarapaca,344,105
+6/10/2020,Antofagasta,436,194
+6/10/2020,Atacama,139,24
+6/10/2020,Coquimbo,307,89
+6/10/2020,Valparaiso,986,251
+6/10/2020,Metropolitana,12227,4389
+6/10/2020,Ohiggins,275,110
+6/10/2020,Maule,673,120
+6/10/2020,Nuble,526,57
+6/10/2020,Biobio,1596,128
+6/10/2020,Araucania,551,47
+6/10/2020,Los Rios,192,10
+6/10/2020,Los Lagos,1227,21
+6/10/2020,Aysen,119,1
+6/10/2020,Magallanes,104,13
+6/11/2020,Arica y Parinacota,164,44
+6/11/2020,Tarapaca,495,127
+6/11/2020,Antofagasta,526,132
+6/11/2020,Atacama,218,24
+6/11/2020,Coquimbo,307,93
+6/11/2020,Valparaiso,939,306
+6/11/2020,Metropolitana,11112,5559
+6/11/2020,Ohiggins,160,77
+6/11/2020,Maule,566,131
+6/11/2020,Nuble,371,45
+6/11/2020,Biobio,1764,129
+6/11/2020,Araucania,694,44
+6/11/2020,Los Rios,242,17
+6/11/2020,Los Lagos,970,21
+6/11/2020,Aysen,65,0
+6/11/2020,Magallanes,140,5
+6/12/2020,Arica y Parinacota,189,51
+6/12/2020,Tarapaca,395,181
+6/12/2020,Antofagasta,535,153
+6/12/2020,Atacama,81,23
+6/12/2020,Coquimbo,266,74
+6/12/2020,Valparaiso,978,356
+6/12/2020,Metropolitana,12281,5057
+6/12/2020,Ohiggins,396,159
+6/12/2020,Maule,699,153
+6/12/2020,Nuble,248,19
+6/12/2020,Biobio,1774,166
+6/12/2020,Araucania,678,66
+6/12/2020,Los Rios,300,8
+6/12/2020,Los Lagos,1152,25
+6/12/2020,Aysen,109,2
+6/12/2020,Magallanes,142,16
+6/13/2020,Arica y Parinacota,241,47
+6/13/2020,Tarapaca,482,141
+6/13/2020,Antofagasta,654,248
+6/13/2020,Atacama,132,12
+6/13/2020,Coquimbo,345,44
+6/13/2020,Valparaiso,967,231
+6/13/2020,Metropolitana,12267,5647
+6/13/2020,Ohiggins,167,139
+6/13/2020,Maule,677,153
+6/13/2020,Nuble,245,41
+6/13/2020,Biobio,1535,132
+6/13/2020,Araucania,722,30
+6/13/2020,Los Rios,219,10
+6/13/2020,Los Lagos,1316,33
+6/13/2020,Aysen,46,0
+6/13/2020,Magallanes,136,30
+6/14/2020,Arica y Parinacota,237,30
+6/14/2020,Tarapaca,360,113
+6/14/2020,Antofagasta,364,270
+6/14/2020,Atacama,415,36
+6/14/2020,Coquimbo,314,120
+6/14/2020,Valparaiso,840,254
+6/14/2020,Metropolitana,11163,3882
+6/14/2020,Ohiggins,361,85
+6/14/2020,Maule,454,94
+6/14/2020,Nuble,420,54
+6/14/2020,Biobio,1553,59
+6/14/2020,Araucania,859,53
+6/14/2020,Los Rios,258,32
+6/14/2020,Los Lagos,1004,27
+6/14/2020,Aysen,80,2
+6/14/2020,Magallanes,126,32
+6/15/2020,Arica y Parinacota,244,17
+6/15/2020,Tarapaca,328,107
+6/15/2020,Antofagasta,681,87
+6/15/2020,Atacama,152,18
+6/15/2020,Coquimbo,338,44
+6/15/2020,Valparaiso,853,250
+6/15/2020,Metropolitana,8560,4022
+6/15/2020,Ohiggins,469,209
+6/15/2020,Maule,516,98
+6/15/2020,Nuble,448,20
+6/15/2020,Biobio,981,55
+6/15/2020,Araucania,452,47
+6/15/2020,Los Rios,149,4
+6/15/2020,Los Lagos,263,10
+6/15/2020,Aysen,0,0
+6/15/2020,Magallanes,141,25
