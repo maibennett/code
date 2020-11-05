@@ -1,12 +1,10 @@
-####################################################
-################## READ ME #########################
-####################################################
+# README
 
-# 1. Summary
+## 1. Summary
 
 This folder contains the replication files and data for the simulation study in the paper "Building Representative Matched Samples with Multi-valued Treatments in Large Observational Studies: Analysis of the Impact of an Earthquake on Educational Attainment" (Bennett, Vielma, and Zubizarreta, 2018).
 
-# 2. Folder Simulation Study
+## 2. Folder Simulation Study
 
 Contains the code and data used for the performance assessment with simulated data. The following data sets are available:
 
@@ -19,7 +17,7 @@ Contains the code and data used for the performance assessment with simulated da
 	3. data_template*.Rdata: Template of size 1,000 to 10,000. Generated from 01_create_data_diff_sizes.R script.
 
 
-# 3. How to run the code
+## 3. How to run the code
 
 For replication of the simulation study, please follow these instructions:
 
