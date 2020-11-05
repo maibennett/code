@@ -2,7 +2,7 @@
 
 ## 1. Summary
 
-This folder contains the replication files and data for the simulation study in the paper "Building Representative Matched Samples with Multi-valued Treatments in Large Observational Studies: Analysis of the Impact of an Earthquake on Educational Attainment" (Bennett, Vielma, and Zubizarreta, 2018).
+This folder contains the replication files and data for the simulation study in the paper "Building Representative Matched Samples with Multi-valued Treatments in Large Observational Studies" (Bennett, Vielma, and Zubizarreta, 2020).
 
 ## 2. Folder Simulation Study
 
