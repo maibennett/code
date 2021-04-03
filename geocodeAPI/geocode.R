@@ -28,7 +28,7 @@ data <- read.csv(paste0(dir_data,"data/", infile, '.csv'), stringsAsFactors = FA
 
 #Generate the complete address for the data(separated each space by a + sign) --> 
 #In this case, full addresses were separated in different variables
-data$Address = paste0(str_replace(data$STD_ADDR," ","+"),",+",data$STD_CITY,",+",data$STD_ST,"+",data$STD_ZIP5)
+data$Address = paste0(str_replace_all(data$STD_ADDR," ","+"),",+",data$STD_CITY,",+",data$STD_ST,"+",data$STD_ZIP5)
 
 #Generate the complete address for the data (as one would type it)
 data$Address2 = paste0(data$STD_ADDR,", ",data$STD_CITY,", ",data$STD_ST," ",data$STD_ZIP5)
